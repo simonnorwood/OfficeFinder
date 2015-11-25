@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.instructions{
+	text-align: center;
+	/*background-color: #43cee6;*/
+}
+.text{
+	text-align: center;
+	padding-top: 10px;
+}
+#star{
+	position: right;
+}

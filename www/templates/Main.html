@@ -1,0 +1,27 @@
+<ion-view view-title="GE Office Finder">
+	<ion-nav-buttons side="right">
+		<button class="button icon ion-android-star" ui-sref="Favourites">
+		</button>
+	</ion-nav-buttons>
+	<ion-content>
+		<label class="item item-input">
+			<i class="icon ion-search placeholder-icon"></i>
+			<input type="search" id="search-criteria" placeholder="City, Country or Office Name" ng-model="query[queryBy]">
+		</label>
+		<ion-list ng-if="query[queryBy]">
+			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal()">
+				
+				<h3 id="LocName">{{office.LocationName}}</h3>
+				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
+				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="liked=!liked; $event.stopPropagation();"></i>
+			</ion-item>
+		</ion-list>
+		<div class="text">
+			<h3 class="title">Last Viewed</h3>
+			<div class="instructions">
+				<p>Last viewed offices will be displayed here.</p>
+			</div>
+		</div>
+	</ion-content>
+	
+</ion-view>
