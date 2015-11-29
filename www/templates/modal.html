@@ -6,7 +6,7 @@
 </ion-header-bar>
 <ion-content>
 Address
-<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="liked=!liked"></i>
+<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-controller="ToggleFav" ng-click="togglefav($index);"></i>
 <br />
 Map
 </ion-content>

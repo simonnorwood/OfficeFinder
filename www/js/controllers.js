@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ['ionic.utils'])
 
 // regions controller for testing
 .controller('regionCTRL', function($scope){
@@ -7,10 +7,10 @@ angular.module('starter.controllers', [])
 
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http) {
-
+// Search function
   $scope.query = {}
   $scope.queryBy = '$'
-
+// gets the data from offices.json
  $http.get('js/offices.json').then(function(resp) {
     console.log('Success', resp);
     $scope.offices = resp.data.office;
@@ -21,7 +21,7 @@ angular.module('starter.controllers', [])
 
 
 })
-
+// modal controller that holds the enlarged office view and map view
 .controller('ModalCtrl', function($scope, $ionicModal) {
   $ionicModal.fromTemplateUrl('templates/modal.html', {
     scope: $scope,
@@ -47,4 +47,26 @@ angular.module('starter.controllers', [])
   $scope.$on('modal.removed', function() {
     // Execute action
   });
+})
+
+// pass $index from offices.json array into new array then stringify the new array
+.controller('ToggleFav', function($scope, $window, $localstorage){
+  
+$scope.togglefav = function(index, liked) {
+var fav = [];
+var flag = liked;
+console.log(flag);
+fav.push(index);
+console.log(fav);
+$window.localStorage['fav'] = JSON.stringify(index);
+$window.localStorage['flag'] = JSON.stringify(flag);
+console.log($window.localStorage);
+console.log(fav);
+
+}
+})
+
+.controller('FavAdd', function($scope, $window, $localstorage){
+var fav = JSON.parse($window.localStorage['fav'] || '[]') 
+console.log(fav);
 });

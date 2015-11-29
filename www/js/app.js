@@ -1,4 +1,4 @@
-angular.module('starter', ['ionic', 'starter.controllers'])
+angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -13,6 +13,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
   });
 })
 
+//states for each page
 .config(['$stateProvider','$urlRouterProvider',function($stateProvider, $urlRouterProvider){
   $urlRouterProvider.otherwise('/Main');
 
@@ -26,7 +27,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
 
   .state('Favourites',{
     url: '/Favourites',
-    templateUrl: 'templates/Favourites.html'
+    templateUrl: 'templates/Favourites.html',
+    controller: 'FavAdd'
   })
 
   .state('modal',{
