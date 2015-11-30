@@ -6,7 +6,7 @@ angular.module('starter.controllers', ['ionic.utils'])
 })
 
 // api call to offices.json 
-.controller('APICtrl', function($scope, $http) {
+.controller('APICtrl', function($scope, $http, $localstorage) {
 // Search function
   $scope.query = {}
   $scope.queryBy = '$'
@@ -14,6 +14,7 @@ angular.module('starter.controllers', ['ionic.utils'])
  $http.get('js/offices.json').then(function(resp) {
     console.log('Success', resp);
     $scope.offices = resp.data.office;
+    $window.localstorage(resp.data.office);
   }, function(err) {
     console.error('ERR', err);
     // err.status will contain the status code
@@ -52,20 +53,24 @@ angular.module('starter.controllers', ['ionic.utils'])
 // pass $index from offices.json array into new array then stringify the new array
 .controller('ToggleFav', function($scope, $window, $localstorage){
 var fav = [];
-$scope.togglefav = function(index, liked) {
-var flag = liked;
-console.log(flag);
-fav.push(index);
-console.log(fav);
-$window.localStorage['fav'] = JSON.stringify(index);
-$window.localStorage['flag'] = JSON.stringify(flag);
-console.log($window.localStorage);
-return fav;
-}
+  $scope.togglefav = function(index, liked) {
+    var flag = liked;
+    if(flag==true){
+    fav.push(index);
+    console.log(fav);
+    $window.localstorage['fav'] = JSON.stringify(index);
+    $window.localstorage['flag'] = JSON.stringify(flag);
+    console.log($window.localstorage);
+  return fav;
+  }
+  else if(flag==false){
+    alert("already added");
+  }
+  }
 })
 
 .controller('FavAdd', function($scope, $window, $localstorage, $http){
-var fav = JSON.parse($window.localStorage['fav'] || '[]') 
-console.log(fav);
-console.log($window.localStorage);
+  var fav = JSON.parse($window.localstorage['fav'] || '[]')
+  console.log(fav);
+  console.log($window.localstorage);
 });
