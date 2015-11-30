@@ -51,9 +51,8 @@ angular.module('starter.controllers', ['ionic.utils'])
 
 // pass $index from offices.json array into new array then stringify the new array
 .controller('ToggleFav', function($scope, $window, $localstorage){
-  
-$scope.togglefav = function(index, liked) {
 var fav = [];
+$scope.togglefav = function(index, liked) {
 var flag = liked;
 console.log(flag);
 fav.push(index);
@@ -61,12 +60,12 @@ console.log(fav);
 $window.localStorage['fav'] = JSON.stringify(index);
 $window.localStorage['flag'] = JSON.stringify(flag);
 console.log($window.localStorage);
-console.log(fav);
-
+return fav;
 }
 })
 
-.controller('FavAdd', function($scope, $window, $localstorage){
+.controller('FavAdd', function($scope, $window, $localstorage, $http){
 var fav = JSON.parse($window.localStorage['fav'] || '[]') 
 console.log(fav);
+console.log($window.localStorage);
 });
