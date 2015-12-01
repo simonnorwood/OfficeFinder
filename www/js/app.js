@@ -34,7 +34,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
   .state('modal',{
     url:'/modal',
         templateUrl: "templates/modal.html",
-        controller: 'APICtrl'
+        controller: 'FAVCtrl'
   })
   
 }])

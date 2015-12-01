@@ -19,19 +19,22 @@ angular.module('starter.controllers', ['ionic.utils'])
     // err.status will contain the status code
   });
 
-$scope.favourties= JSON.parse($window.localStorage['fav']);
+//retrieves localstorage array
+//$scope.favourties= JSON.parse($window.localStorage['fav']);
 //$scope.favourites = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
+//checks if the array if is in localstorage, if it isnt then it adds an array, if it is it parses the array
+var fav = [];
 if($window.localStorage['fav']){
     $scope.favorites = JSON.parse($window.localStorage['fav']);
 } else {
     $scope.favorites = [];
 }
-
+console.log($window.localStorage);
 $scope.togglefav = function(index) {
     fav.push(index);
     console.log(fav);
     $window.localStorage['fav'] = JSON.stringify(fav);
-}
+};
 })
 
 // modal controller that holds the enlarged office view and map view
@@ -61,28 +64,3 @@ $scope.togglefav = function(index) {
     // Execute action
   });
 })
-
-// pass $index from offices.json array into new array then stringify the new array
-/*.controller('ToggleFav', function($scope, $window, $localstorage){
-var fav = [];
-  $scope.togglefav = function(index, liked) {
-    var flag = liked;
-  if(flag==true){
-    fav.push(index);
-    console.log(fav);
-    $window.localstorage['fav'] = JSON.stringify(fav);
-    //$window.localstorage['flag'] = JSON.stringify(flag);
-    console.log($window.localstorage);
-  return fav;
-  }
-  else{
-    alert("already added");
-  }
-  }
-})*/
-
-/*.controller('FavAdd', function($scope, $window, $localstorage, $http){
-  var fav = JSON.parse($window.localstorage['fav'] || '[]')
-  console.log(fav);
-  console.log($window.localstorage);
-});*/
