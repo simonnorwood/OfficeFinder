@@ -12,7 +12,7 @@
 		</label>
 		<!-- Search function ends here -->
 		<!-- Main content starts here -->
-		<!-- ng-show hides the list of offices and displays them when the user starts searching -->
+		<!-- ng-show hides the list of offices and displays them when the user starts searching  -->
 		<ion-list ng-show="query[queryBy]">
 		<!-- Creates each item through collection-repeat and is filtered by the query linked to the search field -->
 		<!-- ng-click opens the modal that will have the enlarged office address and the map of the office -->
@@ -22,7 +22,7 @@
 				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 
 				<!-- Creates the favourite icon on each list item, when the star is clicked the togglefav function is run -->
-				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav($index); $event.stopPropagation();"></i>
+				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 			</ion-item>
 		</ion-list>
 		<!-- Placeholder for the last viewed offices(25th Nov) -->
@@ -32,6 +32,7 @@
 			<div class="instructions">
 				<p>Last viewed offices will be displayed here.</p>
 			</div>
+			<button ng-click="clear();">CLear LS</button>
 	</ion-list>
 	
 	</ion-content>

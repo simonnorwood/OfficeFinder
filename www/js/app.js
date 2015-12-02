@@ -28,13 +28,13 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
   .state('Favourites',{
     url: '/Favourites',
     templateUrl: 'templates/Favourites.html',
-    controller: 'FavAdd'
+    controller: 'FavCtrl'
   })
 
   .state('modal',{
     url:'/modal',
         templateUrl: "templates/modal.html",
-        controller: 'FAVCtrl'
+        controller: 'APICtrl'
   })
   
 }])
