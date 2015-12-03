@@ -76,6 +76,19 @@ var c = $window.localStorage['last'];
     }
 }
 
+var e = JSON.parse($window.localStorage['last']);
+console.log(e);
+
+$scope.ifinfav = function(f){
+  if (e.indexOf(f) !== -1){
+    return true;
+  }
+  else if(e.indexOf(f) == -1)
+  {
+    return false;
+  }
+};
+
 })
 
 // modal controller that holds the enlarged office view and map view
@@ -105,35 +118,22 @@ var c = $window.localStorage['last'];
     // Execute action
   });
 
-  $scope.initmap = function() {
-  var myLatLng = {lat: -25.363, lng: 131.044};
-
-  // Create a map object and specify the DOM element for display.
-  var map = new google.maps.Map(document.getElementById('map'), {
-    center: myLatLng,
-    scrollwheel: false,
-    zoom: 4
-  });
-}
 })
 
 .controller('FavCtrl', function($scope, $window, $http, $document){
 
-var flag = false;
+
 var b = JSON.parse($window.localStorage['fav']);
 console.log(b);
 
 $scope.ifinfav = function(d){
   if (b.indexOf(d) !== -1){
-    flag = true;
-    //console.log(flag);
-    return flag;
+    return true;
   }
   else if(b.indexOf(d) == -1)
   {
-    flag = false;
-    return flag;
+    return false;
   }
-}
+};
 
 })

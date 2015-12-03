@@ -1,7 +1,7 @@
 <ion-view view-title="Favourites">
 	<ion-content ng-controller="APICtrl">
 		<ion-list>
-		<ion-item ng-class="ifinfav(office.id)" id="fav" class="item-icon-right" collection-repeat="office in offices" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
+		<ion-item ng-show="ifinfav(office.id)" id="fav" class="item-icon-right" collection-repeat="office in offices" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
 			<p>{{office.id}}</p>
 			<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 			<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
