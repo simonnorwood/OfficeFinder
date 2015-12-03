@@ -1,5 +1,10 @@
 angular.module('starter.controllers', ['ionic.utils'])
 
+// regions controller for testing
+.controller('regionCTRL', function($scope){
+	console.log("regions");
+})
+
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window) {
 // Search function
@@ -16,30 +21,32 @@ angular.module('starter.controllers', ['ionic.utils'])
 
 //retrieves localstorage array
 //$scope.favourties= JSON.parse($window.localStorage['fav']);
-//$scope.fav = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
+//$scope.favourites = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
 //checks if the array if is in localstorage, if it isnt then it adds an array, if it is it parses the array
-//fav is currently undefined, should show empty array, fav array is being corrupt somewhere?
+var fav = JSON.parse($window.localStorage['fav']);
 if($window.localStorage['fav']){
-    var fav = JSON.parse($window.localStorage['fav']);
+    $scope.favorites = JSON.parse($window.localStorage['fav']);
 } else {
-    var fav = [];
-};
-console.log(fav);
+    $scope.favorites = [];
+}
+
 $scope.togglefav = function(id) {
-//checks if the id being passed in is already in the array
-//if it isn't it will add it to the array then stringify it
-  if (fav.indexOf(id) == -1){
+  var a = JSON.parse($window.localStorage['fav']);
+  console.log(a);
+  if (a.indexOf(id) == -1){
     fav.push(id);
     console.log(fav);
     $window.localStorage['fav'] = JSON.stringify(fav);
     }
-//if it is then it will remove it from the array and stringify the array
     else{
-      fav.splice(fav.indexOf(id), 1);
-      $window.localStorage['fav'] = JSON.stringify(fav);
-      console.log(fav);
+      a.splice(id, 1);
+      $window.localStorage['fav'] = JSON.stringify(a);
     }
 };
+
+$scope.clear = function(){
+  $localStorage.$reset();
+}
 })
 
 // modal controller that holds the enlarged office view and map view
@@ -69,7 +76,6 @@ $scope.togglefav = function(id) {
     // Execute action
   });
 
-//google maps API used to display a map view fo the office
   $scope.initmap = function() {
   var myLatLng = {lat: -25.363, lng: 131.044};
 
@@ -82,19 +88,17 @@ $scope.togglefav = function(id) {
 }
 })
 
-//Favourites controller used to diplay the favourites
-//need help with this
 .controller('FavCtrl', function($scope, $window, $http){
-
+  
 var b = JSON.parse($window.localStorage['fav']);
 console.log(b);
    $http.get('js/offices.json').then(function(resp) {
     console.log('Success', resp);
-    var offices = resp.data.office;  
+    $scope.offices = resp.data.office;  
   }, function(err) {
     console.error('ERR', err);
     // err.status will contain the status code
   });
-  $scope.query = {}
-  $scope.queryBy = 'b'
+  $scope.query = []
+  $scope.queryBy = b
 })
