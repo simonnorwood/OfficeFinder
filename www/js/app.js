@@ -19,18 +19,21 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
   $stateProvider
 
+//main page
   .state('Main',{
     url: '/Main',
     templateUrl: 'templates/Main.html',
     controller: 'APICtrl'
 })
 
+//favourites page
   .state('Favourites',{
     url: '/Favourites',
     templateUrl: 'templates/Favourites.html',
     controller: 'FavCtrl'
   })
 
+//modal popup that displays enlarged address view and map view
   .state('modal',{
     url:'/modal',
         templateUrl: "templates/modal.html",

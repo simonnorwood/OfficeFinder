@@ -16,7 +16,7 @@
 		<ion-list ng-show="query[queryBy]">
 		<!-- Creates each item through collection-repeat and is filtered by the query linked to the search field -->
 		<!-- ng-click opens the modal that will have the enlarged office address and the map of the office -->
-			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal()">
+			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal(); lastview(office.id);">
 				<!-- Outputs all the data from offices.json -->
 				<h3 id="LocName">{{office.LocationName}}</h3>
 				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
@@ -32,7 +32,6 @@
 			<div class="instructions">
 				<p>Last viewed offices will be displayed here.</p>
 			</div>
-			<button ng-click="clear();">CLear LS</button>
 	</ion-list>
 	
 	</ion-content>
