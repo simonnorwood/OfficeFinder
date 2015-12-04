@@ -79,7 +79,7 @@ var c = $window.localStorage['last'];
 var e = JSON.parse($window.localStorage['last']);
 console.log(e);
 
-$scope.ifinfav = function(f){
+$scope.ifinfav1 = function(f){
   if (e.indexOf(f) !== -1){
     return true;
   }
