@@ -30,7 +30,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
   .state('Favourites',{
     url: '/Favourites',
     templateUrl: 'templates/Favourites.html',
-    controller: 'FavCtrl'
+    controller: 'APICtrl'
   })
 
 //modal popup that displays enlarged address view and map view

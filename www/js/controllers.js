@@ -76,19 +76,17 @@ var c = $window.localStorage['last'];
     }
 }
 
-var e = JSON.parse($window.localStorage['last']);
-console.log(e);
+var e = JSON.parse($window.localStorage['fav']);
 
-$scope.ifinfav1 = function(f){
-  if (e.indexOf(f) !== -1){
-    return true;
-  }
-  else if(e.indexOf(f) == -1)
-  {
-    return false;
-  }
+$scope.ifinfav1 = function(office){
+  return e.indexOf(office.id) !== -1;
 };
 
+var f = JSON.parse($window.localStorage['last']);
+
+$scope.ifinfav2 = function(office){
+  return f.indexOf(office.id) !== -1;
+};
 })
 
 // modal controller that holds the enlarged office view and map view
