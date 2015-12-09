@@ -22,24 +22,24 @@
 				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 
 				<!-- Creates the favourite icon on each list item, when the star is clicked the togglefav function is run -->
-				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
+				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="favicon(office.id); togglefav(office.id); $event.stopPropagation();"></i>
 			</ion-item>
 		</ion-list>
-		<!-- Placeholder for the last viewed offices(25th Nov) -->
-		<ion-list>
+		</ion-content>
 		
+		<!-- Placeholder for the last viewed offices(25th Nov) -->
+		<ion-content>
 			<h3 class="title" id="text">Last Viewed</h3>
-			<div class="instructions">
-				<ion-list>
-			<ion-item ng-hide="ifinfav1(office.id)" id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
-			<p>{{office.id}}</p>
+			<ion-list>
+			<ion-item id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.id);">
+			<h3>{{office.LocationName}}</h3>
 			<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 			<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
-		</ion-item>
-		</ion-list>
-			</div>
-	</ion-list>
-	
+			</ion-item>
+			</ion-list>
+			
+		
+		
 	</ion-content>
 	
 	

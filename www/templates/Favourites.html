@@ -2,9 +2,9 @@
 	<ion-content>
 		<ion-list>
 		<ion-item id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav1" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
-			<p>{{office.id}}</p>
+			<h3>{{office.LocationName}}</h3>
 			<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
-			<i ng-class="{'icon ion-android-star': liked(office.id), 'icon ion-android-star-outline': liked(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
+			<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 		</ion-item>
 		</ion-list>
 	</ion-content>

@@ -4,9 +4,11 @@
 
   <button class="button icon ion-android-close" ng-click="closeModal()"></button>
 </ion-header-bar>
-<ion-content>
-Address
+<ion-content class="item-icon-right" id="modal">
+			<h1>{{office.LocationName}}</h1>
+			<p id="mdets">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 <i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}"  ng-click="togglefav(office.id); $event.stopPropagation();"></i>
+<hr>
 <br />
 <div id="map"></div>
 Map

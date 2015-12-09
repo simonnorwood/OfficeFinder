@@ -1,7 +1,6 @@
 /* Empty. Add your own CSS if you like */
 .instructions{
 	text-align: center;
-	/*background-color: #43cee6;*/
 }
 #text{
 	text-align: center;
@@ -9,4 +8,10 @@
 }
 #star{
 	position: right;
+}
+#modal{
+	padding-left: 10px;
+}
+#mdets{
+	font-size: 18px;
 }

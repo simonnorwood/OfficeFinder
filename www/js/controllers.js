@@ -77,6 +77,11 @@ var c = $window.localStorage['last'];
 }
 
 var e = JSON.parse($window.localStorage['fav']);
+$scope.favicon = function(office){
+if (e.indexOf(office.id) !== -1){
+  $scope.liked = !$scope.liked;
+}
+};
 
 $scope.ifinfav1 = function(office){
   return e.indexOf(office.id) !== -1;
