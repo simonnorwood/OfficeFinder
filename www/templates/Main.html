@@ -27,20 +27,17 @@
 		</ion-list>
 		</ion-content>
 		
-		<!-- Placeholder for the last viewed offices(25th Nov) -->
-		<ion-content>
-			<h3 class="title" id="text">Last Viewed</h3>
+		<!-- Last view offices list, currently only updates on app refresh -->
+		<div id="cont" ng-hide="query[queryBy]">
+				<h3 class="title" id="text">Last Viewed</h3>
 			<ion-list>
-			<ion-item id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.id);">
-			<h3>{{office.LocationName}}</h3>
-			<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
-			<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
-			</ion-item>
+			<!-- the filter with this collection repeat runs the function ifinfav2 which only displays items in the localstorage -->
+				<ion-item id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.id);">
+				<h3>{{office.LocationName}}</h3>
+				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
+				<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
+				</ion-item>
 			</ion-list>
-			
+		</div>
 		
-		
-	</ion-content>
-	
-	
 </ion-view>

@@ -6,7 +6,7 @@ angular.module('starter.controllers', ['ionic.utils'])
 })
 
 // api call to offices.json 
-.controller('APICtrl', function($scope, $http, $localstorage, $window) {
+.controller('APICtrl', function($scope, $http, $localstorage, $window, $state) {
 // Search function
   $scope.query = {}
   $scope.queryBy = '$'
@@ -76,22 +76,31 @@ var c = $window.localStorage['last'];
     }
 }
 
+
 var e = JSON.parse($window.localStorage['fav']);
 $scope.favicon = function(office){
 if (e.indexOf(office.id) !== -1){
   $scope.liked = !$scope.liked;
 }
 };
-
+// used to check if the item is in localstorage and check it against the json array
+// if it matches then it will return true and be displayed
+// this one is used for favourited offices
 $scope.ifinfav1 = function(office){
   return e.indexOf(office.id) !== -1;
 };
 
 var f = JSON.parse($window.localStorage['last']);
 
+// this one is used for last viewed offices
 $scope.ifinfav2 = function(office){
   return f.indexOf(office.id) !== -1;
 };
+
+$scope.reload = function(){
+$window.location.reload(true);
+}
+
 })
 
 // modal controller that holds the enlarged office view and map view
@@ -120,23 +129,5 @@ $scope.ifinfav2 = function(office){
   $scope.$on('modal.removed', function() {
     // Execute action
   });
-
-})
-
-.controller('FavCtrl', function($scope, $window, $http, $document){
-
-
-var b = JSON.parse($window.localStorage['fav']);
-console.log(b);
-
-$scope.ifinfav = function(d){
-  if (b.indexOf(d) !== -1){
-    return true;
-  }
-  else if(b.indexOf(d) == -1)
-  {
-    return false;
-  }
-};
 
 })

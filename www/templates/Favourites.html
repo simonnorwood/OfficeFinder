@@ -1,4 +1,5 @@
 <ion-view view-title="Favourites">
+<!-- template for the favourites page -->
 	<ion-content>
 		<ion-list>
 		<ion-item id="fav" class="item-icon-right" collection-repeat="office in offices|filter:ifinfav1" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
