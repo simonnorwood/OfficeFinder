@@ -1,10 +1,5 @@
 angular.module('starter.controllers', ['ionic.utils'])
 
-// regions controller for testing
-.controller('regionCTRL', function($scope){
-	console.log("regions");
-})
-
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window, $state) {
 // Search function
@@ -60,16 +55,12 @@ console.log(last);
 $scope.lastview = function(id) {
 //checks if the id being passed in is already in the array
 //if it isn't it will add it to the beginning array then stringify it
-var c = $window.localStorage['last'];
+var c = JSON.parse($window.localStorage['last']);
   if (last.indexOf(id) == -1){
-    last.unshift(id);
-    console.log(last);
-    $window.localStorage['last'] = JSON.stringify(last);
-    }
-    //checks if there are more than 10 items in the array
-    //if there is it removes the last item from the array and adds the new one to the beginning
-    else if(c.length <= 5){
-    last.pop();
+    if (c.length > 3){
+      last.pop();
+      //$window.localStorage['last'] = JSON.stringify(last);
+      }
     last.unshift(id);
     console.log(last);
     $window.localStorage['last'] = JSON.stringify(last);
@@ -77,10 +68,11 @@ var c = $window.localStorage['last'];
 }
 
 
+
 var e = JSON.parse($window.localStorage['fav']);
 $scope.favicon = function(office){
-if (e.indexOf(office.id) !== -1){
-  $scope.liked = !$scope.liked;
+if (e.indexOf(office) !== -1){
+ return $scope.liked = !$scope.liked;
 }
 };
 // used to check if the item is in localstorage and check it against the json array
