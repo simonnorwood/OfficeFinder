@@ -1,17 +1,19 @@
 <!-- modal view for the enlarged address view and the map view -->
 <ion-modal-view>
 	<ion-header-bar id="modalheader">
-		<h1 class="title">Modal</h1>
+		<h1 class="title"></h1>
 <!-- button to close the modal -->
  		<button class="button icon ion-android-close" ng-click="closeModal();"></button>
 	</ion-header-bar>
 <ion-content class="item-icon-right" id="modal">
-<ion-item id="modalitem">
+<ion-list id="modalitem">
+<ion-item>
 	<h1>{{office.LocationName}}</h1>
 		<p id="mdets">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 		<i ng-class="{'icon ion-android-star': liked, 'icon ion-android-star-outline': !liked}"  ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 	</ion-item>
-		<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{office.LocAddressLine1+","+office.LocAddressLine2}}&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8" allowfullscreen></iframe>
+</ion-list>
+		<iframe width="750" height="450" frameborder="0" style="border:0" ng-src="https://www.google.com/maps/embed/v1/place?q={{office.LocAddressLine1}}&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8" allowfullscreen></iframe>
 </ion-content>
 
 </ion-modal-view>

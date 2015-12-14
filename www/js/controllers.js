@@ -71,10 +71,13 @@ var c = JSON.parse($window.localStorage['last']);
 
 var e = JSON.parse($window.localStorage['fav']);
 $scope.favicon = function(office){
-if (e.indexOf(office) !== -1){
- return $scope.liked = !$scope.liked;
-}
+
+//console.log(office, e.indexOf(office) !== -1);
+
+ return e.indexOf(office) !== -1;
+
 };
+
 // used to check if the item is in localstorage and check it against the json array
 // if it matches then it will return true and be displayed
 // this one is used for favourited offices
