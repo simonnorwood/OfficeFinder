@@ -1,9 +1,18 @@
-angular.module('starter.controllers', ['ionic.utils'])
+angular.module('starter.controllers', ['ionic.utils', 'ngMap'])
 
 .config(function($sceDelegateProvider){
    $sceDelegateProvider.resourceUrlWhitelist([
   'self',
   'https://www.google.com/maps/geocoding/**']);
+})
+
+.controller('mapCtrl', function(NgMap, $scope) {
+  NgMap.getMap().then(function(map) {
+    $scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
+    console.log(map.getCenter());
+    console.log('markers', map.markers);
+    console.log('shapes', map.shapes);
+  });
 })
 
 // api call to offices.json 
