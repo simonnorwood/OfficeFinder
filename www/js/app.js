@@ -14,6 +14,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 })
 
 //states for each page
+//i have disbaled caching for each so it updates when a view is changed
 .config(['$stateProvider','$urlRouterProvider',function($stateProvider, $urlRouterProvider){
   $urlRouterProvider.otherwise('/Main');
 
@@ -21,6 +22,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //main page
   .state('Main',{
+    cache: false,
     url: '/Main',
     templateUrl: 'templates/Main.html',
     controller: 'APICtrl'
@@ -28,6 +30,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //favourites page
   .state('Favourites',{
+    cache: false,
     url: '/Favourites',
     templateUrl: 'templates/Favourites.html',
     controller: 'APICtrl'
@@ -35,6 +38,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //modal popup that displays enlarged address view and map view
   .state('modal',{
+    cache: false,
     url:'/modal',
         templateUrl: "templates/modal.html",
         controller: 'APICtrl'

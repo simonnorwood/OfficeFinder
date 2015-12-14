@@ -1,7 +1,13 @@
 angular.module('starter.controllers', ['ionic.utils'])
 
+.config(function($sceDelegateProvider){
+   $sceDelegateProvider.resourceUrlWhitelist([
+  'self',
+  'https://www.google.com/maps/geocoding/**']);
+})
+
 // api call to offices.json 
-.controller('APICtrl', function($scope, $http, $localstorage, $window, $state) {
+.controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
 // Search function
   $scope.query = {}
   $scope.queryBy = '$'
@@ -13,6 +19,10 @@ angular.module('starter.controllers', ['ionic.utils'])
     console.error('ERR', err);
     // err.status will contain the status code
   });
+
+ $scope.sce = function(loc1){
+ return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
+ }
 
 //retrieves localstorage array
 //$scope.favourties= JSON.parse($window.localStorage['fav']);
@@ -59,23 +69,17 @@ var c = JSON.parse($window.localStorage['last']);
   if (last.indexOf(id) == -1){
     if (c.length > 3){
       last.pop();
-      //$window.localStorage['last'] = JSON.stringify(last);
       }
     last.unshift(id);
-    console.log(last);
     $window.localStorage['last'] = JSON.stringify(last);
     }
 }
 
 
-
+// used to change the favourites icon based on if its in the local storage or not
 var e = JSON.parse($window.localStorage['fav']);
 $scope.favicon = function(office){
-
-//console.log(office, e.indexOf(office) !== -1);
-
  return e.indexOf(office) !== -1;
-
 };
 
 // used to check if the item is in localstorage and check it against the json array
@@ -91,11 +95,6 @@ var f = JSON.parse($window.localStorage['last']);
 $scope.ifinfav2 = function(office){
   return f.indexOf(office.id) !== -1;
 };
-
-$scope.reload = function(){
-$window.location.reload(true);
-}
-
 })
 
 // modal controller that holds the enlarged office view and map view
@@ -124,5 +123,10 @@ $window.location.reload(true);
   $scope.$on('modal.removed', function() {
     // Execute action
   });
+
+})
+
+.filter('mapsembed', function($sce){
+
 
 })
