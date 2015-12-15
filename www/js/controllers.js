@@ -6,12 +6,13 @@ angular.module('starter.controllers', ['ionic.utils', 'ngMap'])
   'https://www.google.com/maps/geocoding/**']);
 })
 
+//ngmaps, google maps api
 .controller('mapCtrl', function(NgMap, $scope) {
   NgMap.getMap().then(function(map) {
-    $scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
     console.log(map.getCenter());
-    console.log('markers', map.markers);
-    console.log('shapes', map.shapes);
+    //console.log('markers', map.markers);
+    //console.log('shapes', map.shapes);
+    //$scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
   });
 })
 
@@ -29,9 +30,9 @@ angular.module('starter.controllers', ['ionic.utils', 'ngMap'])
     // err.status will contain the status code
   });
 
- $scope.sce = function(loc1){
- return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
- }
+// $scope.sce = function(loc1){
+// return $sce.trustAsResourceUrl('https://www.google.com//maps/embed/v1/address?q='+ loc1 +'&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8&output=embed');
+// }
 
 //retrieves localstorage array
 //$scope.favourties= JSON.parse($window.localStorage['fav']);
