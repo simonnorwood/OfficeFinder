@@ -1,19 +1,19 @@
-angular.module('starter.controllers', ['ionic.utils', 'ngMap'])
+angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
 
-.config(function($sceDelegateProvider){
-   $sceDelegateProvider.resourceUrlWhitelist([
-  'self',
-  'https://www.google.com/maps/geocoding/**']);
-})
+//.config(function($sceDelegateProvider){
+//   $sceDelegateProvider.resourceUrlWhitelist([
+//  'self',
+//  'https://www.google.com/maps/geocoding/**']);
+//})
 
-.controller('mapCtrl', function(NgMap, $scope) {
-  NgMap.getMap().then(function(map) {
-    $scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
-    console.log(map.getCenter());
-    console.log('markers', map.markers);
-    console.log('shapes', map.shapes);
-  });
-})
+//.controller('mapCtrl', function(NgMap, $scope) {
+//  NgMap.getMap().then(function(map) {
+//    $scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
+//    console.log(map.getCenter());
+//    console.log('markers', map.markers);
+//    console.log('shapes', map.shapes);
+//  });
+//})
 
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
@@ -29,8 +29,12 @@ angular.module('starter.controllers', ['ionic.utils', 'ngMap'])
     // err.status will contain the status code
   });
 
- $scope.sce = function(loc1){
- return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
+ //$scope.sce = function(loc1){
+ //return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
+ //}
+
+ $scope.maps = function(loc1){
+  $scope.map = { center: {latitude: 45, longitutde: -51},zoom: 8};
  }
 
 //retrieves localstorage array
