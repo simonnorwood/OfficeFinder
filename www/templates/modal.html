@@ -13,15 +13,9 @@
 		<p id="mdets">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 		<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}"  ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 	</ion-item>
-</ion-list>
+</ion-list ng-controller="mapCtrl">
 <!-- creates the map view from the json data -->
-	<!--<div id="gmap" ng-controller="mapCtrl">
-		<div map-data="https://maps.google.com/maps/api/js"
-  		map-data-params="{{googleMapsUrl}}">
-  		<ng-map center="{{office.LatLong}}" zoom="3"></ng-map>
-	</div> -->
-		<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=hp79ll&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8" allowfullscreen></iframe>
-	</div>
+	<div id="googleMap" style="width:500px;height:380px;"></div>
 </ion-content>
 
 </ion-modal-view>
