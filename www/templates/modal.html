@@ -5,7 +5,7 @@
 <!-- button to close the modal -->
  		<button class="button icon ion-android-close" ng-click="closeModal();"></button>
 	</ion-header-bar>
-<ion-content class="item-icon-right" id="modal">
+<ion-content class="item-icon-right item-text-wrap" id="modal">
 <ion-list id="modalitem">
 <ion-item>
 <!-- displays the larger view of the office address -->
@@ -13,12 +13,16 @@
 		<p id="mdets">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 		<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}"  ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 	</ion-item>
-</ion-list>
+</ion-list ng-controller="mapCtrl">
 <!-- creates the map view from the json data -->
+<<<<<<< HEAD
 	
 <div ng-init"maps()">
 	<ui-gmap-google-map center='map.center' zoom='map.zoom'></ui-gmap-google-map>
 </div>
+=======
+	<div id="googleMap" style="width:500px;height:380px;"></div>
+>>>>>>> origin/master
 </ion-content>
 
 </ion-modal-view>

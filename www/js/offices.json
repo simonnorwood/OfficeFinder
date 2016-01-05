@@ -8,9 +8,11 @@
     "LocAddressLine2":"Al Sila (Tower1), P. Box 34637",
     "LocationName":"Abu Dhabi (AlSila)AE",
     "LocCity":"Abu Dhabi",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":2,
@@ -20,8 +22,11 @@
     "LocAddressLine2":"P.O Box 47553, Sowwah Square",
     "LocationName":"Abu Dhabi (Sowwah)AE",
     "LocCity":"Abu Dhabi",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
-    "LocRegion":"MENAT"
+    "LocZipPostalCode":"",
+    "LocRegion":"MENAT",
+    "LatLong":"24.299174,54.697277"
   },
   {
     "id":3,
@@ -31,9 +36,11 @@
     "LocAddressLine2":"Churchgate plaza",
     "LocationName":"Abuja NG",
     "LocCity":"Abuja",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Nigeria",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Africa"
+    "LocRegion":"Africa",
+    "LatLong":","
   },
   {
     "id":4,
@@ -43,22 +50,25 @@
     "LocAddressLine2":"Graymark Office Building",
     "LocationName":"Addison (Add) TX US",
     "LocCity":"Addison",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"75001",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"32.965478,-96.82974"
   },
   {
     "id":5,
     "SSOCount":18,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"16 Graham Street, Export Park, Commercial Center",
+    "LocAddressLine2":"",
     "LocationName":"Adelaide (Graham) AU",
     "LocCity":"Adelaide",
-    "LocStateProvince":"South Australia",
+    "LocStateProvinceDescription":"South Australia",
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"5950",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-34.945404,138.523725"
   },
   {
     "id":6,
@@ -68,10 +78,11 @@
     "LocAddressLine2":"Titanium Building,  Satellite, Mouje, Vejalpur",
     "LocationName":"Ahmedabad (TP) IN",
     "LocCity":"Ahmedabad",
-    "LocStateProvince":"Gujarat",
+    "LocStateProvinceDescription":"Gujarat",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"380 015",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"23.022505,72.571362"
   },
   {
     "id":7,
@@ -81,43 +92,53 @@
     "LocAddressLine2":" ",
     "LocationName":"Algiers(11RueDu) DZ",
     "LocCity":"Algiers",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Algeria",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":8,
     "SSOCount":356,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"31 Columbia",
+    "LocAddressLine2":"",
     "LocationName":"AlisoViejo(31C)CA US",
     "LocCity":"Aliso Viejo",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92656-1460",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.567684,-117.725608"
   },
   {
     "id":9,
     "SSOCount":11,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"28B Timiryazev Str., Alatau Grand Business Center",
+    "LocAddressLine2":"",
     "LocationName":"Almaty (Temir) KZ",
     "LocCity":"Almaty",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Kazakhstan",
     "LocZipPostalCode":"50040",
-    "LocRegion":"Russia/CIS"
+    "LocRegion":"Russia/CIS",
+    "LatLong":"42.175411,-94.102774"
   },
   {
     "id":10,
     "SSOCount":551,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"The Grove Centre, White Lion Road",
+    "LocAddressLine2":"",
     "LocationName":"Amersham (Grove) GB",
     "LocCity":"Amersham",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP7 9LL",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.671717,-0.586848"
   },
   {
     "id":11,
@@ -127,21 +148,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Amman (Uthania) JO",
     "LocCity":"Amman",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Jordan",
     "LocZipPostalCode":"11181",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":12,
     "SSOCount":11,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"150 West Cerritos Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Anaheim (HC)Ph CA US",
     "LocCity":"Anaheim",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92805-6546",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.827605,-117.907324"
   },
   {
     "id":13,
@@ -151,9 +176,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Ankara TR",
     "LocCity":"Ankara",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Turkey",
     "LocZipPostalCode":"6520",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":"39.909434,32.767079"
   },
   {
     "id":14,
@@ -163,56 +190,67 @@
     "LocAddressLine2":"Office M",
     "LocationName":"Aomori (HC) JP",
     "LocCity":"Aomori",
-    "LocStateProvince":"Aomori",
+    "LocStateProvinceDescription":"Aomori",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"030-0941",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"40.814682,140.798753"
   },
   {
     "id":15,
     "SSOCount":326,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"300 Parque Industrial, Apodaca  Calle Espana",
+    "LocAddressLine2":"",
     "LocationName":"Apodaca(Esp300)MX",
     "LocCity":"Monterrey",
-    "LocStateProvince":"Nuevo Leon",
+    "LocStateProvinceDescription":"Nuevo Leon",
     "LocCountryDescription":"Mexico",
-    "LocRegion":"Latin America"
+    "LocZipPostalCode":"",
+    "LocRegion":"Latin America",
+    "LatLong":"25.644902,-100.295772"
   },
   {
     "id":16,
     "SSOCount":172,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3350 North Ridge Avenue",
+    "LocAddressLine2":"",
     "LocationName":"ArlingtHgts(HC)IL US",
     "LocCity":"Arlington Heights",
-    "LocStateProvince":"Illinois",
+    "LocStateProvinceDescription":"Illinois",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60004-1412",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.117242,-87.990112"
   },
   {
     "id":17,
     "SSOCount":11,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1263 Waube Lane",
+    "LocAddressLine2":"",
     "LocationName":"Ashwaubenon WI US 2",
     "LocCity":"Ashwaubenon",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"54304",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"44.472127,-88.097514"
   },
   {
     "id":18,
     "SSOCount":72,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Sorou Street No. 8-10",
+    "LocAddressLine2":"",
     "LocationName":"Athens (Marousi) GR",
     "LocCity":"Athens",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Greece",
     "LocZipPostalCode":"151 25",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":19,
@@ -222,34 +260,39 @@
     "LocAddressLine2":"Atlanta Technology Center,  Building 300, ",
     "LocationName":"Atlanta (HC)Ph GA US",
     "LocCity":"Atlanta",
-    "LocStateProvince":"Georgia",
+    "LocStateProvinceDescription":"Georgia",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"30318-4210",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.794633,-84.448772"
   },
   {
     "id":20,
     "SSOCount":31,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8 Tangihua Street",
+    "LocAddressLine2":"",
     "LocationName":"Auckland(Tangiha) NZ",
     "LocCity":"Auckland",
-    "LocStateProvince":"Auckland",
+    "LocStateProvinceDescription":"Auckland",
     "LocCountryDescription":"New Zealand",
     "LocZipPostalCode":"1010",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-36.84846,174.763332"
   },
   {
     "id":21,
     "SSOCount":187,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1515 Danner Drive, Aurora",
+    "LocAddressLine2":"",
     "LocationName":"Aurora (HC) OH US",
     "LocCity":"Cleveland",
-    "LocStateProvince":"Ohio",
+    "LocStateProvinceDescription":"Ohio",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44202-9273",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.305954,-81.350942"
   },
   {
     "id":22,
@@ -259,9 +302,11 @@
     "LocAddressLine2":"Dist.925, Karada Kharij,",
     "LocationName":"Baghdad (Kharij) IQ",
     "LocCity":"Baghdad",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Iraq",
     "LocZipPostalCode":"NA",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":23,
@@ -271,10 +316,11 @@
     "LocAddressLine2":"Sadaramangala",
     "LocationName":"Bangalore (GSC) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560067",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.996701,77.758197"
   },
   {
     "id":24,
@@ -284,10 +330,11 @@
     "LocAddressLine2":"John F. Welch Technology Centre, Hoodi Village",
     "LocationName":"Bangalore (JFWTC) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.969807,77.749963"
   },
   {
     "id":25,
@@ -297,10 +344,11 @@
     "LocAddressLine2":"Sadaramangala,Whitefield",
     "LocationName":"Bangalore (KG) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560067",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.996701,77.758197"
   },
   {
     "id":26,
@@ -310,10 +358,11 @@
     "LocAddressLine2":"Whitefield  Road, Sonnennhalli Village",
     "LocationName":"Bangalore (RMZ) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.969807,77.749963"
   },
   {
     "id":27,
@@ -323,10 +372,11 @@
     "LocAddressLine2":"Whitefield Road, Hoodi Village",
     "LocationName":"Bangalore GB (HC) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.969807,77.749963"
   },
   {
     "id":28,
@@ -336,10 +386,11 @@
     "LocAddressLine2":"Whitefield Road, Hoodi Village",
     "LocationName":"Bangalore GX (HC) IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.969807,77.749963"
   },
   {
     "id":29,
@@ -349,10 +400,11 @@
     "LocAddressLine2":"Summit Tower B, Garudachar Palya, Mahadevapura Post",
     "LocationName":"Bangalore(Brigade)IN",
     "LocCity":"Bangalore",
-    "LocStateProvince":"Karnataka",
+    "LocStateProvinceDescription":"Karnataka",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560048",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"12.99626,77.69339"
   },
   {
     "id":30,
@@ -362,10 +414,11 @@
     "LocAddressLine2":"Thanapoom Tower",
     "LocationName":"Bangkok(NP Road) TH",
     "LocCity":"Bangkok",
-    "LocStateProvince":"Bangkok",
+    "LocStateProvinceDescription":"Bangkok",
     "LocCountryDescription":"Thailand",
     "LocZipPostalCode":"10400",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"13.773982,100.546488"
   },
   {
     "id":31,
@@ -375,33 +428,39 @@
     "LocAddressLine2":"Meridian",
     "LocationName":"Barcelona(Porcel) ES",
     "LocCity":"Barcelona",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"8016",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":32,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Strada Provinciale per Modugno 10,",
+    "LocAddressLine2":"",
     "LocationName":"Bari (GEE) IT",
     "LocCity":"Bari",
-    "LocStateProvince":"Bari",
+    "LocStateProvinceDescription":"Bari",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"70123",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"41.121846,16.856188"
   },
   {
     "id":33,
     "SSOCount":452,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"540  W. Northwest Highway",
+    "LocAddressLine2":"",
     "LocationName":"Barrington(NW) IL US",
     "LocCity":"Barrington",
-    "LocStateProvince":"Illinois",
+    "LocStateProvinceDescription":"Illinois",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60010-3076",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.164154,-88.149078"
   },
   {
     "id":34,
@@ -411,10 +470,11 @@
     "LocAddressLine2":"Yi Cheng International Centre (Phase I), Tower A",
     "LocationName":"Beijing (e-Town) CN",
     "LocCity":"Beijing",
-    "LocStateProvince":"Beijing",
+    "LocStateProvinceDescription":"Beijing",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.904211,116.407395"
   },
   {
     "id":35,
@@ -424,10 +484,11 @@
     "LocAddressLine2":"Hanwei Plaza, Chaoyang ",
     "LocationName":"Beijing(ChaoYang) CN",
     "LocCity":"Beijing",
-    "LocStateProvince":"Beijing",
+    "LocStateProvinceDescription":"Beijing",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100004",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.914171,116.454664"
   },
   {
     "id":36,
@@ -437,10 +498,11 @@
     "LocAddressLine2":"Beijing Economic and Technological Development Area",
     "LocationName":"Beijing-HQ (HC) CN",
     "LocCity":"Beijing",
-    "LocStateProvince":"Beijing",
+    "LocStateProvinceDescription":"Beijing",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100176",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.801904,116.505262"
   },
   {
     "id":37,
@@ -450,10 +512,11 @@
     "LocAddressLine2":"Beijing Economic and Technological Development Area",
     "LocationName":"Beijing-HW (HC) CN",
     "LocCity":"Beijing",
-    "LocStateProvince":"Beijing",
+    "LocStateProvinceDescription":"Beijing",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100176",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.801904,116.505262"
   },
   {
     "id":38,
@@ -463,22 +526,25 @@
     "LocAddressLine2":"Bairro Silveira",
     "LocationName":"BeloHorizonte(Cri)BR",
     "LocCity":"Belo Horizonte",
-    "LocStateProvince":"Minas Gerais",
+    "LocStateProvinceDescription":"Minas Gerais",
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"31170-800",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":","
   },
   {
     "id":39,
     "SSOCount":99,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Rua Canoas 765",
+    "LocAddressLine2":"",
     "LocationName":"BeloHorizonte(Rua)BR",
     "LocCity":"Belo Horizonte",
-    "LocStateProvince":"Minas Gerais",
+    "LocStateProvinceDescription":"Minas Gerais",
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"30590-280",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"-19.962137,-43.987493"
   },
   {
     "id":40,
@@ -488,10 +554,11 @@
     "LocAddressLine2":"M.P. Nagar",
     "LocationName":"Bhopal (AA) IN",
     "LocCity":"Bhopal",
-    "LocStateProvince":"Madhya Pradesh",
+    "LocStateProvinceDescription":"Madhya Pradesh",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"462-011",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"23.259933,77.412615"
   },
   {
     "id":41,
@@ -501,20 +568,25 @@
     "LocAddressLine2":"Horizon 2000 Mach 5",
     "LocationName":"Bihorel-les-Rouen FR 1",
     "LocCity":"Bihorel-les-Rouen",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"76420",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"49.468963,1.140393"
   },
   {
     "id":42,
     "SSOCount":17,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Pol�gono de la Paz, Cruces-Barakaldo (Vizcaya)",
+    "LocAddressLine2":"",
     "LocationName":"Bilbao ES 2",
     "LocCity":"Bilbao",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"48903",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"43.266033,-3.002561"
   },
   {
     "id":43,
@@ -524,78 +596,95 @@
     "LocAddressLine2":"Titan Plaza Centro Comercial",
     "LocationName":"Bogota (Titan) CO",
     "LocCity":"Bogota",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Colombia",
     "LocZipPostalCode":"111021",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"4.70964,-74.097568"
   },
   {
     "id":44,
     "SSOCount":44,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Via Martin Luther King 38/2",
+    "LocAddressLine2":"",
     "LocationName":"Bologna (HC) IT",
     "LocCity":"Bologna",
-    "LocStateProvince":"Bologna",
+    "LocStateProvinceDescription":"Bologna",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"40132",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"44.507933,11.26605"
   },
   {
     "id":45,
     "SSOCount":119,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"116 Huntington Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Boston (HuntA) MA US",
     "LocCity":"Boston",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"02116-5749",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.353068,-71.076519"
   },
   {
     "id":46,
     "SSOCount":22,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"119 Rue de Paris",
+    "LocAddressLine2":"",
     "LocationName":"Boulogne (Rue) FR",
     "LocCity":"Boulogne Billancourt",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"92100",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.857735,2.279907"
   },
   {
     "id":47,
     "SSOCount":103,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Gieselweg 1",
+    "LocAddressLine2":"",
     "LocationName":"Braunschweig (HC) DE",
     "LocCity":"Braunschweig",
-    "LocStateProvince":"Lower Saxony",
+    "LocStateProvinceDescription":"Lower Saxony",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"38110",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"52.332204,10.559026"
   },
   {
     "id":48,
     "SSOCount":75,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Park Alle 295",
+    "LocAddressLine2":"",
     "LocationName":"Brondby(ParkAlle) DK",
     "LocCity":"Brondby",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Denmark",
     "LocZipPostalCode":"2605",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"55.647305,12.414886"
   },
   {
     "id":49,
     "SSOCount":1605,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"283 Rue de la Miniere",
+    "LocAddressLine2":"",
     "LocationName":"Buc  FR",
     "LocCity":"Buc",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"78533",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.776122,2.1089"
   },
   {
     "id":50,
@@ -605,9 +694,11 @@
     "LocAddressLine2":"Sector 1",
     "LocationName":"Bucharest(Calea)RO",
     "LocCity":"Bucharest",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Romania",
     "LocZipPostalCode":"14459",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":","
   },
   {
     "id":51,
@@ -617,9 +708,11 @@
     "LocAddressLine2":"Vaci Greens C Office Building,",
     "LocationName":"Budapest HU 5",
     "LocCity":"Budapest",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Hungary",
     "LocZipPostalCode":"1131",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":"47.546232,19.087832"
   },
   {
     "id":52,
@@ -629,9 +722,11 @@
     "LocAddressLine2":"Vaci Greens A Office Building",
     "LocationName":"Budapest(Vac 117) HU",
     "LocCity":"Budapest",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Hungary",
     "LocZipPostalCode":"1138",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":"47.540565,19.061616"
   },
   {
     "id":53,
@@ -641,10 +736,11 @@
     "LocAddressLine2":"DOT Building",
     "LocationName":"Buenos Aires(Vedi)AR",
     "LocCity":"Buenos Aires",
-    "LocStateProvince":"Capital Federal",
+    "LocStateProvinceDescription":"Capital Federal",
     "LocCountryDescription":"Argentina",
     "LocZipPostalCode":"C1430DAH",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":","
   },
   {
     "id":54,
@@ -654,34 +750,39 @@
     "LocAddressLine2":"Bunkyo Green Court, East Wing",
     "LocationName":"Bunkyo (HC) JP",
     "LocCity":"Bunkyo-ku",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"113-0021 ",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.729335,139.751153"
   },
   {
     "id":55,
     "SSOCount":334,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"40 IDX Drive",
+    "LocAddressLine2":"",
     "LocationName":"Burlington VT US",
     "LocCity":"South Burlington",
-    "LocStateProvince":"Vermont",
+    "LocStateProvinceDescription":"Vermont",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"05403-7771",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"44.431881,-73.20882"
   },
   {
     "id":56,
     "SSOCount":13,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8525 Baxter Place",
+    "LocAddressLine2":"",
     "LocationName":"Burnaby (BP) BC CA",
     "LocCity":"Burnaby",
-    "LocStateProvince":"British Columbia",
+    "LocStateProvinceDescription":"British Columbia",
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":"V5A 4V7",
-    "LocRegion":"Canada"
+    "LocRegion":"Canada",
+    "LatLong":"49.25996,-122.914161"
   },
   {
     "id":57,
@@ -691,10 +792,11 @@
     "LocAddressLine2":"Samsung Life Insurance Beomcheon-dong Building, ",
     "LocationName":"Busan (HC) KR",
     "LocCity":"Busan",
-    "LocStateProvince":"Busan",
+    "LocStateProvinceDescription":"Busan",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"614-020",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":"35.149735,129.058794"
   },
   {
     "id":58,
@@ -704,9 +806,11 @@
     "LocAddressLine2":"5th Settlement Tagammoe, 7th Floor",
     "LocationName":"Cairo (Boomerang) EG",
     "LocCity":"Cairo",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Egypt",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":59,
@@ -716,20 +820,25 @@
     "LocAddressLine2":"Block 2, de Tijger Office Park, Parrow",
     "LocationName":"Cape Town(Tijger)ZA",
     "LocCity":"Cape Town",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"South Africa",
     "LocZipPostalCode":"7500",
-    "LocRegion":"Africa"
+    "LocRegion":"Africa",
+    "LatLong":"-33.880134,18.581938"
   },
   {
     "id":60,
     "SSOCount":372,
     "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"The Maynard Centre, Forest Farm Estate, Whitchurch,Cardiff",
+    "LocAddressLine1":"The Maynard Centre, Forest Farm Estate, Whitchurch,CardifF",
+    "LocAddressLine2":"",
     "LocationName":"Cardiff (Maynard) GB",
     "LocCity":"Cardiff",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"CF14 7YT",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.523227,-3.250891"
   },
   {
     "id":61,
@@ -739,9 +848,11 @@
     "LocAddressLine2":"Edificio Ramazzotti",
     "LocationName":"Carnaxide(AvFrte) PT",
     "LocCity":"Carnaxide",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Portugal",
     "LocZipPostalCode":"2795-502",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"38.712995,-9.242531"
   },
   {
     "id":62,
@@ -751,20 +862,25 @@
     "LocAddressLine2":"R�sidence les Champs d'Anfa D",
     "LocationName":"Casablanca (Cha) MA",
     "LocCity":"Casablanca",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Morocco",
     "LocZipPostalCode":"20050",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":"38.9,-77.04"
   },
   {
     "id":63,
     "SSOCount":308,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Pollards Wood, Nightingales Lane, Chalfont St Giles, Bucks",
+    "LocAddressLine2":"",
     "LocationName":"ChalfontSGiles(PW)GB",
     "LocCity":"Chalfont St Giles",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP8 4SP",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.65536,-0.571845"
   },
   {
     "id":64,
@@ -774,10 +890,11 @@
     "LocAddressLine2":"Palladium Tower",
     "LocationName":"Chandigarh (PT) IN",
     "LocCity":"Chandigarh",
-    "LocStateProvince":"Union Territories",
+    "LocStateProvinceDescription":"Union Territories",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"30.733315,76.779418"
   },
   {
     "id":65,
@@ -787,10 +904,11 @@
     "LocAddressLine2":"Zhong Yin Mansion, Building A",
     "LocationName":"ChangChun 22 CN 2",
     "LocCity":"ChangChun",
-    "LocStateProvince":"Ji Lin",
+    "LocStateProvinceDescription":"Ji Lin",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"130061",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":66,
@@ -800,10 +918,11 @@
     "LocAddressLine2":"Yunda International Plaza, Kaifu District",
     "LocationName":"Changsha (INF) CN",
     "LocCity":"Changsha",
-    "LocStateProvince":"Hunan",
+    "LocStateProvinceDescription":"Hunan",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"410005",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"28.203122,112.982608"
   },
   {
     "id":67,
@@ -813,10 +932,11 @@
     "LocAddressLine2":"Building Nos. 3 & 4, ",
     "LocationName":"ChengDu(XixinAve) CN",
     "LocCity":"Chengdu",
-    "LocStateProvince":"Sichuan",
+    "LocStateProvinceDescription":"Sichuan",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"611731",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"30.759846,103.970551"
   },
   {
     "id":68,
@@ -826,10 +946,11 @@
     "LocAddressLine2":"Ramnath Towers No. 29A, Guindy,",
     "LocationName":"Chennai(29 South) IN",
     "LocCity":"Chennai",
-    "LocStateProvince":"Tamil Nadu",
+    "LocStateProvinceDescription":"Tamil Nadu",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"600 032",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"13.023576,80.209125"
   },
   {
     "id":69,
@@ -839,10 +960,11 @@
     "LocAddressLine2":" Daito Chiba Port Center",
     "LocationName":"Chiba (HC) JP",
     "LocCity":"Chiba",
-    "LocStateProvince":"Chiba",
+    "LocStateProvinceDescription":"Chiba",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"260-0024",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.597893,140.102238"
   },
   {
     "id":70,
@@ -852,10 +974,11 @@
     "LocAddressLine2":"Chongqing International Trade Center, Tower A, Yuzhong, ",
     "LocationName":"ChongQing(TrdeCtr)CN",
     "LocCity":"ChongQing",
-    "LocStateProvince":"ChongQing",
+    "LocStateProvinceDescription":"ChongQing",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"400010",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"29.55725,106.573945"
   },
   {
     "id":71,
@@ -865,10 +988,11 @@
     "LocAddressLine2":"Townview Business Center, ",
     "LocationName":"Cincinnat(Gest)OH US",
     "LocCity":"Cincinnati",
-    "LocStateProvince":"Ohio",
+    "LocStateProvinceDescription":"Ohio",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"45203-1822",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.101955,-84.535325"
   },
   {
     "id":72,
@@ -878,32 +1002,39 @@
     "LocAddressLine2":"Warehouse 7, VM5 Condominium, Campina Verde (Chico Grande)",
     "LocationName":"Contagem(CampVerd)BR",
     "LocCity":"Contagem",
-    "LocStateProvince":"Minas Gerais",
+    "LocStateProvinceDescription":"Minas Gerais",
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"32150-240",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"-19.892589,-44.058747"
   },
   {
     "id":73,
     "SSOCount":17,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"7760 Trinity Road, Trinity Ridge Business Center",
+    "LocAddressLine2":"",
     "LocationName":"Cordova (HC) TN US",
     "LocCity":"Cordova",
-    "LocStateProvince":"Tennessee",
+    "LocStateProvinceDescription":"Tennessee",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"38018-2739",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"35.137655,-89.766153"
   },
   {
     "id":74,
     "SSOCount":512,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"IDA Business Park,Carrigtohill",
+    "LocAddressLine2":"",
     "LocationName":"Cork (Site) IE",
     "LocCity":"Cork",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Ireland",
-    "LocRegion":"Western Europe"
+    "LocZipPostalCode":"",
+    "LocRegion":"Western Europe",
+    "LatLong":"51.896892,-8.486316"
   },
   {
     "id":75,
@@ -913,22 +1044,25 @@
     "LocAddressLine2":"Hosu Building",
     "LocationName":"Daegu (HC) KR",
     "LocCity":"Daegu",
-    "LocStateProvince":"Daegu",
+    "LocStateProvinceDescription":"Daegu",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"700-732",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":","
   },
   {
     "id":76,
     "SSOCount":17,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"809 Hanbat-daero, Seo-gu",
+    "LocAddressLine2":"",
     "LocationName":"Daejeon (HC) KR",
     "LocCity":"Daejeon",
-    "LocStateProvince":"Daejeon",
+    "LocStateProvinceDescription":"Daejeon",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"302-828",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":","
   },
   {
     "id":77,
@@ -938,34 +1072,39 @@
     "LocAddressLine2":"Dalian Int. Financial Centre, Tower A, Shahekou District",
     "LocationName":"Dalian 21 CN 1",
     "LocCity":"Dalian",
-    "LocStateProvince":"Liaoning",
+    "LocStateProvinceDescription":"Liaoning",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"116023",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"38.879663,121.522957"
   },
   {
     "id":78,
     "SSOCount":21,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"7920 Elmbrook Drive-Elmbrook Office Park",
+    "LocAddressLine2":"",
     "LocationName":"Dallas (HC)Ph TX US",
     "LocCity":"Dallas",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"75247-4933",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"32.816669,-96.883356"
   },
   {
     "id":79,
     "SSOCount":117,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Hahnestrasse 3",
+    "LocAddressLine2":"",
     "LocationName":"Dassel DE",
     "LocCity":"Dassel",
-    "LocStateProvince":"Lower Saxony",
+    "LocStateProvinceDescription":"Lower Saxony",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"Dassel",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"51.801141,9.68828"
   },
   {
     "id":80,
@@ -975,9 +1114,11 @@
     "LocAddressLine2":" DTV",
     "LocationName":"Dhahran (DTV IC) SA",
     "LocCity":"Dhahran",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Saudi Arabia",
     "LocZipPostalCode":"31261",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":81,
@@ -987,32 +1128,39 @@
     "LocAddressLine2":"Shanta Western Tower",
     "LocationName":"Dhaka (HC) BD",
     "LocCity":"Dhaka",
-    "LocStateProvince":"Dhaka",
+    "LocStateProvinceDescription":"Dhaka",
     "LocCountryDescription":"Bangladesh",
     "LocZipPostalCode":"1208",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"23.770209,90.406324"
   },
   {
     "id":82,
     "SSOCount":105,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Kouterveldstraat 20, Eagle Building",
+    "LocAddressLine2":"",
     "LocationName":"Diegem (HC) BE",
     "LocCity":"Diegem",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Belgium",
     "LocZipPostalCode":"1831",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"50.89404,4.436263"
   },
   {
     "id":83,
     "SSOCount":16,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"14B Rue Pierre de Coubertin",
+    "LocAddressLine2":"",
     "LocationName":"Dijon (HC) FR",
     "LocCity":"Dijon",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"21000",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"47.31083,5.079999"
   },
   {
     "id":84,
@@ -1022,21 +1170,25 @@
     "LocAddressLine2":"Doha P.O. Box: 24997",
     "LocationName":"Doha QA",
     "LocCity":"Doha",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Qatar",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":85,
     "SSOCount":131,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Lerchenbergstrasse 15",
+    "LocAddressLine2":"",
     "LocationName":"Dornstadt (HC) DE",
     "LocCity":"Dornstadt",
-    "LocStateProvince":"Baden-Wurttemberg",
+    "LocStateProvinceDescription":"Baden-Wurttemberg",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"89160",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"48.46543,9.943147"
   },
   {
     "id":86,
@@ -1046,9 +1198,11 @@
     "LocAddressLine2":"Tecom Zone,",
     "LocationName":"Dubai (IntrntCt) AE",
     "LocCity":"Dubai",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"11549",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":"40.713261,-73.622473"
   },
   {
     "id":87,
@@ -1058,20 +1212,25 @@
     "LocAddressLine2":"Tecom Zone,",
     "LocationName":"Dubai(Injaz)AE",
     "LocCity":"Dubai",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":88,
     "SSOCount":28,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Oak Drive, Clondalkin, Dublin 12,Centre point Business Park",
+    "LocAddressLine2":"",
     "LocationName":"Dublin IE 3",
     "LocCity":"Dublin",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Ireland",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"53.323045,-6.369442"
   },
   {
     "id":89,
@@ -1081,9 +1240,11 @@
     "LocAddressLine2":"Ground Floor, Block D, Westville, Durban",
     "LocationName":"Durban (WOP) ZA",
     "LocCity":"Durban",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"South Africa",
     "LocZipPostalCode":"4001",
-    "LocRegion":"Africa"
+    "LocRegion":"Africa",
+    "LatLong":"-29.849622,31.022042"
   },
   {
     "id":90,
@@ -1093,43 +1254,53 @@
     "LocAddressLine2":"Victoria House",
     "LocationName":"Ecublens CH",
     "LocCity":"Ecublens",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Switzerland",
     "LocZipPostalCode":"1024",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"46.528514,6.560574"
   },
   {
     "id":91,
     "SSOCount":247,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Cygne Centre, De Rondom 8",
+    "LocAddressLine2":"",
     "LocationName":"Eindhoven (HC) NL",
     "LocCity":"Eindhoven",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Netherlands",
     "LocZipPostalCode":"5612 AP",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.446563,5.492799"
   },
   {
     "id":92,
     "SSOCount":83,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"465 Pan American Drive",
+    "LocAddressLine2":"",
     "LocationName":"El Paso (HC) TX US",
     "LocCity":"El Paso",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"79907-5630",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"31.709465,-106.334606"
   },
   {
     "id":93,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3 Rue Irene Joliot Curie",
+    "LocAddressLine2":"",
     "LocationName":"Eybens FR 2",
     "LocCity":"Eybens",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"38320",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.14954,5.741469"
   },
   {
     "id":94,
@@ -1139,22 +1310,25 @@
     "LocAddressLine2":"Building B 10",
     "LocationName":"Firenze (HC) IT",
     "LocCity":"Florence",
-    "LocStateProvince":"Florence",
+    "LocStateProvinceDescription":"Florence",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"50127",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"43.803814,11.224044"
   },
   {
     "id":95,
     "SSOCount":336,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3001 West Radio Drive",
+    "LocAddressLine2":"",
     "LocationName":"Florence (HC) SC US",
     "LocCity":"Florence",
-    "LocStateProvince":"South Carolina",
+    "LocStateProvinceDescription":"South Carolina",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"29501-7806",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"34.195433,-79.762562"
   },
   {
     "id":96,
@@ -1164,10 +1338,11 @@
     "LocAddressLine2":"Haus der Wirtschaft",
     "LocationName":"Freiburg BW DE 2",
     "LocCity":"Freiburg",
-    "LocStateProvince":"Baden-Wurttemberg",
+    "LocStateProvinceDescription":"Baden-Wurttemberg",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"79111",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"48.005491,7.785793"
   },
   {
     "id":97,
@@ -1177,10 +1352,11 @@
     "LocAddressLine2":"Landhaus,",
     "LocationName":"Freiburg BW DE 4",
     "LocCity":"Freiburg",
-    "LocStateProvince":"Baden-Wurttemberg",
+    "LocStateProvinceDescription":"Baden-Wurttemberg",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"79111",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"48.005491,7.785793"
   },
   {
     "id":98,
@@ -1190,10 +1366,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Fukuoka (HC) JP",
     "LocCity":"Fukuoka",
-    "LocStateProvince":"Fukuoka",
+    "LocStateProvinceDescription":"Fukuoka",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"811-1311",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"33.548507,130.437626"
   },
   {
     "id":99,
@@ -1203,10 +1380,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Fukushima (HC) JP",
     "LocCity":"Koriyama",
-    "LocStateProvince":"Fukushima",
+    "LocStateProvinceDescription":"Fukushima",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"963-8021",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"37.409494,140.370767"
   },
   {
     "id":100,
@@ -1216,21 +1394,25 @@
     "LocAddressLine2":"Sino Plaza, Gulou District",
     "LocationName":"Fuzhou(SinoPlaza) CN",
     "LocCity":"Fuzhou",
-    "LocStateProvince":"Fujian",
+    "LocStateProvinceDescription":"Fujian",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"350001",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"26.084306,119.303855"
   },
   {
     "id":101,
     "SSOCount":88,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Europastrasse 31",
+    "LocAddressLine2":"",
     "LocationName":"Glattbrugg (HC) CH",
     "LocCity":"Glattbrugg",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Switzerland",
     "LocZipPostalCode":"8152",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":102,
@@ -1240,33 +1422,39 @@
     "LocAddressLine2":"North Park Building, Innsbrook Office Park",
     "LocationName":"GlenAllen(Cox) VA US",
     "LocCity":"Glen Allen",
-    "LocStateProvince":"Virginia",
+    "LocStateProvinceDescription":"Virginia",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"23060-6802",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"37.665978,-77.506374"
   },
   {
     "id":103,
     "SSOCount":94,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1150 Catamount Drive",
+    "LocAddressLine2":"",
     "LocationName":"Golden CO US",
     "LocCity":"Golden",
-    "LocStateProvince":"Colorado",
+    "LocStateProvinceDescription":"Colorado",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"80403",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.775346,-105.239412"
   },
   {
     "id":104,
     "SSOCount":11,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Skars Led 3",
+    "LocAddressLine2":"",
     "LocationName":"Gothenburg SE 2",
     "LocCity":"Gothenburg",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"400 20 ",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"57.687477,11.999572"
   },
   {
     "id":105,
@@ -1276,10 +1464,11 @@
     "LocAddressLine2":"G.T. Land Plaza,Tower B.,Tianhe, ",
     "LocationName":"Guangzhou(GETower)CN",
     "LocCity":"Guangzhou",
-    "LocStateProvince":"Guangdong",
+    "LocStateProvinceDescription":"Guangdong",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"510623",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"23.120601,113.328395"
   },
   {
     "id":106,
@@ -1289,10 +1478,11 @@
     "LocAddressLine2":" ",
     "LocationName":"GuiYang (HC) CN",
     "LocCity":"Guiyang",
-    "LocStateProvince":"Guizhou",
+    "LocStateProvinceDescription":"Guizhou",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"550002",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"26.559985,106.725866"
   },
   {
     "id":107,
@@ -1302,22 +1492,25 @@
     "LocAddressLine2":"DLF Building 7A",
     "LocationName":"Gurgaon(GE Tower) IN",
     "LocCity":"Gurgaon",
-    "LocStateProvince":"Haryana",
+    "LocStateProvinceDescription":"Haryana",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"122002",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"28.474679,77.104898"
   },
   {
     "id":108,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"72 Sicheong-ro, Seo-gu",
+    "LocAddressLine2":"",
     "LocationName":"Gwangju (HC) KR",
     "LocCity":"Gwangju",
-    "LocStateProvince":"Gwangju",
+    "LocStateProvinceDescription":"Gwangju",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"502-780",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":","
   },
   {
     "id":109,
@@ -1327,10 +1520,11 @@
     "LocAddressLine2":" Technical Assistance Center",
     "LocationName":"Hachioji (HC) JP",
     "LocCity":"Hachioji",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"192-0033",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.665645,139.366584"
   },
   {
     "id":110,
@@ -1340,10 +1534,11 @@
     "LocAddressLine2":"Zhejiang World Trade Centre, Xihu District, ",
     "LocationName":"Hangzhou 33 CN 2",
     "LocCity":"Hangzhou",
-    "LocStateProvince":"Zhejiang",
+    "LocStateProvinceDescription":"Zhejiang",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"310007",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"30.235786,120.140539"
   },
   {
     "id":111,
@@ -1353,10 +1548,11 @@
     "LocAddressLine2":"Tonglu ",
     "LocationName":"Hangzhou 33 CN 5",
     "LocCity":"Hangzhou",
-    "LocStateProvince":"Zhejiang",
+    "LocStateProvinceDescription":"Zhejiang",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"311500",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"29.795183,119.687822"
   },
   {
     "id":112,
@@ -1366,9 +1562,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Hanoi (GEII) VN",
     "LocCity":"Hanoi",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Viet Nam",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"21.025243,105.843903"
   },
   {
     "id":113,
@@ -1378,33 +1576,39 @@
     "LocAddressLine2":"Technology Tower, Songbei District, ",
     "LocationName":"Harbin 23 CN 2",
     "LocCity":"Harbin",
-    "LocStateProvince":"Hei Long Jiang",
+    "LocStateProvinceDescription":"Hei Long Jiang",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"150028",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":114,
     "SSOCount":277,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1550 Innovation Way",
+    "LocAddressLine2":"",
     "LocationName":"Hartford (Inn) WI US",
     "LocCity":"Hartford",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53027",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.317779,-88.378986"
   },
   {
     "id":115,
     "SSOCount":12,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"71 Great North Road, Hatfield",
+    "LocAddressLine2":"",
     "LocationName":"Hatfield (GNR) GB",
     "LocCity":"Hatfield",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"AL9 5EN",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.766778,-0.214978"
   },
   {
     "id":116,
@@ -1414,57 +1618,67 @@
     "LocAddressLine2":"Land Investment Plaza",
     "LocationName":"Hefei 34 CN 1",
     "LocCity":"Hefei",
-    "LocStateProvince":"Anhui",
+    "LocStateProvinceDescription":"Anhui",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"230031",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.883487,117.178244"
   },
   {
     "id":117,
     "SSOCount":701,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Kuortaneenkatu 2",
+    "LocAddressLine2":"",
     "LocationName":"Helsinki (Kuort) FI",
     "LocCity":"Helsinki",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Finland",
     "LocZipPostalCode":"510",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"60.196297,24.947201"
   },
   {
     "id":118,
     "SSOCount":55,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3600 NW John Olsen Place, Rock Creek Corporate Center",
+    "LocAddressLine2":"",
     "LocationName":"Hillsboro (HC) OR US",
     "LocCity":"Hillsboro",
-    "LocStateProvince":"Oregon",
+    "LocStateProvinceDescription":"Oregon",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"97124",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"45.545406,-122.878969"
   },
   {
     "id":119,
     "SSOCount":839,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4-7-127 Asahigaoka",
+    "LocAddressLine2":"",
     "LocationName":"Hino (HC) JP",
     "LocCity":"Hino",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"191-8503",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.656867,139.367232"
   },
   {
     "id":120,
     "SSOCount":49,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8-38-29-3, Nishihara, Asaminami-ku",
+    "LocAddressLine2":"",
     "LocationName":"Hiroshima (HC) JP",
     "LocCity":"Hiroshima",
-    "LocStateProvince":"Hiroshima",
+    "LocStateProvinceDescription":"Hiroshima",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"731-0113",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.438058,132.470003"
   },
   {
     "id":121,
@@ -1474,79 +1688,95 @@
     "LocAddressLine2":"Tan Phu Ward, District 7, Vietnam Engineering Centre",
     "LocationName":"HoChiMinh SG VN 1",
     "LocCity":"Ho Chi Minh",
-    "LocStateProvince":"Ho Chi Minh",
+    "LocStateProvinceDescription":"Ho Chi Minh",
     "LocCountryDescription":"Viet Nam",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":","
   },
   {
     "id":122,
     "SSOCount":83,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"De Wel 18, Building C",
+    "LocAddressLine2":"",
     "LocationName":"Hoevelaken (HC) NL",
     "LocCity":"Hoevelaken",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Netherlands",
     "LocZipPostalCode":"3871 MV",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"52.166948,5.464963"
   },
   {
     "id":123,
     "SSOCount":73,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8 Argle Street,Office Tower",
+    "LocAddressLine2":"",
     "LocationName":"HongKong(OficeTwr)HK",
     "LocCity":"Hong Kong",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Hong Kong",
     "LocZipPostalCode":"NA",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":124,
     "SSOCount":209,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Strand Promenade, 45",
+    "LocAddressLine2":"",
     "LocationName":"Horten (HC) NO",
     "LocCity":"Horten",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"3191",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":125,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3615 Wilowbend",
+    "LocAddressLine2":"",
     "LocationName":"Houston (HC)Ph TX US",
     "LocCity":"Houston",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"77054-1110",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"29.684978,-95.399191"
   },
   {
     "id":126,
     "SSOCount":37,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"2575 West Bellfort",
+    "LocAddressLine2":"",
     "LocationName":"Houston(Bell)TX US",
     "LocCity":"Houston",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"77054-5025",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"29.684978,-95.399191"
   },
   {
     "id":127,
     "SSOCount":108,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1040 12th Avenue NW",
+    "LocAddressLine2":"",
     "LocationName":"Issaquah(12th)WA US",
     "LocCity":"Issaquah",
-    "LocStateProvince":"Washington",
+    "LocStateProvinceDescription":"Washington",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98027",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"47.530101,-122.032619"
   },
   {
     "id":128,
@@ -1556,9 +1786,11 @@
     "LocAddressLine2":"Levent Ofis, Esentepe Mahallesi",
     "LocationName":"Istanbul TR",
     "LocCity":"Istanbul",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Turkey",
     "LocZipPostalCode":"34394",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":"41.071898,29.008166"
   },
   {
     "id":129,
@@ -1568,10 +1800,11 @@
     "LocAddressLine2":"Sangam Towers",
     "LocationName":"Jaipur (Sangam) IN",
     "LocCity":"Jaipur",
-    "LocStateProvince":"Rajasthan",
+    "LocStateProvinceDescription":"Rajasthan",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"302001",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"26.917892,75.801538"
   },
   {
     "id":130,
@@ -1581,10 +1814,11 @@
     "LocAddressLine2":"Tanah Abang, Gedung ,BRI II",
     "LocationName":"Jakarta JK ID 1",
     "LocCity":"Jakarta",
-    "LocStateProvince":"Jakarta",
+    "LocStateProvinceDescription":"Jakarta",
     "LocCountryDescription":"Indonesia",
     "LocZipPostalCode":"10210",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"-6.20889,106.807514"
   },
   {
     "id":131,
@@ -1594,9 +1828,11 @@
     "LocAddressLine2":"Site 8",
     "LocationName":"Jandakot WA AU 4",
     "LocCity":"Jandakot",
-    "LocStateProvince":"Western Australia",
+    "LocStateProvinceDescription":"Western Australia",
     "LocCountryDescription":"Australia",
-    "LocRegion":"ANZ"
+    "LocZipPostalCode":"",
+    "LocRegion":"ANZ",
+    "LatLong":"-32.110654,115.865233"
   },
   {
     "id":132,
@@ -1606,9 +1842,11 @@
     "LocAddressLine2":"Nojoud Center,",
     "LocationName":"Jeddah (Nou) SA",
     "LocCity":"Jeddah",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Saudi Arabia",
     "LocZipPostalCode":"21453",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":133,
@@ -1618,45 +1856,53 @@
     "LocAddressLine2":"CITIC Plaza, Tower A",
     "LocationName":"Ji'nan 37 CN 1",
     "LocCity":"Ji'nan",
-    "LocStateProvince":"Shandong",
+    "LocStateProvinceDescription":"Shandong",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"250011",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"36.665729,117.025447"
   },
   {
     "id":134,
     "SSOCount":12,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Kungsangsvagen 7, Vattenpasset 6",
+    "LocAddressLine2":"",
     "LocationName":"Jonkoping (HC) SE",
     "LocCity":"Jonkoping",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"56151",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"57.781559,14.255995"
   },
   {
     "id":135,
     "SSOCount":1125,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Parque Industrial Intermex, Valle del Cedro No.1551",
+    "LocAddressLine2":"",
     "LocationName":"Juarez (Intermex) MX",
     "LocCity":"Ciudad Juarez",
-    "LocStateProvince":"Chihuahua",
+    "LocStateProvinceDescription":"Chihuahua",
     "LocCountryDescription":"Mexico",
     "LocZipPostalCode":"32575",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"31.630906,-106.3889"
   },
   {
     "id":136,
     "SSOCount":96,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1701 Military Trail",
+    "LocAddressLine2":"",
     "LocationName":"Jupiter (HC) FL US",
     "LocCity":"Jupiter",
-    "LocStateProvince":"Florida",
+    "LocStateProvinceDescription":"Florida",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33458-7887",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"26.934225,-80.094209"
   },
   {
     "id":137,
@@ -1666,10 +1912,11 @@
     "LocAddressLine2":"KSC Kamoike Building",
     "LocationName":"Kagoshima (HC) JP",
     "LocCity":"Kagoshima",
-    "LocStateProvince":"Kagoshima",
+    "LocStateProvinceDescription":"Kagoshima",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"890-0062",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"31.56566,130.562296"
   },
   {
     "id":138,
@@ -1679,10 +1926,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Kanazawa (HC) JP",
     "LocCity":"Kanazawa",
-    "LocStateProvince":"Ishikawa",
+    "LocStateProvinceDescription":"Ishikawa",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"921-8002 ",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"36.57287,136.624143"
   },
   {
     "id":139,
@@ -1692,21 +1940,25 @@
     "LocAddressLine2":"Zuoying District",
     "LocationName":"Kaoshiung (INF) TW",
     "LocCity":"Kaohsiung",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"813",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"22.687736,120.291652"
   },
   {
     "id":140,
     "SSOCount":18,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4380 Brockton Drive, S.E.Kentwood",
+    "LocAddressLine2":"",
     "LocationName":"Kentwood(HC)Ph MI US",
     "LocCity":"Grand Rapids",
-    "LocStateProvince":"Michigan",
+    "LocStateProvinceDescription":"Michigan",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"49512-4108",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.884654,-85.550916"
   },
   {
     "id":141,
@@ -1716,10 +1968,11 @@
     "LocAddressLine2":"Kobe International Business Center Bldg",
     "LocationName":"Kobe (5-5-2) JP",
     "LocCity":"Kobe",
-    "LocStateProvince":"Hyogo",
+    "LocStateProvinceDescription":"Hyogo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"658-0025",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.711741,135.274754"
   },
   {
     "id":142,
@@ -1729,10 +1982,11 @@
     "LocAddressLine2":"Elamkulam, Arya Bhangy Pinnacle",
     "LocationName":"Kochi (ABP) IN",
     "LocCity":"Kochi",
-    "LocStateProvince":"Kerala",
+    "LocStateProvinceDescription":"Kerala",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"68202",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"9.931233,76.267304"
   },
   {
     "id":143,
@@ -1742,21 +1996,25 @@
     "LocAddressLine2":"Pretoria St,3rd Floor",
     "LocationName":"Kolkata (PS) IN",
     "LocCity":"Kolkata",
-    "LocStateProvince":"West Bengal",
+    "LocStateProvinceDescription":"West Bengal",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"700071",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"22.545961,88.347849"
   },
   {
     "id":144,
     "SSOCount":135,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Prof. M.Zyczkowskiego 20",
+    "LocAddressLine2":"",
     "LocationName":"Krak (Zyczkows) PL",
     "LocCity":"Krakow",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Poland",
     "LocZipPostalCode":"31-864",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":"50.071053,20.036132"
   },
   {
     "id":145,
@@ -1766,10 +2024,11 @@
     "LocAddressLine2":" ",
     "LocationName":"KualaLumpr(Sentrl)MY",
     "LocCity":"Kuala Lumpur",
-    "LocStateProvince":"Selangor",
+    "LocStateProvinceDescription":"Selangor",
     "LocCountryDescription":"Malaysia",
     "LocZipPostalCode":"50470",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"3.130581,101.683576"
   },
   {
     "id":146,
@@ -1779,21 +2038,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Kun Ming (HC) CN",
     "LocCity":"Kunming",
-    "LocStateProvince":"Yunnan",
+    "LocStateProvinceDescription":"Yunnan",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"650021",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"25.04539,102.709813"
   },
   {
     "id":147,
     "SSOCount":38,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Viestikatu 7, Kiinteisto Oy Technopolis",
+    "LocAddressLine2":"",
     "LocationName":"Kuopio(Viestikatu)FI",
     "LocCity":"Kuopio",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Finland",
     "LocZipPostalCode":"70600",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"62.891669,27.648867"
   },
   {
     "id":148,
@@ -1803,21 +2066,25 @@
     "LocAddressLine2":"Fushimi-ku",
     "LocationName":"Kyoto (HC) JP",
     "LocCity":"Kyoto",
-    "LocStateProvince":"Kyoto",
+    "LocStateProvinceDescription":"Kyoto",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"612-8415",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.961752,135.758614"
   },
   {
     "id":149,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Gallileo Gallilei 53, Local A-2",
+    "LocAddressLine2":"",
     "LocationName":"La Coruna(Galileo)ES",
     "LocCity":"La Coruna",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"15008",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"43.362344,-8.41154"
   },
   {
     "id":150,
@@ -1827,22 +2094,25 @@
     "LocAddressLine2":"Lafayette Corporate Campus",
     "LocationName":"Lafayette (CD) CO US",
     "LocCity":"Lafayette",
-    "LocStateProvince":"Colorado",
+    "LocStateProvinceDescription":"Colorado",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"80026",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.993596,-105.089706"
   },
   {
     "id":151,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"2600 Campus Drive",
+    "LocAddressLine2":"",
     "LocationName":"Lafayette CO US 2",
     "LocCity":"Lafayette",
-    "LocStateProvince":"Colorado",
+    "LocStateProvinceDescription":"Colorado",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"80026",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.993596,-105.089706"
   },
   {
     "id":152,
@@ -1852,33 +2122,39 @@
     "LocAddressLine2":"Mansard Place, PO Box 54255, Victoria Island",
     "LocationName":"Lagos(Mansard)NG",
     "LocCity":"Lagos",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Nigeria",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Africa"
+    "LocRegion":"Africa",
+    "LatLong":","
   },
   {
     "id":153,
     "SSOCount":32,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Donggang Xi Road, No 459-483 ",
+    "LocAddressLine2":"",
     "LocationName":"Lanzhou 62 CN 1",
     "LocCity":"Lanzhou",
-    "LocStateProvince":"Gansu",
+    "LocStateProvinceDescription":"Gansu",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"36.052744,103.846655"
   },
   {
     "id":154,
     "SSOCount":181,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8880 Gorman Road",
+    "LocAddressLine2":"",
     "LocationName":"Laurel MD US",
     "LocCity":"Laurel",
-    "LocStateProvince":"Maryland",
+    "LocStateProvinceDescription":"Maryland",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"20723-5800",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.132698,-76.820677"
   },
   {
     "id":155,
@@ -1888,89 +2164,109 @@
     "LocAddressLine2":"ZAC sans souci",
     "LocationName":"Limonest (Chem) FR",
     "LocCity":"Limonest",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"69760",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.835841,4.771898"
   },
   {
     "id":156,
     "SSOCount":331,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4521 Lindesnes",
+    "LocAddressLine2":"",
     "LocationName":"Lindesnes (HC) NO",
     "LocCity":"Lindesnes",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"4521",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"57.991115,7.051419"
   },
   {
     "id":157,
     "SSOCount":237,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Amersham Place-Little Chalfont",
+    "LocAddressLine2":"",
     "LocationName":"Little Chalfont GB",
     "LocCity":"Amersham",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP7 9NA",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.66815,-0.564043"
   },
   {
     "id":158,
     "SSOCount":30,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"One Naylon Place",
+    "LocAddressLine2":"",
     "LocationName":"Livingston NJ US",
     "LocCity":"Livingston",
-    "LocStateProvince":"New Jersey",
+    "LocStateProvinceDescription":"New Jersey",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"07039-1040",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.809204,-74.344539"
   },
   {
     "id":159,
     "SSOCount":19,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"12300 Hubbard Road-Hubbard Complex",
+    "LocAddressLine2":"",
     "LocationName":"Livonia (HC)Ph MI US",
     "LocCity":"Livonia",
-    "LocStateProvince":"Michigan",
+    "LocStateProvinceDescription":"Michigan",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"48150-1548",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.369188,-83.368254"
   },
   {
     "id":160,
     "SSOCount":420,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"925 West 1800 South",
+    "LocAddressLine2":"",
     "LocationName":"Logan (West) UT US",
     "LocCity":"Logan",
-    "LocStateProvince":"Utah",
+    "LocStateProvinceDescription":"Utah",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"84321",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.70012,-111.85877"
   },
   {
     "id":161,
     "SSOCount":27,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"10 Rue Marie Curie",
+    "LocAddressLine2":"",
     "LocationName":"Loncin (HC) BE",
     "LocCity":"Loncin",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Belgium",
     "LocZipPostalCode":"4431",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"50.66624,5.50521"
   },
   {
     "id":162,
     "SSOCount":33,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"25 Green Street",
+    "LocAddressLine2":"",
     "LocationName":"London (Green) GB",
     "LocCity":"London",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"W1K 7AX",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.512672,-0.155799"
   },
   {
     "id":163,
@@ -1980,22 +2276,25 @@
     "LocAddressLine2":"Titanium, Vibhuti Khand, Gomti Nagar",
     "LocationName":"Lucknow (SCP) IN",
     "LocCity":"Lucknow",
-    "LocStateProvince":"Uttar Pradesh",
+    "LocStateProvinceDescription":"Uttar Pradesh",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"226010",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"26.852459,81.020253"
   },
   {
     "id":164,
     "SSOCount":592,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3030 Ohmeda Drive",
+    "LocAddressLine2":"",
     "LocationName":"MadisonInst(HC)WI US",
     "LocCity":"Madison",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53718-6704",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.085051,-89.256224"
   },
   {
     "id":165,
@@ -2005,9 +2304,11 @@
     "LocAddressLine2":"Urbanizacion La Florida",
     "LocationName":"Madrid(Gobelas)ES",
     "LocCity":"Madrid",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"28023",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"40.461465,-3.773987"
   },
   {
     "id":166,
@@ -2017,56 +2318,67 @@
     "LocAddressLine2":" ",
     "LocationName":"Maebashi (HC) JP",
     "LocCity":"Maebashi",
-    "LocStateProvince":"Gunma",
+    "LocStateProvinceDescription":"Gunma",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"371-0037",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"36.416696,139.057721"
   },
   {
     "id":167,
     "SSOCount":45,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Springfield Mill, James Whatman Way",
+    "LocAddressLine2":"",
     "LocationName":"Maidstone (SM) GB",
     "LocCity":"Maidstone",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"ME14 2LE",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"51.281834,0.516983"
   },
   {
     "id":168,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Bodegeros n� 21 � Edificio Luxfor Oficina 2 & 2c",
+    "LocAddressLine2":"",
     "LocationName":"Malaga(Bodegueros)ES",
     "LocCity":"Malaga",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"29006",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"36.703868,-4.464528"
   },
   {
     "id":169,
     "SSOCount":98,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"150-170 Locke Drive",
+    "LocAddressLine2":"",
     "LocationName":"Marlboro(Locke)MA US",
     "LocCity":"Marlborough",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01752-7217",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.345927,-71.552287"
   },
   {
     "id":170,
     "SSOCount":205,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"350 Campus Drive",
+    "LocAddressLine2":"",
     "LocationName":"Marlborough MA US 3",
     "LocCity":"Marlborough",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01752-3082",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.32561,-71.584141"
   },
   {
     "id":171,
@@ -2076,9 +2388,11 @@
     "LocAddressLine2":"Actiparc II, Building D2",
     "LocationName":"Marseille (HC) FR",
     "LocCity":"La Penne sur Huveaune",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"13 821",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":172,
@@ -2088,22 +2402,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Matsuyama (HC) JP",
     "LocCity":"Matsuyama",
-    "LocStateProvince":"Ehime",
+    "LocStateProvinceDescription":"Ehime",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"790-0036",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"33.827218,132.760129"
   },
   {
     "id":173,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4175 West New Haven, Melbourne Business Center",
+    "LocAddressLine2":"",
     "LocationName":"Melbourne(HC)PhFL US",
     "LocCity":"Melbourne",
-    "LocStateProvince":"Florida",
+    "LocStateProvinceDescription":"Florida",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"32904-1997",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"28.083627,-80.608109"
   },
   {
     "id":174,
@@ -2113,21 +2430,25 @@
     "LocAddressLine2":"Parc Cadera Sud",
     "LocationName":"MerigCedex(Ariane)FR",
     "LocCity":"Merignac",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"33700",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"44.844877,-0.656358"
   },
   {
     "id":175,
     "SSOCount":32,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Via D. Tosatto 97 ",
+    "LocAddressLine2":"",
     "LocationName":"Mestre (HC) IT",
     "LocCity":"Mestre",
-    "LocStateProvince":"Venice",
+    "LocStateProvinceDescription":"Venice",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"30174",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.505871,12.212565"
   },
   {
     "id":176,
@@ -2137,22 +2458,25 @@
     "LocAddressLine2":"Samara Building, Torre B",
     "LocationName":"MexicoCity(SAMARA)MX",
     "LocCity":"Mexico City",
-    "LocStateProvince":"Distrito Federal",
+    "LocStateProvinceDescription":"Distrito Federal",
     "LocCountryDescription":"Mexico",
     "LocZipPostalCode":"1389",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"19.246431,-99.074829"
   },
   {
     "id":177,
     "SSOCount":16,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"7600 Corporate Center Drive",
+    "LocAddressLine2":"",
     "LocationName":"Miami (CC) FL US",
     "LocCity":"Miami",
-    "LocStateProvince":"Florida",
+    "LocStateProvinceDescription":"Florida",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33126-1218",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"25.778647,-80.296239"
   },
   {
     "id":178,
@@ -2162,9 +2486,11 @@
     "LocAddressLine2":"Corporate Park, GE Building, Midrand",
     "LocationName":"Midrand(Gazelle) ZA",
     "LocCity":"Johannesburg",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"South Africa",
     "LocZipPostalCode":"1685",
-    "LocRegion":"Africa"
+    "LocRegion":"Africa",
+    "LatLong":"-26.014277,28.147377"
   },
   {
     "id":179,
@@ -2174,94 +2500,109 @@
     "LocAddressLine2":"Carugate",
     "LocationName":"Milano (Carugate) IT",
     "LocCity":"Milan",
-    "LocStateProvince":"Milan",
+    "LocStateProvinceDescription":"Milan",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"20061",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.555379,9.336032"
   },
   {
     "id":180,
     "SSOCount":345,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Via Galeno 36   ",
+    "LocAddressLine2":"",
     "LocationName":"Milano (ViaGal) IT",
     "LocCity":"Milan",
-    "LocStateProvince":"Milan",
+    "LocStateProvinceDescription":"Milan",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"20126",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.517424,9.218408"
   },
   {
     "id":181,
     "SSOCount":13,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"2001 SW 37th Street",
+    "LocAddressLine2":"",
     "LocationName":"Milwaukee(HC)PhWI US",
     "LocCity":"Milwaukee",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53215-2092",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.991356,-87.943284"
   },
   {
     "id":182,
     "SSOCount":80,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"430 West Grange",
+    "LocAddressLine2":"",
     "LocationName":"Milw-DBR (HC) WI US",
     "LocCity":"Milwaukee",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53207-6033",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.971207,-87.904057"
   },
   {
     "id":183,
     "SSOCount":530,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4855 West Electric Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Milw-EAve WI US",
     "LocCity":"West Milwaukee",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53219-1628",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.012514,-87.972586"
   },
   {
     "id":184,
     "SSOCount":429,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8200 West Tower Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Milw-Marq (HC) WI US",
     "LocCity":"Milwaukee",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53223-3219",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.166674,-87.982476"
   },
   {
     "id":185,
     "SSOCount":13,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"10725-10731 Enterprise Way",
+    "LocAddressLine2":"",
     "LocationName":"Miramar FL US 2",
     "LocCity":"Miramar",
-    "LocStateProvince":"Florida",
+    "LocStateProvinceDescription":"Florida",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33025",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"25.990643,-80.279359"
   },
   {
     "id":186,
     "SSOCount":190,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"2300 Meadowvale Boulevard",
+    "LocAddressLine2":"",
     "LocationName":"Mississau(2300)ON CA",
     "LocCity":"Mississauga",
-    "LocStateProvince":"Ontario",
+    "LocStateProvinceDescription":"Ontario",
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":"L5N 5P9",
-    "LocRegion":"Canada"
+    "LocRegion":"Canada",
+    "LatLong":"43.582922,-79.759395"
   },
   {
     "id":187,
@@ -2271,9 +2612,11 @@
     "LocAddressLine2":"Parc des Athamantes",
     "LocationName":"Montpellier (HC)FR",
     "LocCity":"Montpellier",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"34 010      ",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":188,
@@ -2283,22 +2626,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Morioka (HC) JP",
     "LocCity":"Morioka",
-    "LocStateProvince":"Iwate",
+    "LocStateProvinceDescription":"Iwate",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"020-0864",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"39.686614,141.145969"
   },
   {
     "id":189,
     "SSOCount":12,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"46 Steel Place",
+    "LocAddressLine2":"",
     "LocationName":"Morningside(Steel)AU",
     "LocCity":"Morningside",
-    "LocStateProvince":"Queensland",
+    "LocStateProvinceDescription":"Queensland",
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"4170",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-27.46728,153.07314"
   },
   {
     "id":190,
@@ -2308,9 +2654,11 @@
     "LocAddressLine2":"Naberezhnaya Tower",
     "LocationName":"Moscow (NabrTwr) RU",
     "LocCity":"Moscow",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Russian Federation",
     "LocZipPostalCode":"123317",
-    "LocRegion":"Russia/CIS"
+    "LocRegion":"Russia/CIS",
+    "LatLong":"55.758206,37.540541"
   },
   {
     "id":191,
@@ -2320,10 +2668,11 @@
     "LocAddressLine2":"Park Forum",
     "LocationName":"Muenchen (Oskar) DE",
     "LocCity":"Munich",
-    "LocStateProvince":"Bavaria",
+    "LocStateProvinceDescription":"Bavaria",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"80807",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"48.186539,11.585399"
   },
   {
     "id":192,
@@ -2333,10 +2682,11 @@
     "LocAddressLine2":"Windsor Building, Vidyanagri Marg, Santacruz East, Kalina",
     "LocationName":"Mumbai (Kalina) IN",
     "LocCity":"Mumbai",
-    "LocStateProvince":"Maharashtra",
+    "LocStateProvinceDescription":"Maharashtra",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"400 098",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"19.075984,72.877656"
   },
   {
     "id":193,
@@ -2346,10 +2696,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Nagano (HC) JP",
     "LocCity":"Matsumoto",
-    "LocStateProvince":"Nagano",
+    "LocStateProvinceDescription":"Nagano",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"390-0831",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"36.220049,137.967598"
   },
   {
     "id":194,
@@ -2359,10 +2710,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Nagoya (HC) JP",
     "LocCity":"Nagoya",
-    "LocStateProvince":"Aichi",
+    "LocStateProvinceDescription":"Aichi",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"468-0011",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.123197,137.003592"
   },
   {
     "id":195,
@@ -2372,8 +2724,11 @@
     "LocAddressLine2":"Ground Floor, Westlands, Nairobi",
     "LocationName":"Nairobi(Courtyard)KE",
     "LocCity":"Nairobi",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Kenya",
-    "LocRegion":"Africa"
+    "LocZipPostalCode":"",
+    "LocRegion":"Africa",
+    "LatLong":"-1.292066,36.821946"
   },
   {
     "id":196,
@@ -2383,10 +2738,11 @@
     "LocAddressLine2":"Jiangxin International Building",
     "LocationName":"Nanchang(JiangXin)CN",
     "LocCity":"Nanchang",
-    "LocStateProvince":"Jiangxi",
+    "LocStateProvinceDescription":"Jiangxi",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":197,
@@ -2396,9 +2752,11 @@
     "LocAddressLine2":"Parc Club de Nancy Brabois",
     "LocationName":"Nancy (HC) FR",
     "LocCity":"Vandoeuvre",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"54500",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.65979,6.167211"
   },
   {
     "id":198,
@@ -2408,10 +2766,11 @@
     "LocAddressLine2":"Nanjing World Trade Center (West Tower)",
     "LocationName":"Nanjing-RepO(HC) CN",
     "LocCity":"Nanjing",
-    "LocStateProvince":"Jiangsu",
+    "LocStateProvinceDescription":"Jiangsu",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"210005",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"32.041707,118.784075"
   },
   {
     "id":199,
@@ -2421,79 +2780,95 @@
     "LocAddressLine2":"Qingxiu District",
     "LocationName":"Nanning (HC) CN",
     "LocCity":"Nanning",
-    "LocStateProvince":"Guangxi",
+    "LocStateProvinceDescription":"Guangxi",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"530000",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"22.815546,108.327698"
   },
   {
     "id":200,
     "SSOCount":28,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1 Rue du Chateau de L'Eraudiere, IDAHO",
+    "LocAddressLine2":"",
     "LocationName":"Nantes (GEM2) FR",
     "LocCity":"Nantes",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"44300",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"47.233628,-1.508893"
   },
   {
     "id":201,
     "SSOCount":67,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Via Casoria 301 n.5",
+    "LocAddressLine2":"",
     "LocationName":"Napoli (HC) IT",
     "LocCity":"Casoria",
-    "LocStateProvince":"Naples",
+    "LocStateProvinceDescription":"Naples",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"80026",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"40.907598,14.292825"
   },
   {
     "id":202,
     "SSOCount":12,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3920 Howard Avenue",
+    "LocAddressLine2":"",
     "LocationName":"NewOrleans(Hw) LA US",
     "LocCity":"New Orleans",
-    "LocStateProvince":"Louisiana",
+    "LocStateProvinceDescription":"Louisiana",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"70125-1321",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"29.956665,-90.107393"
   },
   {
     "id":203,
     "SSOCount":13,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"885 avenue du Dr Julien Lefebvre",
+    "LocAddressLine2":"",
     "LocationName":"Nice (HC) FR",
     "LocCity":"Villeneuve Loubet",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"6270",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":204,
     "SSOCount":92,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"14470 Bergen Boulevard,Saxony 100 Hundred Building",
+    "LocAddressLine2":"",
     "LocationName":"Noblsvlle(Brgn)IN US",
     "LocCity":"Noblesville",
-    "LocStateProvince":"Indiana",
+    "LocStateProvinceDescription":"Indiana",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"46060-3307",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.045592,-86.008596"
   },
   {
     "id":205,
     "SSOCount":20,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Krasnoyarskaya Street 35-Grinvich Business Centre",
+    "LocAddressLine2":"",
     "LocationName":"Novosibirsk(Kras) RU",
     "LocCity":"Novosibirsk",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Russian Federation",
     "LocZipPostalCode":"630312",
-    "LocRegion":"Russia/CIS"
+    "LocRegion":"Russia/CIS",
+    "LatLong":","
   },
   {
     "id":206,
@@ -2503,10 +2878,11 @@
     "LocAddressLine2":"Butsuryu Bldg, A-block",
     "LocationName":"Ohta (HC) Am JP",
     "LocCity":"Ohta-ku",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"143-0006",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.583276,139.744765"
   },
   {
     "id":207,
@@ -2516,32 +2892,39 @@
     "LocAddressLine2":" ",
     "LocationName":"Okayama (HC) JP",
     "LocCity":"Okayama",
-    "LocStateProvince":"Okayama",
+    "LocStateProvinceDescription":"Okayama",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"700-0925",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.649196,133.900146"
   },
   {
     "id":208,
     "SSOCount":16,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Rua Sa da Bandeira, 585",
+    "LocAddressLine2":"",
     "LocationName":"Oporto (HC) PT",
     "LocCity":"Porto",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Portugal",
     "LocZipPostalCode":"111111",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"41.151336,-8.606623"
   },
   {
     "id":209,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"UCR Galicia, Parque Empresarial 20, Ordes 15680",
+    "LocAddressLine2":"",
     "LocationName":"Ordes (HC) ES",
     "LocCity":"Ordes",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"15806",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"42.957356,-7.991134"
   },
   {
     "id":210,
@@ -2551,21 +2934,25 @@
     "LocAddressLine2":"KM Nishiumeda Building",
     "LocationName":"Osaka(KM)JP",
     "LocCity":"Osaka",
-    "LocStateProvince":"Osaka",
+    "LocStateProvinceDescription":"Osaka",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"553-0003",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.696223,135.486309"
   },
   {
     "id":211,
     "SSOCount":37,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Sandakerveien 100C",
+    "LocAddressLine2":"",
     "LocationName":"Oslo (100C) NO",
     "LocCity":"Oslo",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"484",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"59.94563,10.771032"
   },
   {
     "id":212,
@@ -2575,777 +2962,11 @@
     "LocAddressLine2":"P.O. Box 4220, Nydalen",
     "LocationName":"Oslo (HC)Am NO",
     "LocCity":"Oslo",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"401",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":213,
-    "SSOCount":15,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other AB CA",
-    "LocationName":"Other AB CA",
-    "LocCity":"",
-    "LocStateProvince":"Alberta",
-    "LocCountryDescription":"Canada",
-    "LocRegion":"Canada"
-  },
-  {
-    "id":214,
-    "SSOCount":94,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other AL US",
-    "LocationName":"Other AL US",
-    "LocCity":"",
-    "LocStateProvince":"Alabama",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":215,
-    "SSOCount":46,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other AR US",
-    "LocationName":"Other AR US",
-    "LocCity":"",
-    "LocStateProvince":"Arkansas",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":216,
-    "SSOCount":145,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other AZ US",
-    "LocationName":"Other AZ US",
-    "LocCity":"",
-    "LocStateProvince":"Arizona",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":217,
-    "SSOCount":28,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other BC CA",
-    "LocationName":"Other BC CA",
-    "LocCity":"",
-    "LocStateProvince":"British Columbia",
-    "LocCountryDescription":"Canada",
-    "LocRegion":"Canada"
-  },
-  {
-    "id":218,
-    "SSOCount":16,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Belgium",
-    "LocationName":"Other Belgium BE",
-    "LocCity":"",
-    "LocCountryDescription":"Belgium",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":219,
-    "SSOCount":656,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other CA US",
-    "LocationName":"Other CA US",
-    "LocCity":"",
-    "LocStateProvince":"California",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":220,
-    "SSOCount":167,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other CO US",
-    "LocationName":"Other CO US",
-    "LocCity":"",
-    "LocStateProvince":"Colorado",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":221,
-    "SSOCount":74,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other CT US",
-    "LocationName":"Other CT US",
-    "LocCity":"",
-    "LocStateProvince":"Connecticut",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":222,
-    "SSOCount":13,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other DC US",
-    "LocationName":"Other DC US",
-    "LocCity":"",
-    "LocStateProvince":"District of Columbia",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":223,
-    "SSOCount":12,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other DE US",
-    "LocationName":"Other DE US",
-    "LocCity":"",
-    "LocStateProvince":"Delaware",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":224,
-    "SSOCount":25,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Finland",
-    "LocationName":"Other Finland FI",
-    "LocCity":"",
-    "LocCountryDescription":"Finland",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":225,
-    "SSOCount":672,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other FL US",
-    "LocationName":"Other FL US",
-    "LocCity":"",
-    "LocStateProvince":"Florida",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":226,
-    "SSOCount":65,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other France",
-    "LocationName":"Other France FR",
-    "LocCity":"",
-    "LocCountryDescription":"France",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":227,
-    "SSOCount":275,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other GA US",
-    "LocationName":"Other GA US",
-    "LocCity":"",
-    "LocStateProvince":"Georgia",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":228,
-    "SSOCount":720,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Germany",
-    "LocationName":"Other Germany DE",
-    "LocCity":"",
-    "LocCountryDescription":"Germany",
-    "LocRegion":"Germany"
-  },
-  {
-    "id":229,
-    "SSOCount":14,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other GuangDong CN",
-    "LocationName":"Other GuangDong CN",
-    "LocCity":"GuangDong",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":230,
-    "SSOCount":12,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other HaiNan CN",
-    "LocationName":"Other HaiNan CN",
-    "LocCity":"HaiNan",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":231,
-    "SSOCount":18,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other HeBei CN",
-    "LocationName":"Other HeBei CN",
-    "LocCity":"HeBei",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":232,
-    "SSOCount":13,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other HI US",
-    "LocationName":"Other HI US",
-    "LocCity":"",
-    "LocStateProvince":"Hawaii",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":233,
-    "SSOCount":42,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other IA US",
-    "LocationName":"Other IA US",
-    "LocCity":"",
-    "LocStateProvince":"Iowa",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":234,
-    "SSOCount":36,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other ID US",
-    "LocationName":"Other ID US",
-    "LocCity":"",
-    "LocStateProvince":"Idaho",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":235,
-    "SSOCount":379,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other IL US",
-    "LocationName":"Other IL US",
-    "LocCity":"",
-    "LocStateProvince":"Illinois",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":236,
-    "SSOCount":128,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other IN US",
-    "LocationName":"Other IN US",
-    "LocCity":"",
-    "LocStateProvince":"Indiana",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":237,
-    "SSOCount":29,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other JiangSu CN",
-    "LocationName":"Other JiangSu CN",
-    "LocCity":"JiangSu",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":238,
-    "SSOCount":69,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other KS US",
-    "LocationName":"Other KS US",
-    "LocCity":"",
-    "LocStateProvince":"Kansas",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":239,
-    "SSOCount":85,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other KY US",
-    "LocationName":"Other KY US",
-    "LocCity":"",
-    "LocStateProvince":"Kentucky",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":240,
-    "SSOCount":146,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other LA US",
-    "LocationName":"Other LA US",
-    "LocCity":"",
-    "LocStateProvince":"Louisiana",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":241,
-    "SSOCount":10,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other LiaoNing CN",
-    "LocationName":"Other LiaoNing CN",
-    "LocCity":"LiaoNing",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":242,
-    "SSOCount":233,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MA US",
-    "LocationName":"Other MA US",
-    "LocCity":"",
-    "LocStateProvince":"Massachusetts",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":243,
-    "SSOCount":159,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MD US",
-    "LocationName":"Other MD US",
-    "LocCity":"",
-    "LocStateProvince":"Maryland",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":244,
-    "SSOCount":25,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other ME US",
-    "LocationName":"Other ME US",
-    "LocCity":"",
-    "LocStateProvince":"Maine",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":245,
-    "SSOCount":141,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Mexico",
-    "LocationName":"Other Mexico MX",
-    "LocCity":"",
-    "LocStateProvince":"Distrito Federal",
-    "LocCountryDescription":"Mexico",
-    "LocRegion":"Latin America"
-  },
-  {
-    "id":246,
-    "SSOCount":184,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MI US",
-    "LocationName":"Other MI US",
-    "LocCity":"",
-    "LocStateProvince":"Michigan",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":247,
-    "SSOCount":102,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MN US",
-    "LocationName":"Other MN US",
-    "LocCity":"",
-    "LocStateProvince":"Minnesota",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":248,
-    "SSOCount":151,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MO US",
-    "LocationName":"Other MO US",
-    "LocCity":"",
-    "LocStateProvince":"Missouri",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":249,
-    "SSOCount":56,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MS US",
-    "LocationName":"Other MS US",
-    "LocCity":"",
-    "LocStateProvince":"Mississippi",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":250,
-    "SSOCount":19,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other MT US",
-    "LocationName":"Other MT US",
-    "LocCity":"",
-    "LocStateProvince":"Montana",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":251,
-    "SSOCount":224,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NC US",
-    "LocationName":"Other NC US",
-    "LocCity":"",
-    "LocStateProvince":"North Carolina",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":252,
-    "SSOCount":32,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other ND US",
-    "LocationName":"Other ND US",
-    "LocCity":"",
-    "LocStateProvince":"North Dakota",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":253,
-    "SSOCount":31,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NE US",
-    "LocationName":"Other NE US",
-    "LocCity":"",
-    "LocStateProvince":"Nebraska",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":254,
-    "SSOCount":25,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NeiMengGu CN",
-    "LocationName":"Other NeiMengGu CN",
-    "LocCity":"NeiMengGu",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
-  },
-  {
-    "id":255,
-    "SSOCount":21,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Netherlands",
-    "LocationName":"Other Netherlands NL",
-    "LocCity":"",
-    "LocCountryDescription":"Netherlands",
-    "LocZipPostalCode":".",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":256,
-    "SSOCount":73,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NH US",
-    "LocationName":"Other NH US",
-    "LocCity":"",
-    "LocStateProvince":"New Hampshire",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":257,
-    "SSOCount":312,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NJ US",
-    "LocationName":"Other NJ US",
-    "LocCity":"",
-    "LocStateProvince":"New Jersey",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":258,
-    "SSOCount":26,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NM US",
-    "LocationName":"Other NM US",
-    "LocCity":"",
-    "LocStateProvince":"New Mexico",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":259,
-    "SSOCount":17,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NS CA",
-    "LocationName":"Other NS CA",
-    "LocCity":"",
-    "LocStateProvince":"Nova Scotia",
-    "LocCountryDescription":"Canada",
-    "LocRegion":"Canada"
-  },
-  {
-    "id":260,
-    "SSOCount":71,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NV US",
-    "LocationName":"Other NV US",
-    "LocCity":"",
-    "LocStateProvince":"Nevada",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":261,
-    "SSOCount":388,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other NY US",
-    "LocationName":"Other NY US",
-    "LocCity":"",
-    "LocStateProvince":"New York",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":262,
-    "SSOCount":229,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other OH US",
-    "LocationName":"Other OH US",
-    "LocCity":"",
-    "LocStateProvince":"Ohio",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":263,
-    "SSOCount":97,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other OK US",
-    "LocationName":"Other OK US",
-    "LocCity":"",
-    "LocStateProvince":"Oklahoma",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":264,
-    "SSOCount":186,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other ON CA",
-    "LocationName":"Other ON CA",
-    "LocCity":"",
-    "LocStateProvince":"Ontario",
-    "LocCountryDescription":"Canada",
-    "LocRegion":"Canada"
-  },
-  {
-    "id":265,
-    "SSOCount":54,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other OR US",
-    "LocationName":"Other OR US",
-    "LocCity":"",
-    "LocStateProvince":"Oregon",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":266,
-    "SSOCount":350,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other PA US",
-    "LocationName":"Other PA US",
-    "LocCity":"",
-    "LocStateProvince":"Pennsylvania",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":267,
-    "SSOCount":75,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other QC CA",
-    "LocationName":"Other QC CA",
-    "LocCity":"",
-    "LocStateProvince":"Quebec",
-    "LocCountryDescription":"Canada",
-    "LocRegion":"Canada"
-  },
-  {
-    "id":268,
-    "SSOCount":23,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other RI US",
-    "LocationName":"Other RI US",
-    "LocCity":"",
-    "LocStateProvince":"Rhode Island",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":269,
-    "SSOCount":132,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Russian Federation",
-    "LocationName":"Other Russia RU",
-    "LocCity":"",
-    "LocCountryDescription":"Russian Federation",
-    "LocZipPostalCode":".",
-    "LocRegion":"Russia/CIS"
-  },
-  {
-    "id":270,
-    "SSOCount":147,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other SC US",
-    "LocationName":"Other SC US",
-    "LocCity":"",
-    "LocStateProvince":"South Carolina",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":271,
-    "SSOCount":54,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other SD US",
-    "LocationName":"Other SD US",
-    "LocCity":"",
-    "LocStateProvince":"South Dakota",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":272,
-    "SSOCount":18,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Sweden",
-    "LocationName":"Other Sweden SE",
-    "LocCity":"",
-    "LocCountryDescription":"Sweden",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":273,
-    "SSOCount":265,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other TN US",
-    "LocationName":"Other TN US",
-    "LocCity":"",
-    "LocStateProvince":"Tennessee",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":274,
-    "SSOCount":13,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other Turkey",
-    "LocationName":"Other Turkey TR",
-    "LocCity":"",
-    "LocCountryDescription":"Turkey",
-    "LocZipPostalCode":".",
-    "LocRegion":"MENAT"
-  },
-  {
-    "id":275,
-    "SSOCount":718,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other TX US",
-    "LocationName":"Other TX US",
-    "LocCity":"",
-    "LocStateProvince":"Texas",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":276,
-    "SSOCount":584,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other United Kingdom",
-    "LocationName":"Other Untd Kngdm GB",
-    "LocCity":"",
-    "LocCountryDescription":"United Kingdom",
-    "LocRegion":"Western Europe"
-  },
-  {
-    "id":277,
-    "SSOCount":76,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other UT US",
-    "LocationName":"Other UT US",
-    "LocCity":"",
-    "LocStateProvince":"Utah",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":278,
-    "SSOCount":198,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other VA US",
-    "LocationName":"Other VA US",
-    "LocCity":"",
-    "LocStateProvince":"Virginia",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":279,
-    "SSOCount":24,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other VT US",
-    "LocationName":"Other VT US",
-    "LocCity":"",
-    "LocStateProvince":"Vermont",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":280,
-    "SSOCount":190,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other WA US",
-    "LocationName":"Other WA US",
-    "LocCity":"",
-    "LocStateProvince":"Washington",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":281,
-    "SSOCount":393,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other WI US",
-    "LocationName":"Other WI US",
-    "LocCity":"",
-    "LocStateProvince":"Wisconsin",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":282,
-    "SSOCount":31,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other WV US",
-    "LocationName":"Other WV US",
-    "LocCity":"",
-    "LocStateProvince":"West Virginia",
-    "LocCountryDescription":"United States",
-    "LocRegion":"United States"
-  },
-  {
-    "id":283,
-    "SSOCount":20,
-    "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Other ZheJiang CN",
-    "LocationName":"Other ZheJiang CN",
-    "LocCity":"ZheJiang",
-    "LocCountryDescription":"China",
-    "LocRegion":"Greater China"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":284,
@@ -3355,56 +2976,67 @@
     "LocAddressLine2":"Ctra. Valdemossa 79",
     "LocationName":"Palma (Ctra) ES",
     "LocCity":"Palma de Mallorca",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"7010",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":285,
     "SSOCount":41,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1 Maynard Drive, NUS Corporate Plaza",
+    "LocAddressLine2":"",
     "LocationName":"ParkRidge(Mayn)NJ US",
     "LocCity":"Park Ridge",
-    "LocStateProvince":"New Jersey",
+    "LocStateProvinceDescription":"New Jersey",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"07656-1878",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.037597,-74.040696"
   },
   {
     "id":286,
     "SSOCount":201,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"32 Phillip Street",
+    "LocAddressLine2":"",
     "LocationName":"Parramatta(Phil) AU",
     "LocCity":"Parramatta",
-    "LocStateProvince":"New South Wales",
+    "LocStateProvinceDescription":"New South Wales",
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"2150",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-33.815128,151.003155"
   },
   {
     "id":287,
     "SSOCount":139,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Kremplstrasse 5",
+    "LocAddressLine2":"",
     "LocationName":"Pasching (PAA) AT",
     "LocCity":"Pasching",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Austria",
     "LocZipPostalCode":"4061",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.259124,14.204556"
   },
   {
     "id":288,
     "SSOCount":106,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"N16 W22419 Watertown Road",
+    "LocAddressLine2":"",
     "LocationName":"Pewauk-EC (HC) WI US",
     "LocCity":"Pewaukee",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53186-1118",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.054206,-88.216903"
   },
   {
     "id":289,
@@ -3414,34 +3046,39 @@
     "LocAddressLine2":"Building 8, Allred Cotton Center",
     "LocationName":"Phoenix (HC)PD AZ US",
     "LocCity":"Phoenix",
-    "LocStateProvince":"Arizona",
+    "LocStateProvinceDescription":"Arizona",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"85040-8853",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.404069,-112.029752"
   },
   {
     "id":290,
     "SSOCount":24,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"20601 North 19th Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Phoenix (HC)Ph AZ US",
     "LocCity":"Phoenix",
-    "LocStateProvince":"Arizona",
+    "LocStateProvinceDescription":"Arizona",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"85027-3587",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.678238,-112.101291"
   },
   {
     "id":291,
     "SSOCount":154,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"800 Centennial Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Piscataway NJ US",
     "LocCity":"Piscataway",
-    "LocStateProvince":"New Jersey",
+    "LocStateProvinceDescription":"New Jersey",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"08854-3911",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.546663,-74.489945"
   },
   {
     "id":292,
@@ -3451,10 +3088,11 @@
     "LocAddressLine2":"Bakery Square, Suite 200",
     "LocationName":"Pittsburgh(Pen)PA US",
     "LocCity":"Pittsburgh",
-    "LocStateProvince":"Pennsylvania",
+    "LocStateProvinceDescription":"Pennsylvania",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"15206",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.472064,-79.913673"
   },
   {
     "id":293,
@@ -3464,34 +3102,39 @@
     "LocAddressLine2":"2nd Floor",
     "LocationName":"Pittsburgh(Wat)PA US",
     "LocCity":"Pittsburgh",
-    "LocStateProvince":"Pennsylvania",
+    "LocStateProvinceDescription":"Pennsylvania",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"15222",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.447526,-79.993398"
   },
   {
     "id":294,
     "SSOCount":93,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"6860 Dallas Parkway, Lincoln Legacy One",
+    "LocAddressLine2":"",
     "LocationName":"Plano TX US",
     "LocCity":"Plano",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"75024-4232",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"33.078715,-96.808306"
   },
   {
     "id":295,
     "SSOCount":23,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"80 East Seaview Blvd",
+    "LocAddressLine2":"",
     "LocationName":"PortWash(HC)Ph NY US",
     "LocCity":"Port Washington",
-    "LocStateProvince":"New York",
+    "LocStateProvinceDescription":"New York",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"11050-4618",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.825656,-73.698186"
   },
   {
     "id":296,
@@ -3501,9 +3144,11 @@
     "LocAddressLine2":"1422/1a",
     "LocationName":"Praha (BBC) CZ",
     "LocCity":"Praha",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Czech Republic",
     "LocZipPostalCode":"14028",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":"43.322314,-78.707938"
   },
   {
     "id":297,
@@ -3513,10 +3158,11 @@
     "LocAddressLine2":"Sky Vista,",
     "LocationName":"Pune MH IN 10",
     "LocCity":"Pune",
-    "LocStateProvince":"Maharashtra",
+    "LocStateProvinceDescription":"Maharashtra",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"411014",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"18.565785,73.918816"
   },
   {
     "id":298,
@@ -3526,32 +3172,39 @@
     "LocAddressLine2":"Shangri-La Centre Qingdao, Office Tower, Shinan District",
     "LocationName":"Qingdao(HKM Road)CN",
     "LocCity":"Qingdao",
-    "LocStateProvince":"Shandong",
+    "LocStateProvinceDescription":"Shandong",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"266071",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"36.068813,120.39358"
   },
   {
     "id":299,
     "SSOCount":52,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"12 Hamada Street,Helka 116, Gush 3688,Tamar Industrial Park",
+    "LocAddressLine2":"",
     "LocationName":"Rehovot (Hamada) IL",
     "LocCity":"Rehovot",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Israel",
     "LocZipPostalCode":"76703",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"31.553597,-97.133474"
   },
   {
     "id":300,
     "SSOCount":21,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"ZI Sud Est, 19 and 21 rue de l'oseraie",
+    "LocAddressLine2":"",
     "LocationName":"Rennes (HC) FR",
     "LocCity":"Cesson Sevigne",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"35510",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.119472,-1.602923"
   },
   {
     "id":301,
@@ -3561,10 +3214,11 @@
     "LocAddressLine2":"Botanicca Corporate Park ",
     "LocationName":"Richmond (Swan) AU",
     "LocCity":"Richmond",
-    "LocStateProvince":"Victoria",
+    "LocStateProvinceDescription":"Victoria",
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"3121",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-37.818635,145.00147"
   },
   {
     "id":302,
@@ -3574,9 +3228,11 @@
     "LocAddressLine2":"Caribe Development, GM Group Plaza",
     "LocationName":"RioPiedras PR 1",
     "LocCity":"Rio Piedras",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Puerto Rico",
     "LocZipPostalCode":"00926-2722",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":","
   },
   {
     "id":303,
@@ -3586,21 +3242,25 @@
     "LocAddressLine2":"Tatweer Towers, ",
     "LocationName":"Riyadh (HC) SA",
     "LocCity":"Riyadh",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Saudi Arabia",
     "LocZipPostalCode":"11391",
-    "LocRegion":"MENAT"
+    "LocRegion":"MENAT",
+    "LatLong":","
   },
   {
     "id":304,
     "SSOCount":79,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Viale L. Schiavonetti 270",
+    "LocAddressLine2":"",
     "LocationName":"Roma (HC) IT",
     "LocCity":"Rome",
-    "LocStateProvince":"Rome",
+    "LocStateProvinceDescription":"Rome",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"173",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"41.844684,12.616423"
   },
   {
     "id":305,
@@ -3610,10 +3270,11 @@
     "LocAddressLine2":"Pacific Gulf Commerce Park",
     "LocationName":"Sacramento(Tri)CA US",
     "LocCity":"Sacramento",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"95815-4310",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"38.596316,-121.439904"
   },
   {
     "id":306,
@@ -3623,8 +3284,11 @@
     "LocAddressLine2":"Parc d'Activites Lesquin Sainghin Fretin,",
     "LocationName":"Sainghin-en-Melantoi FR 1",
     "LocCity":"Sainghin-en-Melantois",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
-    "LocRegion":"Western Europe"
+    "LocZipPostalCode":"",
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":307,
@@ -3634,10 +3298,11 @@
     "LocAddressLine2":"Urban V Kitayono Building",
     "LocationName":"Saitama(Urban V)JP",
     "LocCity":"Saitama",
-    "LocStateProvince":"Saitama",
+    "LocStateProvinceDescription":"Saitama",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"338-0001 ",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.894299,139.626083"
   },
   {
     "id":308,
@@ -3647,22 +3312,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Sakai (HC) JP",
     "LocCity":"Sakai",
-    "LocStateProvince":"Osaka",
+    "LocStateProvinceDescription":"Osaka",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"591-8033",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.547906,135.493967"
   },
   {
     "id":309,
     "SSOCount":460,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"384 North Wright Brothers Drive",
+    "LocAddressLine2":"",
     "LocationName":"Salt Lake (HC) UT US",
     "LocCity":"Salt Lake City",
-    "LocStateProvince":"Utah",
+    "LocStateProvinceDescription":"Utah",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"84116-2862",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.803833,-112.02379"
   },
   {
     "id":310,
@@ -3672,46 +3340,53 @@
     "LocAddressLine2":"Sorrento South Corporate Center,",
     "LocationName":"San Diego(Scr) CA US",
     "LocCity":"San Diego",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92121",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"32.898114,-117.202936"
   },
   {
     "id":311,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4716 Research Drive, Northwest Corporate Center",
+    "LocAddressLine2":"",
     "LocationName":"SanAntonio(Res)TX US",
     "LocCity":"San Antonio",
-    "LocStateProvince":"Texas",
+    "LocStateProvinceDescription":"Texas",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"78240-5001",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"29.526977,-98.61057"
   },
   {
     "id":312,
     "SSOCount":14,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4877 Mercury Street, Building B",
+    "LocAddressLine2":"",
     "LocationName":"SanDiego(HC)Ph CA US",
     "LocCity":"San Diego",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92111-2104",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"32.825643,-117.155887"
   },
   {
     "id":313,
     "SSOCount":78,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"2623 Camino Ramon",
+    "LocAddressLine2":"",
     "LocationName":"SanRamon(Camin)CA US",
     "LocCity":"San Ramon",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"94583-9130",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"37.779927,-121.978015"
   },
   {
     "id":314,
@@ -3721,9 +3396,11 @@
     "LocAddressLine2":"Edificio Titanium La Portada, Las Condes",
     "LocationName":"Santiago (Titan) CL",
     "LocCity":"Santiago",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Chile",
     "LocZipPostalCode":"7550647",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":","
   },
   {
     "id":315,
@@ -3733,10 +3410,11 @@
     "LocAddressLine2":"Cidade Jardim Corporate Center -�Continental Tower",
     "LocationName":"Sao Paulo (Julho) BR",
     "LocCity":"Sao Paulo",
-    "LocStateProvince":"Sao Paulo",
+    "LocStateProvinceDescription":"Sao Paulo",
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"05676-120",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":","
   },
   {
     "id":316,
@@ -3746,10 +3424,11 @@
     "LocAddressLine2":"Business Center Tambore ",
     "LocationName":"Sao Paulo CNAGA BR",
     "LocCity":"Barueri",
-    "LocStateProvince":"Sao Paulo",
+    "LocStateProvinceDescription":"Sao Paulo",
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"06460-040",
-    "LocRegion":"Latin America"
+    "LocRegion":"Latin America",
+    "LatLong":"-23.470704,-46.842829"
   },
   {
     "id":317,
@@ -3759,34 +3438,39 @@
     "LocAddressLine2":" ",
     "LocationName":"Sapporo (HC) JP",
     "LocCity":"Sapporo",
-    "LocStateProvince":"Hokkaido",
+    "LocStateProvinceDescription":"Hokkaido",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"063-0801 ",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"43.069108,141.314212"
   },
   {
     "id":318,
     "SSOCount":149,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"925 Fourth Avenue",
+    "LocAddressLine2":"",
     "LocationName":"Seattle (4th) WA US",
     "LocCity":"Seattle",
-    "LocStateProvince":"Washington",
+    "LocStateProvinceDescription":"Washington",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98104-1157",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"47.605453,-122.332786"
   },
   {
     "id":319,
     "SSOCount":12,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4219 22nd Avenue West",
+    "LocAddressLine2":"",
     "LocationName":"Seattle (HC)Ph WA US",
     "LocCity":"Seattle",
-    "LocStateProvince":"Washington",
+    "LocStateProvinceDescription":"Washington",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98199",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"47.650708,-122.406786"
   },
   {
     "id":320,
@@ -3796,10 +3480,11 @@
     "LocAddressLine2":"Center Point",
     "LocationName":"Secunderabad TS IN 3",
     "LocCity":"Secunderabad",
-    "LocStateProvince":"Telangana",
+    "LocStateProvinceDescription":"Telangana",
     "LocCountryDescription":"India",
     "LocZipPostalCode":"500003",
-    "LocRegion":"India"
+    "LocRegion":"India",
+    "LatLong":"17.436926,78.489401"
   },
   {
     "id":321,
@@ -3809,10 +3494,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Sendai (HC) JP",
     "LocCity":"Sendai",
-    "LocStateProvince":"Miyagi",
+    "LocStateProvinceDescription":"Miyagi",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"981-3133",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"38.324012,140.882145"
   },
   {
     "id":322,
@@ -3822,10 +3508,11 @@
     "LocAddressLine2":"Jungwon-gu",
     "LocationName":"Seongnam-si(Sunh) KR",
     "LocCity":"Seongnam",
-    "LocStateProvince":"Gyeonggi",
+    "LocStateProvinceDescription":"Gyeonggi",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"462-807",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":","
   },
   {
     "id":323,
@@ -3835,10 +3522,11 @@
     "LocAddressLine2":"POBA Gangnam Tower",
     "LocationName":"Seoul (POBA) KR",
     "LocCity":"Seoul",
-    "LocStateProvince":"Seoul",
+    "LocStateProvinceDescription":"Seoul",
     "LocCountryDescription":"Korea, Republic of",
     "LocZipPostalCode":"135-820",
-    "LocRegion":"Korea"
+    "LocRegion":"Korea",
+    "LatLong":","
   },
   {
     "id":324,
@@ -3848,9 +3536,11 @@
     "LocAddressLine2":"Edificio Viapol, Block 4, Portal A, Unit 16",
     "LocationName":"Sevilla(BAL)ES",
     "LocCity":"Sevilla",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"41018",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"37.383834,-5.980614"
   },
   {
     "id":325,
@@ -3860,10 +3550,11 @@
     "LocAddressLine2":"Zhangjiang Hi-Tech Park",
     "LocationName":"Shanghai (CTC) CN",
     "LocCity":"Shanghai",
-    "LocStateProvince":"Shanghai",
+    "LocStateProvinceDescription":"Shanghai",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.201338,121.632112"
   },
   {
     "id":326,
@@ -3873,22 +3564,25 @@
     "LocAddressLine2":"Shanghai Zhangjiang Hi-Tech Park,Land A3-3",
     "LocationName":"Shanghai (Zha) CN",
     "LocCity":"Shanghai",
-    "LocStateProvince":"Shanghai",
+    "LocStateProvinceDescription":"Shanghai",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.201338,121.632112"
   },
   {
     "id":327,
     "SSOCount":17,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"BLD-1, 1,HuaTuo Rd",
+    "LocAddressLine2":"",
     "LocationName":"Shanghai 31 CN 15",
     "LocCity":"Shanghai",
-    "LocStateProvince":"Shanghai",
+    "LocStateProvinceDescription":"Shanghai",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.201338,121.632112"
   },
   {
     "id":328,
@@ -3898,22 +3592,25 @@
     "LocAddressLine2":"Zhangjiang Hi Tech Park",
     "LocationName":"Shanghai(ZngJng) CN",
     "LocCity":"Shanghai",
-    "LocStateProvince":"Shanghai",
+    "LocStateProvinceDescription":"Shanghai",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.201338,121.632112"
   },
   {
     "id":329,
     "SSOCount":112,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"69 Heping North street,Bei Da Jie",
+    "LocAddressLine2":"",
     "LocationName":"Shenyang CN",
     "LocCity":"Shenyang",
-    "LocStateProvince":"Liaoning",
+    "LocStateProvinceDescription":"Liaoning",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"110003",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"41.788823,123.41145"
   },
   {
     "id":330,
@@ -3923,10 +3620,11 @@
     "LocAddressLine2":"Luohu District, Shun Hing Diwang Commercial Center",
     "LocationName":"Shenzhen CN",
     "LocCity":"Shenzhen",
-    "LocStateProvince":"Guangdong",
+    "LocStateProvinceDescription":"Guangdong",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"518008",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"22.548707,114.111223"
   },
   {
     "id":331,
@@ -3936,10 +3634,11 @@
     "LocAddressLine2":"Shijiazhuang World Trade Plaza Hotel",
     "LocationName":"ShiJiazhuang(GECP)CN",
     "LocCity":"Shijiazhuang",
-    "LocStateProvince":"Hebei",
+    "LocStateProvinceDescription":"Hebei",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"50011",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"42.028866,-93.648031"
   },
   {
     "id":332,
@@ -3949,10 +3648,11 @@
     "LocAddressLine2":" ",
     "LocationName":"Shizuoka (HC) JP",
     "LocCity":"Shizuoka",
-    "LocStateProvince":"Shizuoka",
+    "LocStateProvinceDescription":"Shizuoka",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"422-8032",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.96368,138.406929"
   },
   {
     "id":333,
@@ -3962,10 +3662,11 @@
     "LocAddressLine2":"WesTech Business Park/Talbot Building",
     "LocationName":"Silver Spring MD US",
     "LocCity":"Silver Spring",
-    "LocStateProvince":"Maryland",
+    "LocStateProvinceDescription":"Maryland",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"20904-7839",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"39.053389,-76.975827"
   },
   {
     "id":334,
@@ -3975,20 +3676,25 @@
     "LocAddressLine2":" ",
     "LocationName":"Singapore (MrtS) SG",
     "LocCity":"Singapore",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Singapore",
     "LocZipPostalCode":"99253",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"1.264119,103.820007"
   },
   {
     "id":335,
     "SSOCount":16,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"25 Tuas South Street 1",
+    "LocAddressLine2":"",
     "LocationName":"Singapore(Thermo) SG",
     "LocCity":"Singapore",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Singapore",
     "LocZipPostalCode":"638034",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":"1.32064,103.629479"
   },
   {
     "id":336,
@@ -3998,31 +3704,39 @@
     "LocAddressLine2":"Torre Begonias, ",
     "LocationName":"SnIsidro(Begonias)PE",
     "LocCity":"Lima",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Peru",
-    "LocRegion":"Latin America"
+    "LocZipPostalCode":"",
+    "LocRegion":"Latin America",
+    "LatLong":"-12.046374,-77.042793"
   },
   {
     "id":337,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Dragan Tzankov Street 36-World Trade Centre",
+    "LocAddressLine2":"",
     "LocationName":"Sofia (HC) AmBio BG",
     "LocCity":"Sofia",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Bulgaria",
     "LocZipPostalCode":"1040",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":","
   },
   {
     "id":338,
     "SSOCount":212,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Beethovenstr. 239",
+    "LocAddressLine2":"",
     "LocationName":"Solingen (HC) DE",
     "LocCity":"Solingen",
-    "LocStateProvince":"North Rhine-Westphalia",
+    "LocStateProvinceDescription":"North Rhine-Westphalia",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"42655",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"51.168402,7.057953"
   },
   {
     "id":339,
@@ -4032,55 +3746,67 @@
     "LocAddressLine2":"Parc de Sophia Antipolis, Zone Industrielle Les Bouillides",
     "LocationName":"SophiaAntipoli(HC)FR",
     "LocCity":"Valbonne",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"6560",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"50.305591,4.140392"
   },
   {
     "id":340,
     "SSOCount":19,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"900 Durham Avenue",
+    "LocAddressLine2":"",
     "LocationName":"SoPlainfld(HC) NJ US",
     "LocCity":"South Plainfield",
-    "LocStateProvince":"New Jersey",
+    "LocStateProvinceDescription":"New Jersey",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"07080-2402",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.551392,-74.412528"
   },
   {
     "id":341,
     "SSOCount":73,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"51 Barry Alexander Drive",
+    "LocAddressLine2":"",
     "LocationName":"Springfield QLD AU 1",
     "LocCity":"Springfield Central",
-    "LocStateProvince":"Queensland",
+    "LocStateProvinceDescription":"Queensland",
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"4300",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-27.681106,152.900075"
   },
   {
     "id":342,
     "SSOCount":11,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Dalbyvagen 13",
+    "LocAddressLine2":"",
     "LocationName":"Staffanstorp (HC) SE",
     "LocCity":"Staffanstorp",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"245 33",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"55.645311,13.219734"
   },
   {
     "id":343,
     "SSOCount":110,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Vendevagen 89",
+    "LocAddressLine2":"",
     "LocationName":"Stockholm SE",
     "LocCity":"Danderyd",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"182 11",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"59.395445,18.052488"
   },
   {
     "id":344,
@@ -4090,20 +3816,25 @@
     "LocAddressLine2":"Parc Tertiaire de La Meinau, ",
     "LocationName":"Strasbourg (HC) FR",
     "LocCity":"Strasbourg",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"67100",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.526602,7.781398"
   },
   {
     "id":345,
     "SSOCount":24,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8 Place de I'Hopital, PH8",
+    "LocAddressLine2":"",
     "LocationName":"Strasbourg(8place)FR",
     "LocCity":"Strasbourg",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"67000",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.601986,7.783522"
   },
   {
     "id":346,
@@ -4113,45 +3844,53 @@
     "LocAddressLine2":" ",
     "LocationName":"Suita (HC) JP",
     "LocCity":"Suita",
-    "LocStateProvince":"Osaka",
+    "LocStateProvinceDescription":"Osaka",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"564-0063",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"34.767796,135.494556"
   },
   {
     "id":347,
     "SSOCount":46,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"447 Indio Way",
+    "LocAddressLine2":"",
     "LocationName":"Sunnyv (Indio) CA US",
     "LocCity":"Sunnyvale",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"94085-4203",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"37.38953,-122.018391"
   },
   {
     "id":348,
     "SSOCount":16,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1283 Old Mountain View-Alviso Road",
+    "LocAddressLine2":"",
     "LocationName":"Sunnyvale(HC)PhCA US",
     "LocCity":"Sunnyvale",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"94089-2281",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"37.411046,-121.98827"
   },
   {
     "id":349,
     "SSOCount":22,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Petofi Sandor sgt. 10",
+    "LocAddressLine2":"",
     "LocationName":"Szeged (Petofi) HU",
     "LocCity":"Szeged",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Hungary",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":","
   },
   {
     "id":350,
@@ -4161,10 +3900,11 @@
     "LocAddressLine2":"Net Cube Center, E-Square Zone",
     "LocationName":"Taguig(NetCube) PH",
     "LocCity":"Taguig",
-    "LocStateProvince":"Metro Manila",
+    "LocStateProvinceDescription":"Metro Manila",
     "LocCountryDescription":"Philippines",
     "LocZipPostalCode":"1634",
-    "LocRegion":"ASEAN"
+    "LocRegion":"ASEAN",
+    "LatLong":","
   },
   {
     "id":351,
@@ -4174,19 +3914,25 @@
     "LocAddressLine2":"Section 2",
     "LocationName":"Taichung (HC) TW",
     "LocCity":"Taichung",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":352,
     "SSOCount":19,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Zhangjiang Hi Tech Park",
+    "LocAddressLine2":"",
     "LocationName":"Tainan TW 1",
     "LocCity":"Tainan",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Taiwan",
-    "LocRegion":"Greater China"
+    "LocZipPostalCode":"",
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":353,
@@ -4196,9 +3942,11 @@
     "LocAddressLine2":"Sec. 3",
     "LocationName":"Taipei (HC) TW",
     "LocCity":"Taipei",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"104",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"25.079202,121.542709"
   },
   {
     "id":354,
@@ -4208,45 +3956,53 @@
     "LocAddressLine2":"Jinguang Mansion",
     "LocationName":"TaiYuan(JinGuang)CN",
     "LocCity":"Taiyuan",
-    "LocStateProvince":"Shanxi",
+    "LocStateProvinceDescription":"Shanxi",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"30012",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"33.717766,-83.995588"
   },
   {
     "id":355,
     "SSOCount":17,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"7802 Woodland Center Boulevard",
+    "LocAddressLine2":"",
     "LocationName":"Tampa (HC)Ph FL US",
     "LocCity":"Tampa",
-    "LocStateProvince":"Florida",
+    "LocStateProvinceDescription":"Florida",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33614-2409",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"28.013386,-82.507759"
   },
   {
     "id":356,
     "SSOCount":33,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"433 Old Highway",
+    "LocAddressLine2":"",
     "LocationName":"Tauranga NZ 2",
     "LocCity":"Tauranga",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"New Zealand",
     "LocZipPostalCode":"3180",
-    "LocRegion":"ANZ"
+    "LocRegion":"ANZ",
+    "LatLong":"-37.681778,176.0186"
   },
   {
     "id":357,
     "SSOCount":15,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"1181 rue de l'Express",
+    "LocAddressLine2":"",
     "LocationName":"Terrebonne QC CA",
     "LocCity":"Terrebonne",
-    "LocStateProvince":"Quebec",
+    "LocStateProvinceDescription":"Quebec",
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":"J6W 0A2",
-    "LocRegion":"Canada"
+    "LocRegion":"Canada",
+    "LatLong":"45.71373,-73.618765"
   },
   {
     "id":358,
@@ -4256,9 +4012,11 @@
     "LocAddressLine2":"Cosmos Offices - Patriarhiko Pyleas",
     "LocationName":"Thessaloniki GR 1",
     "LocCity":"Thessaloniki",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Greece",
     "LocZipPostalCode":"57001",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"40.522512,23.028077"
   },
   {
     "id":359,
@@ -4268,33 +4026,39 @@
     "LocAddressLine2":"Tianjin P.R China",
     "LocationName":"Tianjin (Ping) CN",
     "LocCity":"Tianjin",
-    "LocStateProvince":"Tianjin",
+    "LocStateProvinceDescription":"Tianjin",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"300203",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.10923,117.21736"
   },
   {
     "id":360,
     "SSOCount":84,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Tianjin Airport Economic Zone, No. 266 Jingsan Road ",
+    "LocAddressLine2":"",
     "LocationName":"Tianjin 12 CN 8",
     "LocCity":"Tianjin",
-    "LocStateProvince":"Tianjin",
+    "LocStateProvinceDescription":"Tianjin",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"300308",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"39.159627,117.37534"
   },
   {
     "id":361,
     "SSOCount":186,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4 Hayozma Street-Tirat Ha Carmel",
+    "LocAddressLine2":"",
     "LocationName":"Tirat Carmel(Hayo)IL",
     "LocCity":"Haifa",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Israel",
     "LocZipPostalCode":"30200",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":362,
@@ -4304,9 +4068,11 @@
     "LocAddressLine2":"Einstein Bldg, Tirat Carmel",
     "LocationName":"TiratCar(Einstein)IL",
     "LocCity":"Haifa",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Israel",
     "LocZipPostalCode":"39120",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"31.575801,-91.327642"
   },
   {
     "id":363,
@@ -4316,46 +4082,53 @@
     "LocAddressLine2":"Sanken Bldg.",
     "LocationName":"Tokyo (HC)Am JP",
     "LocCity":"Shinjuku-ku",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"169 0073",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.703207,139.697519"
   },
   {
     "id":364,
     "SSOCount":25,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Akasaka Park Building, 5-2-20 Akasaka,",
+    "LocAddressLine2":"",
     "LocationName":"Tokyo 13 JP 1",
     "LocCity":"Minato-ku",
-    "LocStateProvince":"Tokyo",
+    "LocStateProvinceDescription":"Tokyo",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"107-6115",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.672108,139.733359"
   },
   {
     "id":365,
     "SSOCount":23,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"C.so Orbassano 336",
+    "LocAddressLine2":"",
     "LocationName":"Torino (Orbassan) IT",
     "LocCity":"Turin",
-    "LocStateProvince":"Turin",
+    "LocStateProvinceDescription":"Turin",
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"10137",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"45.038238,7.620153"
   },
   {
     "id":366,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"145 Bethridge Road",
+    "LocAddressLine2":"",
     "LocationName":"Toronto (Beth) ON CA",
     "LocCity":"Toronto",
-    "LocStateProvince":"Ontario",
+    "LocStateProvinceDescription":"Ontario",
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":" M9W 1N4",
-    "LocRegion":"Canada"
+    "LocRegion":"Canada",
+    "LatLong":"43.70729,-79.587032"
   },
   {
     "id":367,
@@ -4365,20 +4138,25 @@
     "LocAddressLine2":"Parc de la Plaine",
     "LocationName":"Toulouse (GEM) FR",
     "LocCity":"Toulouse",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"31500",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"43.60402,1.477311"
   },
   {
     "id":368,
     "SSOCount":24,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"11 Allee du Commandant Mouchotte",
+    "LocAddressLine2":"",
     "LocationName":"Tours (HC) FR",
     "LocCity":"Tours",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"37100",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"47.417464,0.706099"
   },
   {
     "id":369,
@@ -4388,33 +4166,39 @@
     "LocAddressLine2":"ZAC Paris nord 2 ",
     "LocationName":"Tremblay (HC) FR",
     "LocCity":"Tremblay en France",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"93290",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.979952,2.557211"
   },
   {
     "id":370,
     "SSOCount":64,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"4636 Somerton Road",
+    "LocAddressLine2":"",
     "LocationName":"Trevose(SOM)PA US",
     "LocCity":"Trevose",
-    "LocStateProvince":"Pennsylvania",
+    "LocStateProvinceDescription":"Pennsylvania",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"19053-6742",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"40.1457,-74.979324"
   },
   {
     "id":371,
     "SSOCount":133,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"100 Stone Clay Road",
+    "LocAddressLine2":"",
     "LocationName":"Troy (NGreen) NY US",
     "LocCity":"Troy",
-    "LocStateProvince":"New York",
+    "LocStateProvinceDescription":"New York",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"12180-6542",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.728412,-73.691785"
   },
   {
     "id":372,
@@ -4424,53 +4208,67 @@
     "LocAddressLine2":"PO Box 1414",
     "LocationName":"Umea(Mariehemsvgn)SE",
     "LocCity":"Umea",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"90650",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"63.840376,20.335358"
   },
   {
     "id":373,
     "SSOCount":18,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Rapsgatan 23",
+    "LocAddressLine2":"",
     "LocationName":"Uppsala (HC) Bi SE",
     "LocCity":"Uppsala",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"SE754 - 50",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"59.851696,17.710269"
   },
   {
     "id":374,
     "SSOCount":107,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Gamla Borjevagen 2-16, Husbyborg 1:83, PET centrum",
+    "LocAddressLine2":"",
     "LocationName":"Uppsala (HC) SE",
     "LocCity":"Uppsala",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"752 28",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"59.879511,17.588815"
   },
   {
     "id":375,
     "SSOCount":26,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Box 605",
+    "LocAddressLine2":"",
     "LocationName":"Uppsala SE",
     "LocCity":"Uppsala",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"751 25",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":","
   },
   {
     "id":376,
     "SSOCount":1127,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Bjorkgatan 30",
+    "LocAddressLine2":"",
     "LocationName":"Uppsala(Bjorkgatn)SE",
     "LocCity":"Uppsala",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"751 84",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"59.853453,17.665702"
   },
   {
     "id":377,
@@ -4480,10 +4278,11 @@
     "LocAddressLine2":"Zhongquan Plaza, Building 1, Tower B",
     "LocationName":"Urumqi CN",
     "LocCity":"Urumqi",
-    "LocStateProvince":"Xinjiang Uygur",
+    "LocStateProvinceDescription":"Xinjiang Uygur",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"830000",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":378,
@@ -4493,21 +4292,25 @@
     "LocAddressLine2":"dcha Parque Empresarial Wellness Paterna",
     "LocationName":"Valencia (HC) ES",
     "LocCity":"Valencia",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"46079",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"39.740746,-0.953398"
   },
   {
     "id":379,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"8300 Sweet Valley Drive",
+    "LocAddressLine2":"",
     "LocationName":"ValleyVw(HC)Ph OH US",
     "LocCity":"Valley View",
-    "LocStateProvince":"Ohio",
+    "LocStateProvinceDescription":"Ohio",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44125-4264",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.387831,-81.604569"
   },
   {
     "id":380,
@@ -4517,45 +4320,53 @@
     "LocAddressLine2":"Grace Lake Center",
     "LocationName":"VanBuren(VgCtr)MI US",
     "LocCity":"Van Buren Township",
-    "LocStateProvince":"Michigan",
+    "LocStateProvinceDescription":"Michigan",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"48111-5711",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.220317,-83.483824"
   },
   {
     "id":381,
     "SSOCount":18,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"16259 Stagg Street",
+    "LocAddressLine2":"",
     "LocationName":"VanNuys (HC)Ph CA US",
     "LocCity":"Van Nuys",
-    "LocStateProvince":"California",
+    "LocStateProvinceDescription":"California",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"91406-1716",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"34.189857,-118.451357"
   },
   {
     "id":382,
     "SSOCount":392,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"24 Avenue de l'Europe",
+    "LocAddressLine2":"",
     "LocationName":"Velizy (24 Ave) FR",
     "LocCity":"Velizy Villacoublay",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"France",
     "LocZipPostalCode":"78457",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.779836,2.207449"
   },
   {
     "id":383,
     "SSOCount":111,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"18683 South Miles Road",
+    "LocAddressLine2":"",
     "LocationName":"WarrenHgts(HC) OH US",
     "LocCity":"Warrensville Heights",
-    "LocStateProvince":"Ohio",
+    "LocStateProvinceDescription":"Ohio",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44128-4297",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.432307,-81.510265"
   },
   {
     "id":384,
@@ -4565,45 +4376,53 @@
     "LocAddressLine2":"Platinium I,Business Park,Budynek B-",
     "LocationName":"Warsaw (HC) PL",
     "LocCity":"Warsaw",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Poland",
     "LocZipPostalCode":"02-583",
-    "LocRegion":"Eastern Europe"
+    "LocRegion":"Eastern Europe",
+    "LatLong":"52.198776,21.001024"
   },
   {
     "id":385,
     "SSOCount":301,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3114 North Grandview Boulevard",
+    "LocAddressLine2":"",
     "LocationName":"Wauk-GSC (HC) WI US",
     "LocCity":"Waukesha",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1677",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.011678,-88.231481"
   },
   {
     "id":386,
     "SSOCount":1535,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3000 North Grandview Boulevard-HQ",
+    "LocAddressLine2":"",
     "LocationName":"Wauk-HQ (HC) WI US",
     "LocCity":"Waukesha",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1696",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.011678,-88.231481"
   },
   {
     "id":387,
     "SSOCount":534,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"3200 North Grandview Boulevard",
+    "LocAddressLine2":"",
     "LocationName":"Wauk-MR (HC) WI US",
     "LocCity":"Waukesha",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1678",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.011678,-88.231481"
   },
   {
     "id":388,
@@ -4613,10 +4432,11 @@
     "LocAddressLine2":"Milwaukee County Research Park,",
     "LocationName":"Wauwatosa 10k WI US",
     "LocCity":"Wauwatosa",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53226-4856",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.051343,-88.041199"
   },
   {
     "id":389,
@@ -4626,34 +4446,39 @@
     "LocAddressLine2":"Milwaukee County Research Park,",
     "LocationName":"Wauwatosa WI US",
     "LocCity":"Wauwatosa",
-    "LocStateProvince":"Wisconsin",
+    "LocStateProvinceDescription":"Wisconsin",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53226-4856",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"43.051343,-88.041199"
   },
   {
     "id":390,
     "SSOCount":74,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"Wilhelm Maisel Strasse 14",
+    "LocAddressLine2":"",
     "LocationName":"Wendelstein (HC) DE",
     "LocCity":"Wendelstein",
-    "LocStateProvince":"Bavaria",
+    "LocStateProvinceDescription":"Bavaria",
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"90530",
-    "LocRegion":"Germany"
+    "LocRegion":"Germany",
+    "LatLong":"49.34713,11.15968"
   },
   {
     "id":391,
     "SSOCount":193,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"14 Walkup Drive",
+    "LocAddressLine2":"",
     "LocationName":"Westboroug MA US",
     "LocCity":"Westborough",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01581-1019",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.273346,-71.567929"
   },
   {
     "id":392,
@@ -4663,9 +4488,11 @@
     "LocAddressLine2":"Euro Plaza - Building E",
     "LocationName":"Wien EuroPlaz(HC) AT",
     "LocCity":"Vienna",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Austria",
     "LocZipPostalCode":"1120",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.171787,16.320988"
   },
   {
     "id":393,
@@ -4675,46 +4502,53 @@
     "LocAddressLine2":"Hanover Industrial Estates, Hanover Township",
     "LocationName":"WilkBarre(HC)PhPA US",
     "LocCity":"Wilkes Barre",
-    "LocStateProvince":"Pennsylvania",
+    "LocStateProvinceDescription":"Pennsylvania",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"18706-2028",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.216404,-75.914244"
   },
   {
     "id":394,
     "SSOCount":10,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"301 Ballardvale Street",
+    "LocAddressLine2":"",
     "LocationName":"Wilmington(Bal)MA US",
     "LocCity":"Wilmington",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01887-4405",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.548171,-71.172447"
   },
   {
     "id":395,
     "SSOCount":23,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"20 Commerce Way",
+    "LocAddressLine2":"",
     "LocationName":"Woburn (HC)Ph MA US",
     "LocCity":"Woburn",
-    "LocStateProvince":"Massachusetts",
+    "LocStateProvinceDescription":"Massachusetts",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01801-1057",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"42.479262,-71.152276"
   },
   {
     "id":396,
     "SSOCount":25,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"945 Edgewood Avenue",
+    "LocAddressLine2":"",
     "LocationName":"WoodDale(HC)Ph IL US",
     "LocCity":"Wood Dale",
-    "LocStateProvince":"Illinois",
+    "LocStateProvinceDescription":"Illinois",
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60191-1252",
-    "LocRegion":"United States"
+    "LocRegion":"United States",
+    "LatLong":"41.963363,-87.978956"
   },
   {
     "id":397,
@@ -4724,22 +4558,25 @@
     "LocAddressLine2":"New World International Trade Center",
     "LocationName":"Wuhan 42 CN 1",
     "LocCity":"Wuhan",
-    "LocStateProvince":"Hubei",
+    "LocStateProvinceDescription":"Hubei",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"430022",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"30.584406,114.274419"
   },
   {
     "id":398,
     "SSOCount":706,
     "IndustryFocusGroup":"GE Healthcare",
     "LocAddressLine1":"National Hi-Tech Development Zone, 19 Changjiang Road",
+    "LocAddressLine2":"",
     "LocationName":"Wuxi (ChangJiang) CN",
     "LocCity":"Wuxi",
-    "LocStateProvince":"Jiangsu",
+    "LocStateProvinceDescription":"Jiangsu",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"214028",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.532913,120.371968"
   },
   {
     "id":399,
@@ -4749,10 +4586,11 @@
     "LocAddressLine2":"Wuxi New District B Block- C Area",
     "LocationName":"Wuxi (INF) CN",
     "LocCity":"Wuxi",
-    "LocStateProvince":"Jiangsu",
+    "LocStateProvinceDescription":"Jiangsu",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"214000",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.578792,120.298723"
   },
   {
     "id":400,
@@ -4762,10 +4600,11 @@
     "LocAddressLine2":"Wuxi Singapore Industrial Park",
     "LocationName":"WuXi (XiShi-HC) CN",
     "LocCity":"Wuxi",
-    "LocStateProvince":"Jiangsu",
+    "LocStateProvinceDescription":"Jiangsu",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"214028",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"31.532913,120.371968"
   },
   {
     "id":401,
@@ -4775,10 +4614,11 @@
     "LocAddressLine2":"The Bank Centre, Siming District",
     "LocationName":"XiaMen(XiaHe) CN",
     "LocCity":"Xiamen",
-    "LocStateProvince":"Fujian",
+    "LocStateProvinceDescription":"Fujian",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"361003",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"24.447973,118.109581"
   },
   {
     "id":402,
@@ -4788,10 +4628,11 @@
     "LocAddressLine2":"Xi'an Hi-Tech Park, Longcheer Technology Park, Building G",
     "LocationName":"XiAn (TechPark) CN",
     "LocCity":"Xian",
-    "LocStateProvince":"Shaanxi",
+    "LocStateProvinceDescription":"Shaanxi",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"710065",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":"34.203236,108.906786"
   },
   {
     "id":403,
@@ -4801,10 +4642,11 @@
     "LocAddressLine2":"HF Shinyokohama Building",
     "LocationName":"Yokohama (HC) JP",
     "LocCity":"Yokohama",
-    "LocStateProvince":"Kanagawa",
+    "LocStateProvinceDescription":"Kanagawa",
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"222-0033",
-    "LocRegion":"Japan"
+    "LocRegion":"Japan",
+    "LatLong":"35.508689,139.613336"
   },
   {
     "id":404,
@@ -4814,10 +4656,11 @@
     "LocAddressLine2":"YuDa International Trade Center, Tower A",
     "LocationName":"Zhengzhou 41 CN 1",
     "LocCity":"Zhengzhou",
-    "LocStateProvince":"Henan",
+    "LocStateProvinceDescription":"Henan",
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
-    "LocRegion":"Greater China"
+    "LocRegion":"Greater China",
+    "LatLong":","
   },
   {
     "id":405,
@@ -4827,9 +4670,11 @@
     "LocAddressLine2":"Zipf - Pfaffing",
     "LocationName":"Zipf (HC) AT",
     "LocCity":"Zipf",
+    "LocStateProvinceDescription":"",
     "LocCountryDescription":"Austria",
     "LocZipPostalCode":"4871",
-    "LocRegion":"Western Europe"
+    "LocRegion":"Western Europe",
+    "LatLong":"48.03729,13.50097"
   }
 ]
 }

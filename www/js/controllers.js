@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
 
 //.config(function($sceDelegateProvider){
@@ -14,6 +15,31 @@ angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
 //    console.log('shapes', map.shapes);
 //  });
 //})
+=======
+angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
+
+.run(function($cordovaSplashscreen, $ionicPlatform) {
+  $ionicPlatform.ready(function(){
+  setTimeout(function() {
+    $cordovaSplashscreen.hide()
+  }, 5000)
+  })
+})
+
+
+.controller('mapCtrl', function($scope) {
+  function initialize() {
+  var mapProp = {
+    center:new google.maps.LatLng($scope.offices),
+    zoom:5,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+})
+>>>>>>> origin/master
+
 
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
@@ -29,6 +55,7 @@ angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
     // err.status will contain the status code
   });
 
+<<<<<<< HEAD
  //$scope.sce = function(loc1){
  //return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
  //}
@@ -37,8 +64,9 @@ angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
   $scope.map = { center: {latitude: 45, longitutde: -51},zoom: 8};
  }
 
+=======
+>>>>>>> origin/master
 //retrieves localstorage array
-//$scope.favourties= JSON.parse($window.localStorage['fav']);
 //$scope.favourites = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
 //checks if the array if is in localstorage, if it isnt then it adds an array, if it is it parses the array
 if($window.localStorage['fav']){
@@ -90,9 +118,9 @@ var c = JSON.parse($window.localStorage['last']);
 
 
 // used to change the favourites icon based on if its in the local storage or not
-var e = JSON.parse($window.localStorage['fav']);
+
 $scope.favicon = function(office){
- return e.indexOf(office) !== -1;
+ return fav.indexOf(office) !== -1;
 };
 
 // used to check if the item is in localstorage and check it against the json array
