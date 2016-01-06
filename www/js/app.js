@@ -22,7 +22,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //main page
   .state('Main',{
-    cache: false,
+    //cache: false,
     url: '/Main',
     templateUrl: 'templates/Main.html',
     controller: 'APICtrl'
@@ -30,7 +30,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //favourites page
   .state('Favourites',{
-    cache: false,
+    //cache: false,
     url: '/Favourites',
     templateUrl: 'templates/Favourites.html',
     controller: 'APICtrl'
@@ -38,7 +38,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
 
 //modal popup that displays enlarged address view and map view
   .state('modal',{
-    cache: false,
+    //cache: false,
     url:'/modal',
         templateUrl: "templates/modal.html",
         controller: 'APICtrl'

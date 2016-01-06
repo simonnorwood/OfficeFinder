@@ -1,24 +1,34 @@
 angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
 
-.run(function($cordovaSplashscreen, $ionicPlatform) {
+/*.run(function($cordovaSplashscreen, $ionicPlatform) {
   $ionicPlatform.ready(function(){
   setTimeout(function() {
     $cordovaSplashscreen.hide()
   }, 5000)
   })
-})
+})*/
 
-
-.controller('mapCtrl', function($scope) {
-  function initialize() {
+//google maps controller
+.controller('mapCtrl', function($scope, $ionicPlatform) {
+  $ionicPlatform.ready(function(){
+  $scope.init = function(loc2, loc3) {
+    var myLatlng = new google.maps.LatLng(loc2, loc3);
   var mapProp = {
-    center:new google.maps.LatLng($scope.offices),
+    center: myLatlng,
     zoom:5,
     mapTypeId:google.maps.MapTypeId.ROADMAP
   };
-  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-google.maps.event.addDomListener(window, 'load', initialize);
+  var map=new google.maps.Map(document.getElementById("map"),mapProp);
+
+    var marker = new google.maps.Marker({
+        position: myLatlng,
+        map: map
+    });
+    $scope.map = map;
+  }
+})
+//google.maps.event.addDomListener(window, 'load', initialize);
+
 })
 
 
@@ -97,14 +107,14 @@ $scope.favicon = function(office){
 // if it matches then it will return true and be displayed
 // this one is used for favourited offices
 $scope.ifinfav1 = function(office){
-  return e.indexOf(office.id) !== -1;
+  return fav.indexOf(office.id) !== -1;
 };
 
-var f = JSON.parse($window.localStorage['last']);
 
 // this one is used for last viewed offices
+// uses the same process as the favourites
 $scope.ifinfav2 = function(office){
-  return f.indexOf(office.id) !== -1;
+  return last.indexOf(office.id) !== -1;
 };
 })
 
@@ -134,10 +144,5 @@ $scope.ifinfav2 = function(office){
   $scope.$on('modal.removed', function() {
     // Execute action
   });
-
-})
-
-.filter('mapsembed', function($sce){
-
 
 })
