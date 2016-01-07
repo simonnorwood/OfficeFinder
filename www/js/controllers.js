@@ -8,28 +8,6 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
   })
 })*/
 
-//google maps controller
-.controller('mapCtrl', function($scope, $timeout) {
-  $scope.init = function() {
-    alert('loaded');
-    var myLatlng = new google.maps.LatLng(51.508742,-0.120850);
-  var mapProp = {
-    center: myLatlng,
-    zoom:5,
-    mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-  var map=new google.maps.Map(document.getElementById("map"),mapProp);
-
-    var marker = new google.maps.Marker({
-        position: myLatlng,
-        map: map
-    });
-    $scope.map = map;
-}
-})
-
-
-
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
 // Search function
@@ -142,11 +120,11 @@ $scope.ifinfav2 = function(office){
 
   };
   $scope.closeModal = function() {
-    $scope.modal.hide();
+    $scope.modal.remove();
   };
   //Cleanup the modal when we're done with it!
   $scope.$on('$destroy', function() {
-    $scope.modal.remove();
+    //$scope.modal.remove();
   });
   // Execute action on hide modal
   $scope.$on('modal.hidden', function() {

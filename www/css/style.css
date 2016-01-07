@@ -18,25 +18,7 @@
 #cont{
 	padding-top: 90px;
 }
-<<<<<<< HEAD
 #map {
 	width: 500px;
 	height: 300px;
-=======
-#gmap {
-	position: relative;
-	padding-bottom: 75%; /* This is the aspect ratio */
-	height: 0;
-	overflow: hidden;
-}
-#gmap iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-}
-.angular-google-map-container { 
-  height: 100%; 
->>>>>>> origin/master
 }
