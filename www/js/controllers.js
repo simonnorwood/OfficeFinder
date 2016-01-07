@@ -133,6 +133,12 @@ $scope.ifinfav2 = function(office){
   // Execute action on remove modal
   $scope.$on('modal.removed', function() {
     // Execute action
+    $ionicModal.fromTemplateUrl('templates/modal.html', {
+    scope: $scope,
+    animation: 'slide-in-up'
+  }).then(function(modal) {
+    $scope.modal = modal;
+  });
   });
 
 })
