@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+angular.module('starter.controllers', ['ionic.utils', 'uiGmapgoogle-maps'])
+
+//.config(function($sceDelegateProvider){
+//   $sceDelegateProvider.resourceUrlWhitelist([
+//  'self',
+//  'https://www.google.com/maps/geocoding/**']);
+//})
+
+//.controller('mapCtrl', function(NgMap, $scope) {
+//  NgMap.getMap().then(function(map) {
+//    $scope.googleMapsUrl="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8";
+//    console.log(map.getCenter());
+//    console.log('markers', map.markers);
+//    console.log('shapes', map.shapes);
+//  });
+//})
+=======
 angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
 
 /*.run(function($cordovaSplashscreen, $ionicPlatform) {
@@ -27,6 +45,7 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
     $scope.map = map;
 }
 })
+>>>>>>> origin/master
 
 
 // api call to offices.json 
@@ -43,6 +62,17 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
     // err.status will contain the status code
   });
 
+<<<<<<< HEAD
+ //$scope.sce = function(loc1){
+ //return $sce.trustAsHtml("https://www.google.com/maps/geocoding/json?address=loc1&key=AIzaSyBGAHnplGPjFoVvShk6Tsna3-DN8rHQBI8")
+ //}
+
+ $scope.maps = function(loc1){
+  $scope.map = { center: {latitude: 45, longitutde: -51},zoom: 8};
+ }
+
+=======
+>>>>>>> origin/master
 //retrieves localstorage array
 //$scope.favourites = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
 //checks if the array if is in localstorage, if it isnt then it adds an array, if it is it parses the array
