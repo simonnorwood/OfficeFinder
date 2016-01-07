@@ -1,5 +1,5 @@
 <!-- modal view for the enlarged address view and the map view -->
-<ion-modal-view >
+<ion-modal-view>
 	<ion-header-bar id="modalheader">
 		<h1 class="title"></h1>
 <!-- button to close the modal -->
@@ -15,10 +15,9 @@
 	</ion-item>
 </ion-list>
 <!-- creates the map view from the json data -->
-<div ng-controller="mapCtrl" ng-init="init(office.Lat, office.Long)">
-	<div id="map" style="width:500px;height:380px;"></div>
+<div data-tap-disable="true" draggable="false">
+	<div id="map" style="width:100%; height:380px;"></div>
 </div>
 
 </ion-content>
-
 </ion-modal-view>

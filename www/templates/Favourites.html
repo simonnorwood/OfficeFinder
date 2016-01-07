@@ -3,7 +3,7 @@
 	<ion-content>
 		<ion-list>
 		<!-- displays the items that the user has favourited through the filter function -->
-		<ion-item id="fav" class="item-icon-right item-text-wrap" collection-repeat="office in offices|filter:ifinfav1" ng-controller="ModalCtrl" ng-click="openModal(office.id); lastview(office.id);">
+		<ion-item id="fav" class="item-icon-right item-text-wrap" collection-repeat="office in offices|filter:ifinfav1" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long); lastview(office.id);">
 			<h3>{{office.LocationName}}</h3>
 			<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
 			<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>

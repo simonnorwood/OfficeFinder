@@ -17,7 +17,7 @@
 		<ion-list ng-show="query[queryBy]">
 		<!-- Creates each item through collection-repeat and is filtered by the query linked to the search field -->
 		<!-- ng-click opens the modal that will have the enlarged office address and the map of the office -->
-			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal(); lastview(office.id);">
+			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long); lastview(office.id);">
 				<!-- Outputs all the data from offices.json -->
 				<h3 id="LocName">{{office.LocationName}}</h3>
 				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
@@ -28,13 +28,13 @@
 		</ion-content>
 
 		<!-- Last view offices list, currently only updates on app refresh -->
-		<div id="cont" ng-hide="query[queryBy]">
+		<div id="cont" ng-hide="query[queryBy]" ng-controller="mapCtrl">
 				<h3 class="title" id="text">Last Viewed</h3>
 			<!-- the filter with this collection repeat runs the function ifinfav2 which only displays items in the localstorage -->
-				<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.id);">
+				<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long);">
 				<h3>{{office.LocationName}}</h3>
 				<p id="details">{{office.LocAddressLine1 + ", " + office.LocAddressLine2 + ", " + office.LocCity + ", " + office.LocCountryDescription + ", " + office.LocZipPostalCode}}</p>
-				<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
+				<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation(); init();"></i>
 				</ion-item>
 			</ion-list>
 		</div>

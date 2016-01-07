@@ -9,10 +9,10 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
 })*/
 
 //google maps controller
-.controller('mapCtrl', function($scope, $ionicPlatform) {
-  $ionicPlatform.ready(function(){
-  $scope.init = function(loc2, loc3) {
-    var myLatlng = new google.maps.LatLng(loc2, loc3);
+.controller('mapCtrl', function($scope, $timeout) {
+  $scope.init = function() {
+    alert('loaded');
+    var myLatlng = new google.maps.LatLng(51.508742,-0.120850);
   var mapProp = {
     center: myLatlng,
     zoom:5,
@@ -25,10 +25,7 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
         map: map
     });
     $scope.map = map;
-  }
-})
-//google.maps.event.addDomListener(window, 'load', initialize);
-
+}
 })
 
 
@@ -126,8 +123,22 @@ $scope.ifinfav2 = function(office){
   }).then(function(modal) {
     $scope.modal = modal;
   });
-  $scope.openModal = function() {
+  $scope.openModal = function(b,c) {
     $scope.modal.show();
+    var myLatlng = new google.maps.LatLng(b,c);
+  var mapProp = {
+    center: myLatlng,
+    zoom:15,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("map"),mapProp);
+
+    var marker = new google.maps.Marker({
+        position: myLatlng,
+        map: map
+    });
+    $scope.map = map;
+
   };
   $scope.closeModal = function() {
     $scope.modal.hide();
