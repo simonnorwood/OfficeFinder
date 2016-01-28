@@ -1,26 +1,27 @@
 angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
 
-/*.run(function($cordovaSplashscreen, $ionicPlatform) {
-  $ionicPlatform.ready(function(){
-  setTimeout(function() {
-    $cordovaSplashscreen.hide()
-  }, 5000)
-  })
-})*/
-
 // api call to offices.json 
 .controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
 // Search function
+//var offices = [];
+var n;
   $scope.query = {}
   $scope.queryBy = '$'
 // gets the data from offices.json
  $http.get('js/offices.json').then(function(resp) {
     console.log('Success', resp);
-    $scope.offices = resp.data.office;  
+    $scope.offices = resp.data.office;
   }, function(err) {
     console.error('ERR', err);
     // err.status will contain the status code
   });
+
+
+// used to create a dynamic height for collection-item-height
+ $scope.getItemHeight = function(item, index) {
+    //Make evenly indexed items be 10px taller
+    return (index % 2) === 0 ? 50 : 60;
+  };
 
 //retrieves localstorage array
 //$scope.favourites = $window.localStorage['favs'] ? JSON.parse($window.localStorage['favs']) : []
@@ -95,6 +96,7 @@ $scope.ifinfav2 = function(office){
 })
 
 // modal controller that holds the enlarged office view and map view
+// the map loads on creation of the modal and is destroyed when the modal is closed
 .controller('ModalCtrl', function($scope, $ionicModal) {
   $ionicModal.fromTemplateUrl('templates/modal.html', {
     scope: $scope,

@@ -12,8 +12,8 @@
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"N/A",
     "LocRegion":"MENAT",
-    "Lat":null,
-    "Long":null
+    "Lat":24.500237,
+    "Long":54.388372
   },
   {
     "id":2,
@@ -27,8 +27,8 @@
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"",
     "LocRegion":"MENAT",
-    "Lat":24.299174,
-    "Long":54.697277
+    "Lat":24.50045,
+    "Long":54.388458
   },
   {
     "id":3,
@@ -87,8 +87,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"380 015",
     "LocRegion":"India",
-    "Lat":23.022505,
-    "Long":72.571362
+    "Lat":null,
+    "Long":null
   },
   {
     "id":7,
@@ -102,8 +102,8 @@
     "LocCountryDescription":"Algeria",
     "LocZipPostalCode":"N/A",
     "LocRegion":"MENAT",
-    "Lat":null,
-    "Long":null
+    "Lat":36.7620099,
+    "Long":3.0222151
   },
   {
     "id":8,
@@ -117,8 +117,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92656-1460",
     "LocRegion":"United States",
-    "Lat":33.567684,
-    "Long":-117.725608
+    "Lat":33.5873776,
+    "Long":-117.7290723
   },
   {
     "id":9,
@@ -147,8 +147,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP7 9LL",
     "LocRegion":"Western Europe",
-    "Lat":51.671717,
-    "Long":-0.586848
+    "Lat":51.6697051,
+    "Long":-0.5797239
   },
   {
     "id":11,
@@ -177,8 +177,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92805-6546",
     "LocRegion":"United States",
-    "Lat":33.827605,
-    "Long":-117.907324
+    "Lat":33.810508,
+    "Long":-117.906716
   },
   {
     "id":13,
@@ -207,8 +207,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"030-0941",
     "LocRegion":"Japan",
-    "Lat":40.814682,
-    "Long":140.798753
+    "Lat":40.813171,
+    "Long":140.800294
   },
   {
     "id":15,
@@ -222,8 +222,8 @@
     "LocCountryDescription":"Mexico",
     "LocZipPostalCode":"",
     "LocRegion":"Latin America",
-    "Lat":25.644902,
-    "Long":-100.295772
+    "Lat":25.7656383,
+    "Long":-100.1720157
   },
   {
     "id":16,
@@ -237,8 +237,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60004-1412",
     "LocRegion":"United States",
-    "Lat":42.117242,
-    "Long":-87.990112
+    "Lat":42.135956,
+    "Long":-87.9948101
   },
   {
     "id":17,
@@ -297,8 +297,8 @@
     "LocCountryDescription":"New Zealand",
     "LocZipPostalCode":"1010",
     "LocRegion":"ANZ",
-    "Lat":-36.84846,
-    "Long":174.763332
+    "Lat":-36.84615,
+    "Long":174.773582
   },
   {
     "id":21,
@@ -312,8 +312,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44202-9273",
     "LocRegion":"United States",
-    "Lat":41.305954,
-    "Long":-81.350942
+    "Lat":41.2758454,
+    "Long":-81.3319189
   },
   {
     "id":22,
@@ -342,8 +342,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560067",
     "LocRegion":"India",
-    "Lat":12.996701,
-    "Long":77.758197
+    "Lat":null,
+    "Long":null
   },
   {
     "id":24,
@@ -357,8 +357,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
     "LocRegion":"India",
-    "Lat":12.969807,
-    "Long":77.749963
+    "Lat":12.9741637,
+    "Long":77.7228698
   },
   {
     "id":25,
@@ -372,8 +372,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560067",
     "LocRegion":"India",
-    "Lat":12.996701,
-    "Long":77.758197
+    "Lat":12.987534,
+    "Long":77.740212
   },
   {
     "id":26,
@@ -387,8 +387,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
     "LocRegion":"India",
-    "Lat":12.969807,
-    "Long":77.749963
+    "Lat":12.9790112,
+    "Long":77.7118255
   },
   {
     "id":27,
@@ -402,8 +402,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
     "LocRegion":"India",
-    "Lat":12.969807,
-    "Long":77.749963
+    "Lat":12.9805965,
+    "Long":77.7270561
   },
   {
     "id":28,
@@ -417,8 +417,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560066",
     "LocRegion":"India",
-    "Lat":12.969807,
-    "Long":77.749963
+    "Lat":12.9773668,
+    "Long":77.7489054
   },
   {
     "id":29,
@@ -432,8 +432,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"560048",
     "LocRegion":"India",
-    "Lat":12.99626,
-    "Long":77.69339
+    "Lat":12.99267,
+    "Long":77.7015335
   },
   {
     "id":30,
@@ -492,8 +492,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60010-3076",
     "LocRegion":"United States",
-    "Lat":42.164154,
-    "Long":-88.149078
+    "Lat":42.1641576,
+    "Long":-88.1512672
   },
   {
     "id":34,
@@ -507,8 +507,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
     "LocRegion":"Greater China",
-    "Lat":39.904211,
-    "Long":116.407395
+    "Lat":null,
+    "Long":null
   },
   {
     "id":35,
@@ -522,8 +522,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100004",
     "LocRegion":"Greater China",
-    "Lat":39.914171,
-    "Long":116.454664
+    "Lat":39.914141,
+    "Long":116.45465
   },
   {
     "id":36,
@@ -537,8 +537,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100176",
     "LocRegion":"Greater China",
-    "Lat":39.801904,
-    "Long":116.505262
+    "Lat":null,
+    "Long":null
   },
   {
     "id":37,
@@ -552,8 +552,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"100176",
     "LocRegion":"Greater China",
-    "Lat":39.801904,
-    "Long":116.505262
+    "Lat":null,
+    "Long":null
   },
   {
     "id":38,
@@ -567,8 +567,8 @@
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"31170-800",
     "LocRegion":"Latin America",
-    "Lat":null,
-    "Long":null
+    "Lat":-19.8910287,
+    "Long":-43.9314507
   },
   {
     "id":39,
@@ -597,8 +597,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"462-011",
     "LocRegion":"India",
-    "Lat":23.259933,
-    "Long":77.412615
+    "Lat":null,
+    "Long":null
   },
   {
     "id":41,
@@ -657,8 +657,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"40132",
     "LocRegion":"Western Europe",
-    "Lat":44.507933,
-    "Long":11.26605
+    "Lat":44.520577,
+    "Long":11.269315
   },
   {
     "id":45,
@@ -672,8 +672,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"02116-5749",
     "LocRegion":"United States",
-    "Lat":42.353068,
-    "Long":-71.076519
+    "Lat":42.3464529,
+    "Long":-71.0821697
   },
   {
     "id":46,
@@ -687,8 +687,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"92100",
     "LocRegion":"Western Europe",
-    "Lat":48.857735,
-    "Long":2.279907
+    "Lat":48.841242,
+    "Long":2.235804
   },
   {
     "id":47,
@@ -702,8 +702,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"38110",
     "LocRegion":"Germany",
-    "Lat":52.332204,
-    "Long":10.559026
+    "Lat":52.3314533,
+    "Long":10.5031213
   },
   {
     "id":48,
@@ -717,8 +717,8 @@
     "LocCountryDescription":"Denmark",
     "LocZipPostalCode":"2605",
     "LocRegion":"Western Europe",
-    "Lat":55.647305,
-    "Long":12.414886
+    "Lat":55.654023,
+    "Long":12.396714
   },
   {
     "id":49,
@@ -732,8 +732,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"78533",
     "LocRegion":"Western Europe",
-    "Lat":48.776122,
-    "Long":2.1089
+    "Lat":48.768077,
+    "Long":2.124172
   },
   {
     "id":50,
@@ -762,8 +762,8 @@
     "LocCountryDescription":"Hungary",
     "LocZipPostalCode":"1131",
     "LocRegion":"Eastern Europe",
-    "Lat":47.546232,
-    "Long":19.087832
+    "Lat":47.5445976,
+    "Long":19.0707314
   },
   {
     "id":52,
@@ -822,8 +822,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"05403-7771",
     "LocRegion":"United States",
-    "Lat":44.431881,
-    "Long":-73.20882
+    "Lat":44.4318845,
+    "Long":-73.2110087
   },
   {
     "id":56,
@@ -837,8 +837,8 @@
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":"V5A 4V7",
     "LocRegion":"Canada",
-    "Lat":49.25996,
-    "Long":-122.914161
+    "Lat":49.258975,
+    "Long":-122.915672
   },
   {
     "id":57,
@@ -897,8 +897,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"CF14 7YT",
     "LocRegion":"Western Europe",
-    "Lat":51.523227,
-    "Long":-3.250891
+    "Lat":51.5233548,
+    "Long":-3.2530789
   },
   {
     "id":61,
@@ -942,8 +942,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP8 4SP",
     "LocRegion":"Western Europe",
-    "Lat":51.65536,
-    "Long":-0.571845
+    "Lat":51.6554523,
+    "Long":-0.5739141
   },
   {
     "id":64,
@@ -957,8 +957,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"N/A",
     "LocRegion":"India",
-    "Lat":30.733315,
-    "Long":76.779418
+    "Lat":null,
+    "Long":null
   },
   {
     "id":65,
@@ -1002,8 +1002,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"611731",
     "LocRegion":"Greater China",
-    "Lat":30.759846,
-    "Long":103.970551
+    "Lat":30.7307816,
+    "Long":103.9688003
   },
   {
     "id":68,
@@ -1107,8 +1107,8 @@
     "LocCountryDescription":"Ireland",
     "LocZipPostalCode":"",
     "LocRegion":"Western Europe",
-    "Lat":51.896892,
-    "Long":-8.486316
+    "Lat":51.9135742,
+    "Long":-8.2867062
   },
   {
     "id":75,
@@ -1152,8 +1152,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"116023",
     "LocRegion":"Greater China",
-    "Lat":38.879663,
-    "Long":121.522957
+    "Lat":38.905365,
+    "Long":121.580179
   },
   {
     "id":78,
@@ -1182,8 +1182,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"Dassel",
     "LocRegion":"Germany",
-    "Lat":51.801141,
-    "Long":9.68828
+    "Lat":52.3865791,
+    "Long":9.7177104
   },
   {
     "id":80,
@@ -1227,8 +1227,8 @@
     "LocCountryDescription":"Belgium",
     "LocZipPostalCode":"1831",
     "LocRegion":"Western Europe",
-    "Lat":50.89404,
-    "Long":4.436263
+    "Lat":50.8869774,
+    "Long":4.4541127
   },
   {
     "id":83,
@@ -1272,8 +1272,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"89160",
     "LocRegion":"Germany",
-    "Lat":48.46543,
-    "Long":9.943147
+    "Lat":48.4628447,
+    "Long":9.9455082
   },
   {
     "id":86,
@@ -1287,8 +1287,8 @@
     "LocCountryDescription":"United Arab Emirates",
     "LocZipPostalCode":"11549",
     "LocRegion":"MENAT",
-    "Lat":40.713261,
-    "Long":-73.622473
+    "Lat":25.0926331,
+    "Long":55.1570124
   },
   {
     "id":87,
@@ -1362,8 +1362,8 @@
     "LocCountryDescription":"Netherlands",
     "LocZipPostalCode":"5612 AP",
     "LocRegion":"Western Europe",
-    "Lat":51.446563,
-    "Long":5.492799
+    "Lat":51.4464717,
+    "Long":5.4907553
   },
   {
     "id":92,
@@ -1377,8 +1377,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"79907-5630",
     "LocRegion":"United States",
-    "Lat":31.709465,
-    "Long":-106.334606
+    "Lat":31.676708,
+    "Long":-106.323743
   },
   {
     "id":93,
@@ -1422,8 +1422,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"29501-7806",
     "LocRegion":"United States",
-    "Lat":34.195433,
-    "Long":-79.762562
+    "Lat":34.1881373,
+    "Long":-79.8388483
   },
   {
     "id":96,
@@ -1437,8 +1437,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"79111",
     "LocRegion":"Germany",
-    "Lat":48.005491,
-    "Long":7.785793
+    "Lat":47.9885136,
+    "Long":7.7919313
   },
   {
     "id":97,
@@ -1467,8 +1467,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"811-1311",
     "LocRegion":"Japan",
-    "Lat":33.548507,
-    "Long":130.437626
+    "Lat":33.551698,
+    "Long":130.436803
   },
   {
     "id":99,
@@ -1482,8 +1482,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"963-8021",
     "LocRegion":"Japan",
-    "Lat":37.409494,
-    "Long":140.370767
+    "Lat":37.408229,
+    "Long":140.37018
   },
   {
     "id":100,
@@ -1497,8 +1497,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"350001",
     "LocRegion":"Greater China",
-    "Lat":26.084306,
-    "Long":119.303855
+    "Lat":26.082294,
+    "Long":119.303822
   },
   {
     "id":101,
@@ -1512,8 +1512,8 @@
     "LocCountryDescription":"Switzerland",
     "LocZipPostalCode":"8152",
     "LocRegion":"Western Europe",
-    "Lat":null,
-    "Long":null
+    "Lat":47.434796,
+    "Long":8.560387
   },
   {
     "id":102,
@@ -1572,8 +1572,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"510623",
     "LocRegion":"Greater China",
-    "Lat":23.120601,
-    "Long":113.328395
+    "Lat":null,
+    "Long":null
   },
   {
     "id":106,
@@ -1587,8 +1587,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"550002",
     "LocRegion":"Greater China",
-    "Lat":26.559985,
-    "Long":106.725866
+    "Lat":26.571782,
+    "Long":106.715954
   },
   {
     "id":107,
@@ -1602,8 +1602,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"122002",
     "LocRegion":"India",
-    "Lat":28.474679,
-    "Long":77.104898
+    "Lat":28.4926145,
+    "Long":77.0898735
   },
   {
     "id":108,
@@ -1632,8 +1632,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"192-0033",
     "LocRegion":"Japan",
-    "Lat":35.665645,
-    "Long":139.366584
+    "Lat":35.6629295,
+    "Long":139.3635457
   },
   {
     "id":110,
@@ -1647,8 +1647,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"310007",
     "LocRegion":"Greater China",
-    "Lat":30.235786,
-    "Long":120.140539
+    "Lat":30.2662129,
+    "Long":120.1384886
   },
   {
     "id":111,
@@ -1662,8 +1662,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"311500",
     "LocRegion":"Greater China",
-    "Lat":29.795183,
-    "Long":119.687822
+    "Lat":null,
+    "Long":null
   },
   {
     "id":112,
@@ -1677,8 +1677,8 @@
     "LocCountryDescription":"Viet Nam",
     "LocZipPostalCode":"N/A",
     "LocRegion":"ASEAN",
-    "Lat":21.025243,
-    "Long":105.843903
+    "Lat":21.025188,
+    "Long":105.844088
   },
   {
     "id":113,
@@ -1707,8 +1707,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53027",
     "LocRegion":"United States",
-    "Lat":43.317779,
-    "Long":-88.378986
+    "Lat":43.3358222,
+    "Long":-88.4118859
   },
   {
     "id":115,
@@ -1752,8 +1752,8 @@
     "LocCountryDescription":"Finland",
     "LocZipPostalCode":"510",
     "LocRegion":"Western Europe",
-    "Lat":60.196297,
-    "Long":24.947201
+    "Lat":60.1962995,
+    "Long":24.9450119
   },
   {
     "id":118,
@@ -1782,8 +1782,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"191-8503",
     "LocRegion":"Japan",
-    "Lat":35.656867,
-    "Long":139.367232
+    "Lat":35.6568571,
+    "Long":139.3652405
   },
   {
     "id":120,
@@ -1797,8 +1797,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"731-0113",
     "LocRegion":"Japan",
-    "Lat":34.438058,
-    "Long":132.470003
+    "Lat":34.442106,
+    "Long":132.472281
   },
   {
     "id":121,
@@ -1857,8 +1857,8 @@
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"3191",
     "LocRegion":"Western Europe",
-    "Lat":null,
-    "Long":null
+    "Lat":59.4220077,
+    "Long":10.4721345
   },
   {
     "id":125,
@@ -1872,8 +1872,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"77054-1110",
     "LocRegion":"United States",
-    "Lat":29.684978,
-    "Long":-95.399191
+    "Lat":29.66353,
+    "Long":-95.435661
   },
   {
     "id":126,
@@ -1887,8 +1887,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"77054-5025",
     "LocRegion":"United States",
-    "Lat":29.684978,
-    "Long":-95.399191
+    "Lat":29.673042,
+    "Long":-95.41388
   },
   {
     "id":127,
@@ -1902,8 +1902,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98027",
     "LocRegion":"United States",
-    "Lat":47.530101,
-    "Long":-122.032619
+    "Lat":47.5420191,
+    "Long":-122.0589509
   },
   {
     "id":128,
@@ -1917,8 +1917,8 @@
     "LocCountryDescription":"Turkey",
     "LocZipPostalCode":"34394",
     "LocRegion":"MENAT",
-    "Lat":41.071898,
-    "Long":29.008166
+    "Lat":null,
+    "Long":null
   },
   {
     "id":129,
@@ -1947,8 +1947,8 @@
     "LocCountryDescription":"Indonesia",
     "LocZipPostalCode":"10210",
     "LocRegion":"ASEAN",
-    "Lat":-6.20889,
-    "Long":106.807514
+    "Lat":-6.217445,
+    "Long":106.813889
   },
   {
     "id":131,
@@ -1962,8 +1962,8 @@
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"",
     "LocRegion":"ANZ",
-    "Lat":-32.110654,
-    "Long":115.865233
+    "Lat":-32.091069,
+    "Long":115.869198
   },
   {
     "id":132,
@@ -1992,8 +1992,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"250011",
     "LocRegion":"Greater China",
-    "Lat":36.665729,
-    "Long":117.025447
+    "Lat":32.0418715,
+    "Long":118.7809093
   },
   {
     "id":134,
@@ -2022,8 +2022,8 @@
     "LocCountryDescription":"Mexico",
     "LocZipPostalCode":"32575",
     "LocRegion":"Latin America",
-    "Lat":31.630906,
-    "Long":-106.3889
+    "Lat":31.6647689,
+    "Long":-106.4266573
   },
   {
     "id":136,
@@ -2037,8 +2037,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33458-7887",
     "LocRegion":"United States",
-    "Lat":26.934225,
-    "Long":-80.094209
+    "Lat":26.91726,
+    "Long":-80.101123
   },
   {
     "id":137,
@@ -2067,8 +2067,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"921-8002 ",
     "LocRegion":"Japan",
-    "Lat":36.57287,
-    "Long":136.624143
+    "Lat":36.571626,
+    "Long":136.61901
   },
   {
     "id":139,
@@ -2082,8 +2082,8 @@
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"813",
     "LocRegion":"Greater China",
-    "Lat":22.687736,
-    "Long":120.291652
+    "Lat":22.655837,
+    "Long":120.311793
   },
   {
     "id":140,
@@ -2097,8 +2097,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"49512-4108",
     "LocRegion":"United States",
-    "Lat":42.884654,
-    "Long":-85.550916
+    "Lat":42.884022,
+    "Long":-85.557934
   },
   {
     "id":141,
@@ -2127,8 +2127,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"68202",
     "LocRegion":"India",
-    "Lat":9.931233,
-    "Long":76.267304
+    "Lat":null,
+    "Long":null
   },
   {
     "id":143,
@@ -2142,8 +2142,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"700071",
     "LocRegion":"India",
-    "Lat":22.545961,
-    "Long":88.347849
+    "Lat":22.544146,
+    "Long":88.351398
   },
   {
     "id":144,
@@ -2157,8 +2157,8 @@
     "LocCountryDescription":"Poland",
     "LocZipPostalCode":"31-864",
     "LocRegion":"Eastern Europe",
-    "Lat":50.071053,
-    "Long":20.036132
+    "Lat":50.0803569,
+    "Long":19.9927256
   },
   {
     "id":145,
@@ -2217,8 +2217,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"612-8415",
     "LocRegion":"Japan",
-    "Lat":34.961752,
-    "Long":135.758614
+    "Lat":34.959891,
+    "Long":135.757425
   },
   {
     "id":149,
@@ -2247,8 +2247,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"80026",
     "LocRegion":"United States",
-    "Lat":39.993596,
-    "Long":-105.089706
+    "Lat":40.0141597,
+    "Long":-105.1291325
   },
   {
     "id":151,
@@ -2262,8 +2262,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"80026",
     "LocRegion":"United States",
-    "Lat":39.993596,
-    "Long":-105.089706
+    "Lat":39.966812,
+    "Long":-105.088544
   },
   {
     "id":152,
@@ -2292,8 +2292,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"N/A",
     "LocRegion":"Greater China",
-    "Lat":36.052744,
-    "Long":103.846655
+    "Lat":36.050095,
+    "Long":103.853941
   },
   {
     "id":154,
@@ -2307,8 +2307,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"20723-5800",
     "LocRegion":"United States",
-    "Lat":39.132698,
-    "Long":-76.820677
+    "Lat":39.1327024,
+    "Long":-76.8228654
   },
   {
     "id":155,
@@ -2322,8 +2322,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"69760",
     "LocRegion":"Western Europe",
-    "Lat":45.835841,
-    "Long":4.771898
+    "Lat":45.8080031,
+    "Long":4.7691166
   },
   {
     "id":156,
@@ -2337,8 +2337,8 @@
     "LocCountryDescription":"Norway",
     "LocZipPostalCode":"4521",
     "LocRegion":"Western Europe",
-    "Lat":57.991115,
-    "Long":7.051419
+    "Lat":null,
+    "Long":null
   },
   {
     "id":157,
@@ -2352,8 +2352,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"HP7 9NA",
     "LocRegion":"Western Europe",
-    "Lat":51.66815,
-    "Long":-0.564043
+    "Lat":51.6681533,
+    "Long":-0.5662316
   },
   {
     "id":158,
@@ -2397,8 +2397,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"84321",
     "LocRegion":"United States",
-    "Lat":41.70012,
-    "Long":-111.85877
+    "Lat":41.7001102,
+    "Long":-111.8609584
   },
   {
     "id":161,
@@ -2412,8 +2412,8 @@
     "LocCountryDescription":"Belgium",
     "LocZipPostalCode":"4431",
     "LocRegion":"Western Europe",
-    "Lat":50.66624,
-    "Long":5.50521
+    "Lat":50.669816,
+    "Long":5.502598
   },
   {
     "id":162,
@@ -2427,8 +2427,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"W1K 7AX",
     "LocRegion":"Western Europe",
-    "Lat":51.512672,
-    "Long":-0.155799
+    "Lat":51.512627,
+    "Long":-0.155728
   },
   {
     "id":163,
@@ -2442,8 +2442,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"226010",
     "LocRegion":"India",
-    "Lat":26.852459,
-    "Long":81.020253
+    "Lat":26.866178,
+    "Long":81.006444
   },
   {
     "id":164,
@@ -2457,8 +2457,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53718-6704",
     "LocRegion":"United States",
-    "Lat":43.085051,
-    "Long":-89.256224
+    "Lat":43.0545738,
+    "Long":-89.2777416
   },
   {
     "id":165,
@@ -2472,8 +2472,8 @@
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"28023",
     "LocRegion":"Western Europe",
-    "Lat":40.461465,
-    "Long":-3.773987
+    "Lat":40.4620024,
+    "Long":-3.8061373
   },
   {
     "id":166,
@@ -2487,8 +2487,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"371-0037",
     "LocRegion":"Japan",
-    "Lat":36.416696,
-    "Long":139.057721
+    "Lat":36.415872,
+    "Long":139.058808
   },
   {
     "id":167,
@@ -2502,8 +2502,8 @@
     "LocCountryDescription":"United Kingdom",
     "LocZipPostalCode":"ME14 2LE",
     "LocRegion":"Western Europe",
-    "Lat":51.281834,
-    "Long":0.516983
+    "Lat":51.279948,
+    "Long":0.517477
   },
   {
     "id":168,
@@ -2532,8 +2532,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01752-7217",
     "LocRegion":"United States",
-    "Lat":42.345927,
-    "Long":-71.552287
+    "Lat":42.35111,
+    "Long":-71.583224
   },
   {
     "id":170,
@@ -2547,8 +2547,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01752-3082",
     "LocRegion":"United States",
-    "Lat":42.32561,
-    "Long":-71.584141
+    "Lat":42.3256142,
+    "Long":-71.5863294
   },
   {
     "id":171,
@@ -2577,8 +2577,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"790-0036",
     "LocRegion":"Japan",
-    "Lat":33.827218,
-    "Long":132.760129
+    "Lat":33.825823,
+    "Long":132.756504
   },
   {
     "id":173,
@@ -2622,8 +2622,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"30174",
     "LocRegion":"Western Europe",
-    "Lat":45.505871,
-    "Long":12.212565
+    "Lat":45.512454,
+    "Long":12.230418
   },
   {
     "id":176,
@@ -2652,8 +2652,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33126-1218",
     "LocRegion":"United States",
-    "Lat":25.778647,
-    "Long":-80.296239
+    "Lat":25.790804,
+    "Long":-80.319417
   },
   {
     "id":178,
@@ -2682,8 +2682,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"20061",
     "LocRegion":"Western Europe",
-    "Lat":45.555379,
-    "Long":9.336032
+    "Lat":45.516545,
+    "Long":9.301785
   },
   {
     "id":180,
@@ -2697,8 +2697,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"20126",
     "LocRegion":"Western Europe",
-    "Lat":45.517424,
-    "Long":9.218408
+    "Lat":45.5202037,
+    "Long":9.2194313
   },
   {
     "id":181,
@@ -2712,8 +2712,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53215-2092",
     "LocRegion":"United States",
-    "Lat":42.991356,
-    "Long":-87.943284
+    "Lat":43.008097,
+    "Long":-87.961332
   },
   {
     "id":182,
@@ -2727,8 +2727,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53207-6033",
     "LocRegion":"United States",
-    "Lat":42.971207,
-    "Long":-87.904057
+    "Lat":42.946105,
+    "Long":-87.916396
   },
   {
     "id":183,
@@ -2742,8 +2742,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53219-1628",
     "LocRegion":"United States",
-    "Lat":43.012514,
-    "Long":-87.972586
+    "Lat":43.0040479,
+    "Long":-87.9757787
   },
   {
     "id":184,
@@ -2757,8 +2757,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53223-3219",
     "LocRegion":"United States",
-    "Lat":43.166674,
-    "Long":-87.982476
+    "Lat":43.1666118,
+    "Long":-88.0148697
   },
   {
     "id":185,
@@ -2772,8 +2772,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33025",
     "LocRegion":"United States",
-    "Lat":25.990643,
-    "Long":-80.279359
+    "Lat":25.974353,
+    "Long":-80.288076
   },
   {
     "id":186,
@@ -2787,8 +2787,8 @@
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":"L5N 5P9",
     "LocRegion":"Canada",
-    "Lat":43.582922,
-    "Long":-79.759395
+    "Lat":43.6044271,
+    "Long":-79.7644042
   },
   {
     "id":187,
@@ -2817,8 +2817,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"020-0864",
     "LocRegion":"Japan",
-    "Lat":39.686614,
-    "Long":141.145969
+    "Lat":39.687385,
+    "Long":141.146263
   },
   {
     "id":189,
@@ -2832,8 +2832,8 @@
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"4170",
     "LocRegion":"ANZ",
-    "Lat":-27.46728,
-    "Long":153.07314
+    "Lat":-27.451823,
+    "Long":153.08033
   },
   {
     "id":190,
@@ -2847,8 +2847,8 @@
     "LocCountryDescription":"Russian Federation",
     "LocZipPostalCode":"123317",
     "LocRegion":"Russia/CIS",
-    "Lat":55.758206,
-    "Long":37.540541
+    "Lat":55.747098,
+    "Long":37.5346861
   },
   {
     "id":191,
@@ -2862,8 +2862,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"80807",
     "LocRegion":"Germany",
-    "Lat":48.186539,
-    "Long":11.585399
+    "Lat":48.1791744,
+    "Long":11.5923335
   },
   {
     "id":192,
@@ -2877,8 +2877,8 @@
     "LocCountryDescription":"India",
     "LocZipPostalCode":"400 098",
     "LocRegion":"India",
-    "Lat":19.075984,
-    "Long":72.877656
+    "Lat":19.0766209,
+    "Long":72.8601454
   },
   {
     "id":193,
@@ -2892,8 +2892,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"390-0831",
     "LocRegion":"Japan",
-    "Lat":36.220049,
-    "Long":137.967598
+    "Lat":36.217707,
+    "Long":137.967736
   },
   {
     "id":194,
@@ -2907,8 +2907,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"468-0011",
     "LocRegion":"Japan",
-    "Lat":35.123197,
-    "Long":137.003592
+    "Lat":35.124021,
+    "Long":137.003816
   },
   {
     "id":195,
@@ -2922,8 +2922,8 @@
     "LocCountryDescription":"Kenya",
     "LocZipPostalCode":"",
     "LocRegion":"Africa",
-    "Lat":-1.292066,
-    "Long":36.821946
+    "Lat":-1.268264,
+    "Long":36.811121
   },
   {
     "id":196,
@@ -2967,8 +2967,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"210005",
     "LocRegion":"Greater China",
-    "Lat":32.041707,
-    "Long":118.784075
+    "Lat":32.0418715,
+    "Long":118.7809093
   },
   {
     "id":199,
@@ -2982,8 +2982,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"530000",
     "LocRegion":"Greater China",
-    "Lat":22.815546,
-    "Long":108.327698
+    "Lat":22.81845,
+    "Long":108.370999
   },
   {
     "id":200,
@@ -3012,8 +3012,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"80026",
     "LocRegion":"Western Europe",
-    "Lat":40.907598,
-    "Long":14.292825
+    "Lat":40.897585,
+    "Long":14.28681
   },
   {
     "id":202,
@@ -3027,8 +3027,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"70125-1321",
     "LocRegion":"United States",
-    "Lat":29.956665,
-    "Long":-90.107393
+    "Lat":29.958138,
+    "Long":-90.095897
   },
   {
     "id":203,
@@ -3042,8 +3042,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"6270",
     "LocRegion":"Western Europe",
-    "Lat":null,
-    "Long":null
+    "Lat":43.629536,
+    "Long":7.129601
   },
   {
     "id":204,
@@ -3192,8 +3192,8 @@
     "LocCountryDescription":"Spain",
     "LocZipPostalCode":"7010",
     "LocRegion":"Western Europe",
-    "Lat":null,
-    "Long":null
+    "Lat":39.593113,
+    "Long":2.647775
   },
   {
     "id":285,
@@ -3222,8 +3222,8 @@
     "LocCountryDescription":"Australia",
     "LocZipPostalCode":"2150",
     "LocRegion":"ANZ",
-    "Lat":-33.815128,
-    "Long":151.003155
+    "Lat":-33.8124245,
+    "Long":151.0034063
   },
   {
     "id":287,
@@ -3237,8 +3237,8 @@
     "LocCountryDescription":"Austria",
     "LocZipPostalCode":"4061",
     "LocRegion":"Western Europe",
-    "Lat":48.259124,
-    "Long":14.204556
+    "Lat":48.235711,
+    "Long":14.2298456
   },
   {
     "id":288,
@@ -3252,8 +3252,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53186-1118",
     "LocRegion":"United States",
-    "Lat":43.054206,
-    "Long":-88.216903
+    "Lat":43.0515433,
+    "Long":-88.1965886
   },
   {
     "id":289,
@@ -3267,8 +3267,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"85040-8853",
     "LocRegion":"United States",
-    "Lat":33.404069,
-    "Long":-112.029752
+    "Lat":33.4005837,
+    "Long":-111.9890193
   },
   {
     "id":290,
@@ -3282,8 +3282,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"85027-3587",
     "LocRegion":"United States",
-    "Lat":33.678238,
-    "Long":-112.101291
+    "Lat":33.673958,
+    "Long":-112.099121
   },
   {
     "id":291,
@@ -3297,8 +3297,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"08854-3911",
     "LocRegion":"United States",
-    "Lat":40.546663,
-    "Long":-74.489945
+    "Lat":40.5466667,
+    "Long":-74.4921339
   },
   {
     "id":292,
@@ -3312,8 +3312,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"15206",
     "LocRegion":"United States",
-    "Lat":40.472064,
-    "Long":-79.913673
+    "Lat":40.457188,
+    "Long":-79.916853
   },
   {
     "id":293,
@@ -3327,8 +3327,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"15222",
     "LocRegion":"United States",
-    "Lat":40.447526,
-    "Long":-79.993398
+    "Lat":40.448092,
+    "Long":-79.99291
   },
   {
     "id":294,
@@ -3357,8 +3357,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"11050-4618",
     "LocRegion":"United States",
-    "Lat":40.825656,
-    "Long":-73.698186
+    "Lat":40.813647,
+    "Long":-73.663882
   },
   {
     "id":296,
@@ -3402,8 +3402,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"266071",
     "LocRegion":"Greater China",
-    "Lat":36.068813,
-    "Long":120.39358
+    "Lat":36.075651,
+    "Long":120.412392
   },
   {
     "id":299,
@@ -3432,8 +3432,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"35510",
     "LocRegion":"Western Europe",
-    "Lat":48.119472,
-    "Long":-1.602923
+    "Lat":48.104646,
+    "Long":-1.624436
   },
   {
     "id":301,
@@ -3477,8 +3477,8 @@
     "LocCountryDescription":"Saudi Arabia",
     "LocZipPostalCode":"11391",
     "LocRegion":"MENAT",
-    "Lat":null,
-    "Long":null
+    "Lat":24.7058939,
+    "Long":46.6724633
   },
   {
     "id":304,
@@ -3552,8 +3552,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"591-8033",
     "LocRegion":"Japan",
-    "Lat":34.547906,
-    "Long":135.493967
+    "Lat":34.54694,
+    "Long":135.495594
   },
   {
     "id":309,
@@ -3567,8 +3567,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"84116-2862",
     "LocRegion":"United States",
-    "Lat":40.803833,
-    "Long":-112.02379
+    "Lat":40.776344,
+    "Long":-112.0051946
   },
   {
     "id":310,
@@ -3612,8 +3612,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"92111-2104",
     "LocRegion":"United States",
-    "Lat":32.825643,
-    "Long":-117.155887
+    "Lat":32.830454,
+    "Long":-117.148499
   },
   {
     "id":313,
@@ -3627,8 +3627,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"94583-9130",
     "LocRegion":"United States",
-    "Lat":37.779927,
-    "Long":-121.978015
+    "Lat":37.767238,
+    "Long":-121.958413
   },
   {
     "id":314,
@@ -3657,8 +3657,8 @@
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"05676-120",
     "LocRegion":"Latin America",
-    "Lat":null,
-    "Long":null
+    "Lat":-23.6013323,
+    "Long":-46.6999891
   },
   {
     "id":316,
@@ -3672,8 +3672,8 @@
     "LocCountryDescription":"Brazil",
     "LocZipPostalCode":"06460-040",
     "LocRegion":"Latin America",
-    "Lat":-23.470704,
-    "Long":-46.842829
+    "Lat":-23.5058469,
+    "Long":-46.8422156
   },
   {
     "id":317,
@@ -3702,8 +3702,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98104-1157",
     "LocRegion":"United States",
-    "Lat":47.605453,
-    "Long":-122.332786
+    "Lat":47.605482,
+    "Long":-122.3354188
   },
   {
     "id":319,
@@ -3717,8 +3717,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"98199",
     "LocRegion":"United States",
-    "Lat":47.650708,
-    "Long":-122.406786
+    "Lat":47.658534,
+    "Long":-122.38505
   },
   {
     "id":320,
@@ -3747,8 +3747,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"981-3133",
     "LocRegion":"Japan",
-    "Lat":38.324012,
-    "Long":140.882145
+    "Lat":38.324618,
+    "Long":140.884175
   },
   {
     "id":322,
@@ -3822,8 +3822,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
     "LocRegion":"Greater China",
-    "Lat":31.201338,
-    "Long":121.632112
+    "Lat":31.2113666,
+    "Long":121.5887433
   },
   {
     "id":327,
@@ -3852,8 +3852,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"201203",
     "LocRegion":"Greater China",
-    "Lat":31.201338,
-    "Long":121.632112
+    "Lat":31.19292,
+    "Long":121.5865846
   },
   {
     "id":329,
@@ -3867,8 +3867,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"110003",
     "LocRegion":"Greater China",
-    "Lat":41.788823,
-    "Long":123.41145
+    "Lat":null,
+    "Long":null
   },
   {
     "id":330,
@@ -3897,8 +3897,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"50011",
     "LocRegion":"Greater China",
-    "Lat":42.028866,
-    "Long":-93.648031
+    "Lat":38.043508,
+    "Long":114.52322
   },
   {
     "id":332,
@@ -3912,8 +3912,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"422-8032",
     "LocRegion":"Japan",
-    "Lat":34.96368,
-    "Long":138.406929
+    "Lat":34.937702,
+    "Long":138.379571
   },
   {
     "id":333,
@@ -3942,8 +3942,8 @@
     "LocCountryDescription":"Singapore",
     "LocZipPostalCode":"99253",
     "LocRegion":"ASEAN",
-    "Lat":1.264119,
-    "Long":103.820007
+    "Lat":1.2641245,
+    "Long":103.8178181
   },
   {
     "id":335,
@@ -3957,8 +3957,8 @@
     "LocCountryDescription":"Singapore",
     "LocZipPostalCode":"638034",
     "LocRegion":"ASEAN",
-    "Lat":1.32064,
-    "Long":103.629479
+    "Lat":1.304889,
+    "Long":103.628137
   },
   {
     "id":336,
@@ -3972,8 +3972,8 @@
     "LocCountryDescription":"Peru",
     "LocZipPostalCode":"",
     "LocRegion":"Latin America",
-    "Lat":-12.046374,
-    "Long":-77.042793
+    "Lat":-11.993026,
+    "Long":-77.104217
   },
   {
     "id":337,
@@ -4002,8 +4002,8 @@
     "LocCountryDescription":"Germany",
     "LocZipPostalCode":"42655",
     "LocRegion":"Germany",
-    "Lat":51.168402,
-    "Long":7.057953
+    "Lat":51.1738033,
+    "Long":7.0453113
   },
   {
     "id":339,
@@ -4062,8 +4062,8 @@
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"245 33",
     "LocRegion":"Western Europe",
-    "Lat":55.645311,
-    "Long":13.219734
+    "Lat":55.642043,
+    "Long":13.220605
   },
   {
     "id":343,
@@ -4077,8 +4077,8 @@
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"182 11",
     "LocRegion":"Western Europe",
-    "Lat":59.395445,
-    "Long":18.052488
+    "Lat":59.3954473,
+    "Long":18.0502989
   },
   {
     "id":344,
@@ -4092,8 +4092,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"67100",
     "LocRegion":"Western Europe",
-    "Lat":48.526602,
-    "Long":7.781398
+    "Lat":48.549671,
+    "Long":7.751579
   },
   {
     "id":345,
@@ -4122,8 +4122,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"564-0063",
     "LocRegion":"Japan",
-    "Lat":34.767796,
-    "Long":135.494556
+    "Lat":34.770873,
+    "Long":135.499764
   },
   {
     "id":347,
@@ -4137,8 +4137,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"94085-4203",
     "LocRegion":"United States",
-    "Lat":37.38953,
-    "Long":-122.018391
+    "Lat":37.387077,
+    "Long":-122.033404
   },
   {
     "id":348,
@@ -4167,8 +4167,8 @@
     "LocCountryDescription":"Hungary",
     "LocZipPostalCode":"N/A",
     "LocRegion":"Eastern Europe",
-    "Lat":null,
-    "Long":null
+    "Lat":46.249262,
+    "Long":20.142813
   },
   {
     "id":350,
@@ -4197,8 +4197,8 @@
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"N/A",
     "LocRegion":"Greater China",
-    "Lat":null,
-    "Long":null
+    "Lat":24.141316,
+    "Long":120.663648
   },
   {
     "id":352,
@@ -4227,8 +4227,8 @@
     "LocCountryDescription":"Taiwan",
     "LocZipPostalCode":"104",
     "LocRegion":"Greater China",
-    "Lat":25.079202,
-    "Long":121.542709
+    "Lat":25.0507128,
+    "Long":121.5412257
   },
   {
     "id":354,
@@ -4257,8 +4257,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"33614-2409",
     "LocRegion":"United States",
-    "Lat":28.013386,
-    "Long":-82.507759
+    "Lat":28.01992,
+    "Long":-82.520939
   },
   {
     "id":356,
@@ -4332,8 +4332,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"300308",
     "LocRegion":"Greater China",
-    "Lat":39.159627,
-    "Long":117.37534
+    "Lat":39.159152,
+    "Long":117.375593
   },
   {
     "id":361,
@@ -4362,8 +4362,8 @@
     "LocCountryDescription":"Israel",
     "LocZipPostalCode":"39120",
     "LocRegion":"Western Europe",
-    "Lat":31.575801,
-    "Long":-91.327642
+    "Lat":32.7725378,
+    "Long":34.9655636
   },
   {
     "id":363,
@@ -4377,8 +4377,8 @@
     "LocCountryDescription":"Japan",
     "LocZipPostalCode":"169 0073",
     "LocRegion":"Japan",
-    "Lat":35.703207,
-    "Long":139.697519
+    "Lat":35.7062233,
+    "Long":139.6947109
   },
   {
     "id":364,
@@ -4407,8 +4407,8 @@
     "LocCountryDescription":"Italy",
     "LocZipPostalCode":"10137",
     "LocRegion":"Western Europe",
-    "Lat":45.038238,
-    "Long":7.620153
+    "Lat":45.035332,
+    "Long":7.623564
   },
   {
     "id":366,
@@ -4422,8 +4422,8 @@
     "LocCountryDescription":"Canada",
     "LocZipPostalCode":" M9W 1N4",
     "LocRegion":"Canada",
-    "Lat":43.70729,
-    "Long":-79.587032
+    "Lat":43.70731,
+    "Long":-79.582348
   },
   {
     "id":367,
@@ -4452,8 +4452,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"37100",
     "LocRegion":"Western Europe",
-    "Lat":47.417464,
-    "Long":0.706099
+    "Lat":47.436229,
+    "Long":0.708448
   },
   {
     "id":369,
@@ -4482,8 +4482,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"19053-6742",
     "LocRegion":"United States",
-    "Lat":40.1457,
-    "Long":-74.979324
+    "Lat":40.130769,
+    "Long":-74.985526
   },
   {
     "id":371,
@@ -4497,8 +4497,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"12180-6542",
     "LocRegion":"United States",
-    "Lat":42.728412,
-    "Long":-73.691785
+    "Lat":42.6772229,
+    "Long":-73.7003828
   },
   {
     "id":372,
@@ -4512,8 +4512,8 @@
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"90650",
     "LocRegion":"Western Europe",
-    "Lat":63.840376,
-    "Long":20.335358
+    "Lat":63.8425974,
+    "Long":20.3316223
   },
   {
     "id":373,
@@ -4542,8 +4542,8 @@
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"752 28",
     "LocRegion":"Western Europe",
-    "Lat":59.879511,
-    "Long":17.588815
+    "Lat":59.872048,
+    "Long":17.595362
   },
   {
     "id":375,
@@ -4572,8 +4572,8 @@
     "LocCountryDescription":"Sweden",
     "LocZipPostalCode":"751 84",
     "LocRegion":"Western Europe",
-    "Lat":59.853453,
-    "Long":17.665702
+    "Lat":59.8534554,
+    "Long":17.6635131
   },
   {
     "id":377,
@@ -4617,8 +4617,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44125-4264",
     "LocRegion":"United States",
-    "Lat":41.387831,
-    "Long":-81.604569
+    "Lat":41.395147,
+    "Long":-81.624984
   },
   {
     "id":380,
@@ -4632,8 +4632,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"48111-5711",
     "LocRegion":"United States",
-    "Lat":42.220317,
-    "Long":-83.483824
+    "Lat":42.239992,
+    "Long":-83.4303904
   },
   {
     "id":381,
@@ -4647,8 +4647,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"91406-1716",
     "LocRegion":"United States",
-    "Lat":34.189857,
-    "Long":-118.451357
+    "Lat":34.21261,
+    "Long":-118.487578
   },
   {
     "id":382,
@@ -4662,8 +4662,8 @@
     "LocCountryDescription":"France",
     "LocZipPostalCode":"78457",
     "LocRegion":"Western Europe",
-    "Lat":48.779836,
-    "Long":2.207449
+    "Lat":48.7789987,
+    "Long":2.2120033
   },
   {
     "id":383,
@@ -4677,14 +4677,14 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"44128-4297",
     "LocRegion":"United States",
-    "Lat":41.432307,
-    "Long":-81.510265
+    "Lat":41.4316473,
+    "Long":-81.5510375
   },
   {
     "id":384,
     "SSOCount":156,
     "IndustryFocusGroup":"GE Healthcare",
-    "LocAddressLine1":"Woloska 9,",
+    "LocAddressLine1":"Woloska 9",
     "LocAddressLine2":"Platinium I,Business Park,Budynek B-",
     "LocationName":"Warsaw (HC) PL",
     "LocCity":"Warsaw",
@@ -4692,8 +4692,8 @@
     "LocCountryDescription":"Poland",
     "LocZipPostalCode":"02-583",
     "LocRegion":"Eastern Europe",
-    "Lat":52.198776,
-    "Long":21.001024
+    "Lat":52.1841849,
+    "Long":20.9987247
   },
   {
     "id":385,
@@ -4707,8 +4707,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1677",
     "LocRegion":"United States",
-    "Lat":43.011678,
-    "Long":-88.231481
+    "Lat":43.0541627,
+    "Long":-88.2630551
   },
   {
     "id":386,
@@ -4722,8 +4722,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1696",
     "LocRegion":"United States",
-    "Lat":43.011678,
-    "Long":-88.231481
+    "Lat":43.051673,
+    "Long":-88.261829
   },
   {
     "id":387,
@@ -4737,8 +4737,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53188-1678",
     "LocRegion":"United States",
-    "Lat":43.011678,
-    "Long":-88.231481
+    "Lat":43.057761,
+    "Long":-88.2578516
   },
   {
     "id":388,
@@ -4767,8 +4767,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"53226-4856",
     "LocRegion":"United States",
-    "Lat":43.051343,
-    "Long":-88.041199
+    "Lat":43.0436028,
+    "Long":-88.0465946
   },
   {
     "id":390,
@@ -4797,8 +4797,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01581-1019",
     "LocRegion":"United States",
-    "Lat":42.273346,
-    "Long":-71.567929
+    "Lat":42.2733498,
+    "Long":-71.5701177
   },
   {
     "id":392,
@@ -4842,8 +4842,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01887-4405",
     "LocRegion":"United States",
-    "Lat":42.548171,
-    "Long":-71.172447
+    "Lat":42.600068,
+    "Long":-71.161308
   },
   {
     "id":395,
@@ -4857,8 +4857,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"01801-1057",
     "LocRegion":"United States",
-    "Lat":42.479262,
-    "Long":-71.152276
+    "Lat":42.507023,
+    "Long":-71.133372
   },
   {
     "id":396,
@@ -4872,8 +4872,8 @@
     "LocCountryDescription":"United States",
     "LocZipPostalCode":"60191-1252",
     "LocRegion":"United States",
-    "Lat":41.963363,
-    "Long":-87.978956
+    "Lat":41.981342,
+    "Long":-87.963312
   },
   {
     "id":397,
@@ -4887,8 +4887,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"430022",
     "LocRegion":"Greater China",
-    "Lat":30.584406,
-    "Long":114.274419
+    "Lat":30.5914861,
+    "Long":114.2575952
   },
   {
     "id":398,
@@ -4902,8 +4902,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"214028",
     "LocRegion":"Greater China",
-    "Lat":31.532913,
-    "Long":120.371968
+    "Lat":31.5397646,
+    "Long":120.3549313
   },
   {
     "id":399,
@@ -4917,8 +4917,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"214000",
     "LocRegion":"Greater China",
-    "Lat":31.578792,
-    "Long":120.298723
+    "Lat":31.574786,
+    "Long":120.299549
   },
   {
     "id":400,
@@ -4962,8 +4962,8 @@
     "LocCountryDescription":"China",
     "LocZipPostalCode":"710065",
     "LocRegion":"Greater China",
-    "Lat":34.203236,
-    "Long":108.906786
+    "Lat":null,
+    "Long":null
   },
   {
     "id":403,
@@ -5007,8 +5007,7 @@
     "LocCountryDescription":"Austria",
     "LocZipPostalCode":"4871",
     "LocRegion":"Western Europe",
-    "Lat":48.03729,
-    "Long":13.50097
+    "Lat":48.0389988,
+    "Long":13.4985673
   }
-]
-}
+]}
