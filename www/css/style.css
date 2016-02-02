@@ -16,9 +16,20 @@
 	font-size: 18px;
 }
 #cont{
-	padding-top: 90px;
+    position: fixed;
+    width: 100%;
+    z-index: -1;
 }
 #map {
 	width: 500px;
 	height: 300px;
+}
+#input{
+	position: fixed;
+    width: 100%;
+    z-index: 0;
+}
+#list{
+	padding-top: 10px;
+	position: fixed;
 }

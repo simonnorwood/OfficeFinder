@@ -10,7 +10,7 @@
     "LocCity":"Abu Dhabi",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"MENAT",
     "Lat":24.500237,
     "Long":54.388372
@@ -40,7 +40,7 @@
     "LocCity":"Abuja",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Nigeria",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Africa",
     "Lat":null,
     "Long":null
@@ -100,7 +100,7 @@
     "LocCity":"Algiers",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Algeria",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"MENAT",
     "Lat":36.7620099,
     "Long":3.0222151
@@ -505,7 +505,7 @@
     "LocCity":"Beijing",
     "LocStateProvinceDescription":"Beijing",
     "LocCountryDescription":"China",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Greater China",
     "Lat":null,
     "Long":null
@@ -865,7 +865,7 @@
     "LocCity":"Cairo",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Egypt",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"MENAT",
     "Lat":null,
     "Long":null
@@ -955,7 +955,7 @@
     "LocCity":"Chandigarh",
     "LocStateProvinceDescription":"Union Territories",
     "LocCountryDescription":"India",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"India",
     "Lat":null,
     "Long":null
@@ -1255,7 +1255,7 @@
     "LocCity":"Doha",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Qatar",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"MENAT",
     "Lat":null,
     "Long":null
@@ -1300,7 +1300,7 @@
     "LocCity":"Dubai",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"United Arab Emirates",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"MENAT",
     "Lat":null,
     "Long":null
@@ -1315,7 +1315,7 @@
     "LocCity":"Dublin",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Ireland",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Western Europe",
     "Lat":53.323045,
     "Long":-6.369442
@@ -1675,7 +1675,7 @@
     "LocCity":"Hanoi",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Viet Nam",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"ASEAN",
     "Lat":21.025188,
     "Long":105.844088
@@ -1810,7 +1810,7 @@
     "LocCity":"Ho Chi Minh",
     "LocStateProvinceDescription":"Ho Chi Minh",
     "LocCountryDescription":"Viet Nam",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"ASEAN",
     "Lat":null,
     "Long":null
@@ -2275,7 +2275,7 @@
     "LocCity":"Lagos",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Nigeria",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Africa",
     "Lat":null,
     "Long":null
@@ -2290,7 +2290,7 @@
     "LocCity":"Lanzhou",
     "LocStateProvinceDescription":"Gansu",
     "LocCountryDescription":"China",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Greater China",
     "Lat":36.050095,
     "Long":103.853941
@@ -2935,7 +2935,7 @@
     "LocCity":"Nanchang",
     "LocStateProvinceDescription":"Jiangxi",
     "LocCountryDescription":"China",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Greater China",
     "Lat":null,
     "Long":null
@@ -4165,7 +4165,7 @@
     "LocCity":"Szeged",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Hungary",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Eastern Europe",
     "Lat":46.249262,
     "Long":20.142813
@@ -4195,7 +4195,7 @@
     "LocCity":"Taichung",
     "LocStateProvinceDescription":"",
     "LocCountryDescription":"Taiwan",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Greater China",
     "Lat":24.141316,
     "Long":120.663648
@@ -4990,7 +4990,7 @@
     "LocCity":"Zhengzhou",
     "LocStateProvinceDescription":"Henan",
     "LocCountryDescription":"China",
-    "LocZipPostalCode":"N/A",
+    "LocZipPostalCode":null,
     "LocRegion":"Greater China",
     "Lat":null,
     "Long":null

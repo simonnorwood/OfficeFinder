@@ -1,12 +1,13 @@
 angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
 
 // api call to offices.json 
-.controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce) {
+.controller('APICtrl', function($scope, $http, $localstorage, $window, $state, $sce, $ionicScrollDelegate) {
 // Search function
-//var offices = [];
-var n;
-  $scope.query = {}
-  $scope.queryBy = '$'
+
+  $scope.query = {};
+  $scope.queryBy = '$';
+
+
 // gets the data from offices.json
  $http.get('js/offices.json').then(function(resp) {
     console.log('Success', resp);
