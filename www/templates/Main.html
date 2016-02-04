@@ -8,19 +8,19 @@
 	<ion-header-bar class="bar-subheader">
 	 	<label class="item item-input">
 			<i class="icon ion-search placeholder-icon"></i>
-			<input type="search" id="search-criteria" placeholder="City, Country or Office Name" ng-model="query[queryBy]">
+			<input type="search" id="search-criteria" placeholder="City, Country or Office Name" ng-model="query[queryBy]" ng-change="change()">
 		</label>
 	</ion-header-bar>
 	<!-- Search function ends here -->
 
-
-	<ion-content has-subheader>
+<ion-content>
+	<ion-pane has-subheader>
 		<!-- Main content starts here -->
 		<!-- ng-show hides the list of offices and displays them when the user starts searching  -->
 		<ion-list ng-if="query[queryBy]">
 		<!-- Creates each item through collection-repeat and is filtered by the query linked to the search field -->
 		<!-- ng-click opens the modal that will have the enlarged office address and the map of the office -->
-			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long); lastview(office.id);">
+			<ion-item class="item-text-wrap item-icon-right" id="output" collection-repeat="office in offices|filter:query[queryBy]" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long); lastview(office.id);">
 				<!-- Outputs all the data from offices.json -->
 				<h3 id="LocName">{{office.LocationName}}</h3>
 				<!-- the span prevents null data from being output causing empty space to be displayed -->
@@ -29,20 +29,24 @@
 				<!-- Creates the favourite icon on each list item, when the star is clicked the togglefav function is run -->
 				<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 			</ion-item>
-	</ion-list>
-
-
-	<ion-list id="cont">
+		</ion-list>
+	</ion-pane>
+</ion-content>
+<!-- <ion-content ng-if="!query[queryBy]" id="last">
+ 	<ion-pane>
+ 	<div id="pane">
+		<ion-list id="cont"> -->
 		<!-- Last view offices list -->
-		<div ng-if="!query[queryBy]">
-				<h3 class="title" id="text">Last Viewed</h3>
+			<!--	<h3 class="title" id="text">Last Viewed</h3> -->
 			<!-- the filter with this collection repeat runs the function ifinfav2 which only displays items in the localstorage -->
-				<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long);">
+			<!--	<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long);">
 				<h3>{{office.LocationName}}</h3>
 				<p id="details"><span ng-if="office.LocAddressLine1">{{office.LocAddressLine1}}</span><span ng-if="office.LocAddressLine2">, {{office.LocAddressLine2}}</span><span ng-if="office.LocCity">, {{office.LocCity}}</span><span ng-if="office.LocCountryDescription">, {{office.LocCountryDescription}}</span><span ng-if="office.LocZipPostalCode">, {{office.LocZipPostalCode}}</span></p>
 				<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
 				</ion-item>
+			</ion-list>
 		</div>
-		</ion-list>
-</ion-content>
+	</ion-pane>
+
+ </ion-content> -->
 </ion-view>

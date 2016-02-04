@@ -7,6 +7,7 @@ angular.module('starter.controllers', ['ionic.utils', 'ngCordova'])
   $scope.query = {};
   $scope.queryBy = '$';
 
+  console.log($scope.$digest);
 
 // gets the data from offices.json
  $http.get('js/offices.json').then(function(resp) {

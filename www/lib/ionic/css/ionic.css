@@ -3538,7 +3538,7 @@ ion-infinite-scroll {
   width: 100%;
   height: 100%;
   background-color: #fff;
-  overflow: hidden; }
+  overflow: ; }
 
 .view-container {
   position: absolute;
