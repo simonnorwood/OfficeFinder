@@ -8,7 +8,7 @@
 	<ion-header-bar class="bar-subheader">
 	 	<label class="item item-input">
 			<i class="icon ion-search placeholder-icon"></i>
-			<input type="search" id="search-criteria" placeholder="City, Country or Office Name" ng-model="query[queryBy]" ng-change="change()">
+			<input type="search" id="search-criteria" placeholder="City, Country or Office Name" ng-model="query[queryBy]">
 		</label>
 	</ion-header-bar>
 	<!-- Search function ends here -->
@@ -32,14 +32,14 @@
 		</ion-list>
 	</ion-pane>
 </ion-content>
-<!-- <ion-content ng-if="!query[queryBy]" id="last">
+<ion-content ng-show="!query[queryBy]">
  	<ion-pane>
  	<div id="pane">
-		<ion-list id="cont"> -->
+		<ion-list id="cont">
 		<!-- Last view offices list -->
-			<!--	<h3 class="title" id="text">Last Viewed</h3> -->
+			<h3 class="title" id="text">Last Viewed</h3>
 			<!-- the filter with this collection repeat runs the function ifinfav2 which only displays items in the localstorage -->
-			<!--	<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long);">
+			<ion-item id="fav" class="item-text-wrap item-icon-right" ng-repeat="office in offices|filter:ifinfav2" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long);">
 				<h3>{{office.LocationName}}</h3>
 				<p id="details"><span ng-if="office.LocAddressLine1">{{office.LocAddressLine1}}</span><span ng-if="office.LocAddressLine2">, {{office.LocAddressLine2}}</span><span ng-if="office.LocCity">, {{office.LocCity}}</span><span ng-if="office.LocCountryDescription">, {{office.LocCountryDescription}}</span><span ng-if="office.LocZipPostalCode">, {{office.LocZipPostalCode}}</span></p>
 				<i ng-class="{'icon ion-android-star': favicon(office.id), 'icon ion-android-star-outline': !favicon(office.id)}" ng-click="togglefav(office.id); $event.stopPropagation();"></i>
@@ -48,5 +48,5 @@
 		</div>
 	</ion-pane>
 
- </ion-content> -->
+ </ion-content>
 </ion-view>
