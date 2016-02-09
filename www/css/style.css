@@ -16,7 +16,6 @@
 	font-size: 18px;
 }
 #cont{
-    position: fixed;
     width: 100%;
     z-index: -1;
 }
@@ -28,8 +27,4 @@
 	position: fixed;
     width: 100%;
     z-index: 0;
-}
-#list{
-	padding-top: 10px;
-	position: fixed;
 }
