@@ -1,6 +1,6 @@
 <ion-view view-title="Favourites">
 <!-- template for the favourites page -->
-	<ion-content>
+	<ion-content on-swipe-right="onSwipeRight()">
 		<ion-list id="modal">
 		<!-- displays the items that the user has favourited through the filter function -->
 		<ion-item id="fav" class="item-icon-right item-text-wrap" collection-repeat="office in offices|filter:ifinfav1" ng-controller="ModalCtrl" ng-click="openModal(office.Lat, office.Long); lastview(office.id);">

@@ -73,6 +73,13 @@ var c = JSON.parse($window.localStorage['last']);
     }
 }
 
+$scope.onSwipeLeft = function (){
+  $state.go('Favourites');
+}
+
+$scope.onSwipeRight = function(){
+  $state.go('Main');
+}
 
 // used to change the favourites icon based on if its in the local storage or not
 
