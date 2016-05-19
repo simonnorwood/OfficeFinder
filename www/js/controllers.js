@@ -81,6 +81,10 @@ $scope.onSwipeRight = function(){
   $state.go('Main');
 }
 
+$scope.onSwipeLeft2 = function(){
+  $state.go('Main');
+}
+
 // used to change the favourites icon based on if its in the local storage or not
 
 $scope.favicon = function(office){

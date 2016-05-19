@@ -43,5 +43,12 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ionic.utils'])
         templateUrl: "templates/modal.html",
         controller: 'APICtrl'
   })
+
+    .state('Support',{
+    //cache: false,
+    url:'/Support',
+        templateUrl: "templates/Support.html",
+        controller: 'APICtrl'
+  })
   
 }])
